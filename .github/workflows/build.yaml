@@ -22,7 +22,7 @@ jobs:
       - run: mkdocs build
 
       - name: Minio Deploy
-        uses: lovellfelix/minio-deploy-action@v1
+        uses: lovellfelix/minio-deploy-action@v1.1.1
         with:
           endpoint: ${{ secrets.MINIO_ENDPOINT }}
           access_key: ${{ secrets.MINIO_ACCESS_KEY }}
