@@ -1,7 +1,7 @@
 # ISBN 错误
 ## <https://bgm.tv/group/topic/404801>
 
-total 698
+total 697
 
 请优先处理靠前的的条目
 
@@ -84,7 +84,6 @@ total 698
 | <https://bgm.tv/subject/175920> | 预期之外的 ISBN 格式 '8820002193157' |
 | <https://bgm.tv/subject/175921> | 预期之外的 ISBN 格式 '8820002193195' |
 | <https://bgm.tv/subject/175989> | 不是合法的 isbn13 '9784862692206' |
-| <https://bgm.tv/subject/176286> | 不是合法的 isbn10 '4799729472' |
 | <https://bgm.tv/subject/176867> | 不是合法的 isbn13 '9784778320123' |
 | <https://bgm.tv/subject/178002> | 不是合法的 isbn10 '4790110477' |
 | <https://bgm.tv/subject/178006> | 不是合法的 isbn10 '4790109136' |
