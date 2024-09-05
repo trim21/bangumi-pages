@@ -1,0 +1,5 @@
+.vscode/
+.idea/
+site/
+public/
+taskfile.yaml

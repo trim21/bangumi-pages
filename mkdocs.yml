@@ -1,0 +1,21 @@
+site_name: pages
+
+theme:
+  name: material
+  language: zh
+
+plugins:
+  - open-in-new-tab
+  - search
+
+site_dir: public
+
+repo_url: https://github.com/trim21/bep-zh/
+
+markdown_extensions:
+  - tables
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.snippets
+  - footnotes

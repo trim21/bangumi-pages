@@ -1,0 +1,33 @@
+on:
+  push:
+    branches:
+      - master
+
+
+jobs:
+  build:
+    permissions:
+      contents: write
+    runs-on: 'ubuntu-latest'
+    steps:
+      - uses: actions/checkout@v4
+      - name: Set up Python ${{ env.LATEST_PYTHON_VER }}
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - run: mkdocs build
+
+      - name: Minio Deploy
+        uses: lovellfelix/minio-deploy-action@v1
+        with:
+          endpoint: ${{ secrets.MINIO_ENDPOINT }}
+          access_key: ${{ secrets.MINIO_ACCESS_KEY }}
+          secret_key: ${{ secrets.MINIO_SECRET_KEY }}
+          bucket: 'bgm.tv'
+          # Optional inputs with their defaults:
+          source_dir: 'public'
+          target_dir: '/'
