@@ -1,7 +1,7 @@
 # ISBN 错误
 ## <https://bgm.tv/group/topic/404801>
 
-total 699
+total 698
 
 请优先处理靠前的的条目
 
@@ -103,7 +103,6 @@ total 699
 | <https://bgm.tv/subject/182720> | 不是合法的 isbn10 '4863495388' |
 | <https://bgm.tv/subject/182767> | 不是合法的 isbn10 '4894656765' |
 | <https://bgm.tv/subject/182768> | 不是合法的 isbn10 '4894656024' |
-| <https://bgm.tv/subject/182838> | 包含多个 ISBN, 请手动拆分 '978-4334910662（单行本）、978-4334776619（文库本）' |
 | <https://bgm.tv/subject/183127> | 不是合法的 isbn10 '4861054341' |
 | <https://bgm.tv/subject/183128> | 不是合法的 isbn10 '4861054358' |
 | <https://bgm.tv/subject/183273> | 不是合法的 isbn10 '4799208380' |
