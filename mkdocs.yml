@@ -10,7 +10,7 @@ plugins:
 
 site_dir: public
 
-repo_url: https://github.com/trim21/bep-zh/
+repo_url: https://github.com/trim21/bangumi-pages/
 
 use_directory_urls: false
 
