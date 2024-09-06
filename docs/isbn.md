@@ -1,7 +1,7 @@
 # ISBN 错误
 ## <https://bgm.tv/group/topic/404801>
 
-total 694
+total 693
 
 请优先处理靠前的的条目
 
@@ -692,7 +692,6 @@ total 694
 | <https://bgm.tv/subject/503823> | 不是合法的 isbn10 '4098604487' |
 | <https://bgm.tv/subject/507182> | 预期之外的 ISBN 格式 '4713006557817' |
 | <https://bgm.tv/subject/507686> | 不是合法的 isbn13 '9787541501261' |
-| <https://bgm.tv/subject/507936> | 预期之外的 ISBN 格式 '782754824187' |
 | <https://bgm.tv/subject/508833> | 预期之外的 ISBN 格式 '-' |
 | <https://bgm.tv/subject/508834> | 预期之外的 ISBN 格式 '-' |
 | <https://bgm.tv/subject/509615> | 预期之外的 ISBN 格式 '-' |
