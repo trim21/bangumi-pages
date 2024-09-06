@@ -1,15 +1,12 @@
 # ISBN 错误
 ## <https://bgm.tv/group/topic/404801>
 
-total 689
-
-请优先处理靠前的的条目
+total 688
 
 | url | error |
 | --- |  ---  |
 | <https://bgm.tv/subject/122180> | 预期之外的 ISBN 格式 '4719853889101' |
 | <https://bgm.tv/subject/122184> | 预期之外的 ISBN 格式 '4719853889095' |
-| <https://bgm.tv/subject/122862> | 包含多个 ISBN, 请手动拆分 '4048669796 / 9787551122500' |
 | <https://bgm.tv/subject/141513> | 预期之外的 ISBN 格式 '4910186141038' |
 | <https://bgm.tv/subject/149650> | 预期之外的 ISBN 格式 '2013071002581' |
 | <https://bgm.tv/subject/166719> | 预期之外的 ISBN 格式 '0060001771521' |
