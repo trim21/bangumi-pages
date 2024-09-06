@@ -1,7 +1,7 @@
 # ISBN 错误
 ## <https://bgm.tv/group/topic/404801>
 
-total 693
+total 691
 
 请优先处理靠前的的条目
 
@@ -145,8 +145,6 @@ total 693
 | <https://bgm.tv/subject/190891> | 不是合法的 isbn10 '4861172465' |
 | <https://bgm.tv/subject/190901> | 不是合法的 isbn10 '4894656987' |
 | <https://bgm.tv/subject/190902> | 不是合法的 isbn10 '4863495630' |
-| <https://bgm.tv/subject/191463> | 重复出现的 ISBN '9784072992692' |
-| <https://bgm.tv/subject/191491> | 重复出现的 ISBN '9784861558382' |
 | <https://bgm.tv/subject/191498> | 重复出现的 ISBN '9784575304848' |
 | <https://bgm.tv/subject/191830> | 不是合法的 isbn13 '9784575820118' |
 | <https://bgm.tv/subject/193382> | 不是合法的 isbn10 '4873060606' |
