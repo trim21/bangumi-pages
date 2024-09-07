@@ -1,7 +1,7 @@
 # ISBN 错误
 ## <https://bgm.tv/group/topic/404801>
 
-total 540
+total 528
 
 | url | error |
 | --- |  ---  |
@@ -62,23 +62,12 @@ total 540
 | <https://bgm.tv/subject/175919> | 预期之外的 ISBN 格式 '8820002193126' |
 | <https://bgm.tv/subject/175920> | 预期之外的 ISBN 格式 '8820002193157' |
 | <https://bgm.tv/subject/175921> | 预期之外的 ISBN 格式 '8820002193195' |
-| <https://bgm.tv/subject/175989> | 不是合法的 isbn13 '9784862692206' |
-| <https://bgm.tv/subject/176867> | 不是合法的 isbn13 '9784778320123' |
-| <https://bgm.tv/subject/178002> | 不是合法的 isbn10 '4790110477' |
-| <https://bgm.tv/subject/178006> | 不是合法的 isbn10 '4790109136' |
 | <https://bgm.tv/subject/178135> | 不是合法的 isbn13 '9788990230993' |
 | <https://bgm.tv/subject/178136> | 不是合法的 isbn13 '9788990230977' |
 | <https://bgm.tv/subject/178138> | 不是合法的 isbn13 '9788990230918' |
 | <https://bgm.tv/subject/178161> | 预期之外的 ISBN 格式 '978-482913814' |
-| <https://bgm.tv/subject/222257> | 包含多个不匹配的 ISBN |
-| <https://bgm.tv/subject/222258> | 包含多个不匹配的 ISBN |
-| <https://bgm.tv/subject/222259> | 包含多个不匹配的 ISBN |
-| <https://bgm.tv/subject/222260> | 包含多个不匹配的 ISBN |
 | <https://bgm.tv/subject/231065> | 包含多个不匹配的 ISBN |
 | <https://bgm.tv/subject/247976> | 包含多个不匹配的 ISBN |
-| <https://bgm.tv/subject/249050> | 包含多个 ISBN, 请手动拆分 'ISBN-10: 4592730771 ISBN-13: 978-4592730774' |
-| <https://bgm.tv/subject/249475> | 包含多个 ISBN, 请手动拆分 'ISBN-10: 4054053718 ISBN-13: 978-4054053717' |
-| <https://bgm.tv/subject/249476> | 包含多个 ISBN, 请手动拆分 'ISBN-10: 405405370X ISBN-13: 978-4054053700' |
 | <https://bgm.tv/subject/249477> | 包含多个 ISBN, 请手动拆分 'ISBN-10: 4757535449 ISBN-13: 978-4757535442' |
 | <https://bgm.tv/subject/249478> | 包含多个 ISBN, 请手动拆分 'ISBN-10: 1632362589 ISBN-13: 978-1632362582' |
 | <https://bgm.tv/subject/249609> | 包含多个 ISBN, 请手动拆分 'ISBN-10: 4091791425 ISBN-13: 978-4091791429' |
@@ -105,7 +94,6 @@ total 540
 | <https://bgm.tv/subject/259183> | 预期之外的 ISBN 格式 '471-0945552811' |
 | <https://bgm.tv/subject/259856> | 包含多个 ISBN, 请手动拆分 '9787501257492, 7501257493' |
 | <https://bgm.tv/subject/259858> | 包含多个 ISBN, 请手动拆分 '9787501257300 , 7501257302' |
-| <https://bgm.tv/subject/259888> | 包含多个不匹配的 ISBN |
 | <https://bgm.tv/subject/260205> | 不是合法的 isbn10 '4065117057' |
 | <https://bgm.tv/subject/260547> | 不是合法的 isbn10 '9576990280' |
 | <https://bgm.tv/subject/260894> | 预期之外的 ISBN 格式 '754272986' |
