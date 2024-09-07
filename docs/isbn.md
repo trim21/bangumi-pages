@@ -1,7 +1,7 @@
 # ISBN 错误
 ## <https://bgm.tv/group/topic/404801>
 
-total 435
+total 425
 
 | url | error |
 | --- |  ---  |
@@ -66,18 +66,8 @@ total 435
 | <https://bgm.tv/subject/255084> | 不是合法的 isbn10 '6000043278' |
 | <https://bgm.tv/subject/256392> | 预期之外的 ISBN 格式 'B00HRRNED4' |
 | <https://bgm.tv/subject/269433> | 预期之外的 ISBN 格式 '4712568602348' |
-| <https://bgm.tv/subject/285136> | 包含多个 ISBN, 请手动拆分 'ISBN-10: 4094201610 ISBN-13: 978-4094201611（新版 2000年 ISBN 4-09-420164-5）' |
-| <https://bgm.tv/subject/285137> | 包含多个 ISBN, 请手动拆分 'ISBN-10: 4094201629 ISBN-13: 978-4094201628' |
-| <https://bgm.tv/subject/285138> | 包含多个 ISBN, 请手动拆分 'ISBN-10: 4094201637 ISBN-13: 978-4094201635' |
-| <https://bgm.tv/subject/285139> | 包含多个 ISBN, 请手动拆分 'ISBN-10: 4094300619 ISBN-13: 978-4094300611' |
-| <https://bgm.tv/subject/288298> | 不是合法的 isbn10 '4041087237' |
-| <https://bgm.tv/subject/289798> | 预期之外的 ISBN 格式 '4589998402974' |
-| <https://bgm.tv/subject/293876> | 预期之外的 ISBN 格式 '4573478703118' |
 | <https://bgm.tv/subject/294211> | 预期之外的 ISBN 格式 '4571495880553' |
-| <https://bgm.tv/subject/297131> | 不是合法的 isbn10 '4040728247' |
-| <https://bgm.tv/subject/297133> | 不是合法的 isbn10 '4040731025' |
 | <https://bgm.tv/subject/298081> | 预期之外的 ISBN 格式 '4942330125915' |
-| <https://bgm.tv/subject/298748> | 不是合法的 isbn10 '4860329006' |
 | <https://bgm.tv/subject/298749> | 不是合法的 isbn10 '4860329976' |
 | <https://bgm.tv/subject/298750> | 不是合法的 isbn10 '4799201862' |
 | <https://bgm.tv/subject/299511> | 不是合法的 isbn13 '9784041091101' |
