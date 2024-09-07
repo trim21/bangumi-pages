@@ -152,7 +152,7 @@ total 425
 | <https://bgm.tv/subject/353690> | 预期之外的 ISBN 格式 '791190153768' |
 | <https://bgm.tv/subject/354183> | 不是合法的 isbn10 '2731600901' |
 | <https://bgm.tv/subject/354579> | 预期之外的 ISBN 格式 '978434138270' |
-| <https://bgm.tv/subject/354677> | 包含多个 ISBN, 请手动拆分 '978-4061822337(台)、4061822337(日)' |
+| <https://bgm.tv/subject/354677> | 预期之外的 ISBN 格式 '123test321find123354677354677' |
 | <https://bgm.tv/subject/355429> | 预期之外的 ISBN 格式 '4573478703446' |
 | <https://bgm.tv/subject/356634> | 预期之外的 ISBN 格式 '192' |
 | <https://bgm.tv/subject/356862> | 预期之外的 ISBN 格式 '978486436' |
