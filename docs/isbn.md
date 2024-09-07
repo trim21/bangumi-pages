@@ -1,7 +1,7 @@
 # ISBN 错误
 ## <https://bgm.tv/group/topic/404801>
 
-total 474
+total 467
 
 | url | error |
 | --- |  ---  |
@@ -63,13 +63,6 @@ total 474
 | <https://bgm.tv/subject/175920> | 预期之外的 ISBN 格式 '8820002193157' |
 | <https://bgm.tv/subject/175921> | 预期之外的 ISBN 格式 '8820002193195' |
 | <https://bgm.tv/subject/247976> | 包含多个不匹配的 ISBN |
-| <https://bgm.tv/subject/249609> | 包含多个 ISBN, 请手动拆分 'ISBN-10: 4091791425 ISBN-13: 978-4091791429' |
-| <https://bgm.tv/subject/249610> | 包含多个 ISBN, 请手动拆分 'ISBN-10: 4091791409 ISBN-13: 978-4091791405' |
-| <https://bgm.tv/subject/249611> | 包含多个 ISBN, 请手动拆分 'ISBN-10: 4091791387 ISBN-13: 978-4091791382' |
-| <https://bgm.tv/subject/249612> | 包含多个 ISBN, 请手动拆分 'ISBN-10: 4091791433 ISBN-13: 978-4091791436' |
-| <https://bgm.tv/subject/249613> | 包含多个 ISBN, 请手动拆分 'ISBN-10: 4592732006 ISBN-13: 978-4592732006' |
-| <https://bgm.tv/subject/249614> | 包含多个 ISBN, 请手动拆分 'ISBN-10: 4592131797 ISBN-13: 978-4592131793' |
-| <https://bgm.tv/subject/249615> | 包含多个 ISBN, 请手动拆分 'ISBN-10: 4592720040 ISBN-13: 978-4592720041' |
 | <https://bgm.tv/subject/249616> | 包含多个 ISBN, 请手动拆分 'ISBN-10: 4592731212 ISBN-13: 978-4592731214' |
 | <https://bgm.tv/subject/249617> | 包含多个 ISBN, 请手动拆分 'ISBN-10: 4592731247 ISBN-13: 978-4592731245' |
 | <https://bgm.tv/subject/249618> | 包含多个 ISBN, 请手动拆分 'ISBN-10: 4592720172 ISBN-13: 978-4592720171' |
