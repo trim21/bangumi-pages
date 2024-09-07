@@ -1,7 +1,7 @@
 # ISBN 错误
 ## <https://bgm.tv/group/topic/404801>
 
-total 467
+total 435
 
 | url | error |
 | --- |  ---  |
@@ -63,41 +63,9 @@ total 467
 | <https://bgm.tv/subject/175920> | 预期之外的 ISBN 格式 '8820002193157' |
 | <https://bgm.tv/subject/175921> | 预期之外的 ISBN 格式 '8820002193195' |
 | <https://bgm.tv/subject/247976> | 包含多个不匹配的 ISBN |
-| <https://bgm.tv/subject/249616> | 包含多个 ISBN, 请手动拆分 'ISBN-10: 4592731212 ISBN-13: 978-4592731214' |
-| <https://bgm.tv/subject/249617> | 包含多个 ISBN, 请手动拆分 'ISBN-10: 4592731247 ISBN-13: 978-4592731245' |
-| <https://bgm.tv/subject/249618> | 包含多个 ISBN, 请手动拆分 'ISBN-10: 4592720172 ISBN-13: 978-4592720171' |
-| <https://bgm.tv/subject/249821> | 包含多个 ISBN, 请手动拆分 'ISBN-10: 4091670687 ISBN-13: 978-4091670687' |
-| <https://bgm.tv/subject/249844> | 包含多个 ISBN, 请手动拆分 'ISBN-10: 4091670792 ISBN-13: 978-4091670793' |
-| <https://bgm.tv/subject/252807> | 包含多个 ISBN, 请手动拆分 'ISBN-10: 4592212371 ISBN-13: 978-4592212379' |
 | <https://bgm.tv/subject/255084> | 不是合法的 isbn10 '6000043278' |
 | <https://bgm.tv/subject/256392> | 预期之外的 ISBN 格式 'B00HRRNED4' |
 | <https://bgm.tv/subject/269433> | 预期之外的 ISBN 格式 '4712568602348' |
-| <https://bgm.tv/subject/281049> | 包含多个 ISBN, 请手动拆分 '4088618688 / 978-4088618685' |
-| <https://bgm.tv/subject/283184> | 预期之外的 ISBN 格式 '4933032010241' |
-| <https://bgm.tv/subject/283263> | 预期之外的 ISBN 格式 '97814832271111' |
-| <https://bgm.tv/subject/283787> | 包含多个 ISBN, 请手动拆分 'ISBN-10: 4091320449 ISBN-13: 978-4091320445' |
-| <https://bgm.tv/subject/283788> | 包含多个 ISBN, 请手动拆分 'ISBN-10: 4091326994 ISBN-13: 978-4091326997' |
-| <https://bgm.tv/subject/283790> | 包含多个 ISBN, 请手动拆分 'ISBN-10: 4091370241 ISBN-13: 978-4091370242' |
-| <https://bgm.tv/subject/283839> | 包含多个 ISBN, 请手动拆分 'ISBN-10: 409137025X ISBN-13: 978-4091370259' |
-| <https://bgm.tv/subject/283840> | 包含多个 ISBN, 请手动拆分 'ISBN-10: 4091370268 ISBN-13: 978-4091370266' |
-| <https://bgm.tv/subject/283841> | 包含多个 ISBN, 请手动拆分 'ISBN-10: 4091370276 ISBN-13: 978-4091370273' |
-| <https://bgm.tv/subject/283842> | 包含多个 ISBN, 请手动拆分 'ISBN-10: 4091324312 ISBN-13: 978-4091324313' |
-| <https://bgm.tv/subject/284395> | 预期之外的 ISBN 格式 '4571284846081' |
-| <https://bgm.tv/subject/284423> | 包含多个 ISBN, 请手动拆分 'ISBN-10: 4091324320 ISBN-13: 978-4091324320' |
-| <https://bgm.tv/subject/284424> | 包含多个 ISBN, 请手动拆分 'ISBN-10: 4091324339 ISBN-13: 978-4091324337' |
-| <https://bgm.tv/subject/284426> | 包含多个 ISBN, 请手动拆分 'ISBN-10: 4091324347 ISBN-13: 978-4091324344' |
-| <https://bgm.tv/subject/284433> | 包含多个 ISBN, 请手动拆分 'ISBN-10: 4091324363 ISBN-13: 978-4091324368' |
-| <https://bgm.tv/subject/284435> | 包含多个 ISBN, 请手动拆分 'ISBN-10: 4091324371 ISBN-13: 978-4091324375' |
-| <https://bgm.tv/subject/284438> | 包含多个 ISBN, 请手动拆分 'ISBN-10: 409132438X ISBN-13: 978-4091324382' |
-| <https://bgm.tv/subject/284439> | 包含多个 ISBN, 请手动拆分 'ISBN-10: 4091324398 ISBN-13: 978-4091324399' |
-| <https://bgm.tv/subject/284440> | 包含多个 ISBN, 请手动拆分 'ISBN-10: 4091324401 ISBN-13: 978-4091324405' |
-| <https://bgm.tv/subject/284442> | 包含多个 ISBN, 请手动拆分 'ISBN-10: 4091370225 ISBN-13: 978-4091370228' |
-| <https://bgm.tv/subject/284450> | 包含多个 ISBN, 请手动拆分 'ISBN-10: 4099071243 ISBN-13: 978-4099071240' |
-| <https://bgm.tv/subject/284451> | 包含多个 ISBN, 请手动拆分 'ISBN-10: 4091370233 ISBN-13: 978-4091370235' |
-| <https://bgm.tv/subject/284473> | 预期之外的 ISBN 格式 '4534530859365' |
-| <https://bgm.tv/subject/284567> | 包含多个 ISBN, 请手动拆分 '4073100831 978-4073100836' |
-| <https://bgm.tv/subject/285133> | 包含多个 ISBN, 请手动拆分 'ISBN-10: 4091997414 ISBN-13: 978-4091997418' |
-| <https://bgm.tv/subject/285135> | 包含多个 ISBN, 请手动拆分 'ISBN-10: 4091997422 ISBN-13: 978-4091997425' |
 | <https://bgm.tv/subject/285136> | 包含多个 ISBN, 请手动拆分 'ISBN-10: 4094201610 ISBN-13: 978-4094201611（新版 2000年 ISBN 4-09-420164-5）' |
 | <https://bgm.tv/subject/285137> | 包含多个 ISBN, 请手动拆分 'ISBN-10: 4094201629 ISBN-13: 978-4094201628' |
 | <https://bgm.tv/subject/285138> | 包含多个 ISBN, 请手动拆分 'ISBN-10: 4094201637 ISBN-13: 978-4094201635' |
