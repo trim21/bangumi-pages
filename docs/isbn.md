@@ -1,7 +1,7 @@
 # ISBN 错误
 ## <https://bgm.tv/group/topic/404801>
 
-total 393
+total 385
 
 | url | error |
 | --- |  ---  |
@@ -67,15 +67,8 @@ total 393
 | <https://bgm.tv/subject/269433> | 预期之外的 ISBN 格式 '4712568602348' |
 | <https://bgm.tv/subject/294211> | 预期之外的 ISBN 格式 '4571495880553' |
 | <https://bgm.tv/subject/298081> | 预期之外的 ISBN 格式 '4942330125915' |
-| <https://bgm.tv/subject/298749> | 不是合法的 isbn10 '4860329976' |
-| <https://bgm.tv/subject/298750> | 不是合法的 isbn10 '4799201862' |
-| <https://bgm.tv/subject/299511> | 不是合法的 isbn13 '9784041091101' |
-| <https://bgm.tv/subject/299965> | 不是合法的 isbn10 '4799206157' |
 | <https://bgm.tv/subject/300549> | 预期之外的 ISBN 格式 '上册：9784757501683' |
-| <https://bgm.tv/subject/302173> | 预期之外的 ISBN 格式 '4529790602004' |
-| <https://bgm.tv/subject/302174> | 预期之外的 ISBN 格式 '4529790602295' |
 | <https://bgm.tv/subject/302237> | 预期之外的 ISBN 格式 'B07YNMMN21' |
-| <https://bgm.tv/subject/302436> | 预期之外的 ISBN 格式 '4562250641670' |
 | <https://bgm.tv/subject/303574> | 包含多个 ISBN, 请手动拆分 '1-56389-488-2, 1-56389-743-1, 1-4012-0411-2' |
 | <https://bgm.tv/subject/306331> | 预期之外的 ISBN 格式 '4712568600900' |
 | <https://bgm.tv/subject/309920> | 多个ISBN无注释 |
@@ -99,7 +92,6 @@ total 393
 | <https://bgm.tv/subject/327769> | 预期之外的 ISBN 格式 'B08T93885Z' |
 | <https://bgm.tv/subject/328426> | 预期之外的 ISBN 格式 '4942330019672' |
 | <https://bgm.tv/subject/328626> | 预期之外的 ISBN 格式 '4712960841406' |
-| <https://bgm.tv/subject/329845> | 预期之外的 ISBN 格式 'ホビージャパン' |
 | <https://bgm.tv/subject/331358> | 预期之外的 ISBN 格式 'B00007CGAE' |
 | <https://bgm.tv/subject/331745> | 预期之外的 ISBN 格式 '4573477882029 13' |
 | <https://bgm.tv/subject/335482> | 预期之外的 ISBN 格式 '4573478310293' |
