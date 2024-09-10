@@ -1,7 +1,7 @@
 # ISBN 错误
 ## <https://bgm.tv/group/topic/404801>
 
-total 320
+total 310
 
 | url | error |
 | --- |  ---  |
@@ -81,19 +81,9 @@ total 320
 | <https://bgm.tv/subject/354677> | 预期之外的 ISBN 格式 '123test321find123354677354677' |
 | <https://bgm.tv/subject/355429> | 预期之外的 ISBN 格式 '4573478703446' |
 | <https://bgm.tv/subject/360618> | 预期之外的 ISBN 格式 'A000219082' |
-| <https://bgm.tv/subject/365991> | 预期之外的 ISBN 格式 '471094556107-3' |
-| <https://bgm.tv/subject/365994> | 预期之外的 ISBN 格式 '471060104454-4' |
 | <https://bgm.tv/subject/376035> | 预期之外的 ISBN 格式 '9771671722133' |
 | <https://bgm.tv/subject/376036> | 预期之外的 ISBN 格式 '9771671722119' |
 | <https://bgm.tv/subject/377940> | 不是合法的 isbn13 '9789997198111' |
-| <https://bgm.tv/subject/379574> | 预期之外的 ISBN 格式 '1002-2716' |
-| <https://bgm.tv/subject/379614> | 不是合法的 isbn13 '9794894658349' |
-| <https://bgm.tv/subject/384012> | 预期之外的 ISBN 格式 '978-404681410' |
-| <https://bgm.tv/subject/385440> | 预期之外的 ISBN 格式 '978–4823603105' |
-| <https://bgm.tv/subject/387583> | 预期之外的 ISBN 格式 '1,047' |
-| <https://bgm.tv/subject/394603> | 预期之外的 ISBN 格式 '97848677174050' |
-| <https://bgm.tv/subject/396018> | 包含多个 ISBN, 请手动拆分 '4063491544、4063491781' |
-| <https://bgm.tv/subject/398409> | 预期之外的 ISBN 格式 '1920093012003' |
 | <https://bgm.tv/subject/399400> | 包含多个 ISBN, 请手动拆分 '978-4041074411（单行本）、978-4041091326（文库本）' |
 | <https://bgm.tv/subject/400532> | 包含多个 ISBN, 请手动拆分 '978-4041019979（初版）、978-4041062289（角川文库版）' |
 | <https://bgm.tv/subject/400857> | 不是合法的 isbn10 '4087821895' |
