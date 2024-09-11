@@ -1,7 +1,7 @@
 # ISBN 错误
 ## <https://bgm.tv/group/topic/404801>
 
-total 265
+total 266
 
 | url | error |
 | --- |  ---  |
@@ -270,3 +270,4 @@ total 265
 | <https://bgm.tv/subject/509627> | 预期之外的 ISBN 格式 '待查' |
 | <https://bgm.tv/subject/511198> | 预期之外的 ISBN 格式 '待查' |
 | <https://bgm.tv/subject/511219> | 预期之外的 ISBN 格式 '待查' |
+| <https://bgm.tv/subject/512413> | 预期之外的 ISBN 格式 '2014年 5月 15日' |
