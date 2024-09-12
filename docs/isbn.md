@@ -1,7 +1,7 @@
 # ISBN 错误
 ## <https://bgm.tv/group/topic/404801>
 
-total 215
+total 214
 
 | url | error |
 | --- |  ---  |
@@ -70,7 +70,6 @@ total 215
 | <https://bgm.tv/subject/306331> | 预期之外的 ISBN 格式 '4712568600900' |
 | <https://bgm.tv/subject/309920> | 多个ISBN无注释 |
 | <https://bgm.tv/subject/310360> | 预期之外的 ISBN 格式 '4712831760614' |
-| <https://bgm.tv/subject/311159> | 包含多个 ISBN, 请手动拆分 'ISBN 978-4093792646（上） ISBN 978-4093792653（下） ISBN 978-4101369242（文庫本）' |
 | <https://bgm.tv/subject/311443> | 预期之外的 ISBN 格式 '9771671688187' |
 | <https://bgm.tv/subject/319809> | 预期之外的 ISBN 格式 '4712568600634' |
 | <https://bgm.tv/subject/319811> | 预期之外的 ISBN 格式 '4712568600993' |
