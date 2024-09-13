@@ -1,11 +1,10 @@
 # ISBN 错误
 ## <https://bgm.tv/group/topic/404801>
 
-total 201
+total 190
 
 | url | error |
 | --- |  ---  |
-| <https://bgm.tv/subject/141513> | 预期之外的 ISBN 格式 '4910186141038' |
 | <https://bgm.tv/subject/149650> | 预期之外的 ISBN 格式 '2013071002581' |
 | <https://bgm.tv/subject/166719> | 预期之外的 ISBN 格式 '0060001771521' |
 | <https://bgm.tv/subject/166720> | 预期之外的 ISBN 格式 '0060001772481' |
@@ -61,17 +60,7 @@ total 201
 | <https://bgm.tv/subject/175920> | 预期之外的 ISBN 格式 '8820002193157' |
 | <https://bgm.tv/subject/175921> | 预期之外的 ISBN 格式 '8820002193195' |
 | <https://bgm.tv/subject/255084> | 不是合法的 isbn10 '6000043278' |
-| <https://bgm.tv/subject/269433> | 预期之外的 ISBN 格式 '4712568602348' |
-| <https://bgm.tv/subject/306331> | 预期之外的 ISBN 格式 '4712568600900' |
-| <https://bgm.tv/subject/311443> | 预期之外的 ISBN 格式 '9771671688187' |
-| <https://bgm.tv/subject/319809> | 预期之外的 ISBN 格式 '4712568600634' |
-| <https://bgm.tv/subject/319811> | 预期之外的 ISBN 格式 '4712568600993' |
-| <https://bgm.tv/subject/319812> | 预期之外的 ISBN 格式 '4712568601082' |
-| <https://bgm.tv/subject/319813> | 预期之外的 ISBN 格式 '4712568601204' |
-| <https://bgm.tv/subject/323193> | 预期之外的 ISBN 格式 '4710945557960' |
-| <https://bgm.tv/subject/328626> | 预期之外的 ISBN 格式 '4712960841406' |
 | <https://bgm.tv/subject/354677> | 预期之外的 ISBN 格式 '123test321find123354677354677' |
-| <https://bgm.tv/subject/355429> | 预期之外的 ISBN 格式 '4573478703446' |
 | <https://bgm.tv/subject/360618> | 预期之外的 ISBN 格式 'A000219082' |
 | <https://bgm.tv/subject/376035> | 预期之外的 ISBN 格式 '9771671722133' |
 | <https://bgm.tv/subject/376036> | 预期之外的 ISBN 格式 '9771671722119' |
