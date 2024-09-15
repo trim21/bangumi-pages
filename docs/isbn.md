@@ -1,7 +1,7 @@
 # ISBN 错误
 ## <https://bgm.tv/group/topic/404801>
 
-total 183
+total 148
 
 | url | error |
 | --- |  ---  |
@@ -91,21 +91,7 @@ total 183
 | <https://bgm.tv/subject/431106> | 不是合法的 isbn13 '9789887479271' |
 | <https://bgm.tv/subject/431477> | 预期之外的 ISBN 格式 '4711213664403' |
 | <https://bgm.tv/subject/431976> | 预期之外的 ISBN 格式 '6974882251307' |
-| <https://bgm.tv/subject/432272> | 预期之外的 ISBN 格式 '4571495881192' |
-| <https://bgm.tv/subject/432420> | 预期之外的 ISBN 格式 '4571495880942' |
-| <https://bgm.tv/subject/432422> | 预期之外的 ISBN 格式 '4571495880065' |
-| <https://bgm.tv/subject/432423> | 预期之外的 ISBN 格式 '4571495880072' |
-| <https://bgm.tv/subject/432424> | 预期之外的 ISBN 格式 '4571495880225' |
-| <https://bgm.tv/subject/432426> | 预期之外的 ISBN 格式 '4571495880522' |
-| <https://bgm.tv/subject/432428> | 预期之外的 ISBN 格式 '4571495881734' |
-| <https://bgm.tv/subject/432429> | 预期之外的 ISBN 格式 '4571495881321' |
-| <https://bgm.tv/subject/432431> | 预期之外的 ISBN 格式 '4571495880744' |
-| <https://bgm.tv/subject/432434> | 预期之外的 ISBN 格式 '4573478310897' |
 | <https://bgm.tv/subject/433392> | 预期之外的 ISBN 格式 '10173-303' |
-| <https://bgm.tv/subject/437939> | 预期之外的 ISBN 格式 '4571576770438' |
-| <https://bgm.tv/subject/438296> | 预期之外的 ISBN 格式 '978 4 86501 449 5' |
-| <https://bgm.tv/subject/440755> | 预期之外的 ISBN 格式 '-' |
-| <https://bgm.tv/subject/440756> | 预期之外的 ISBN 格式 '-' |
 | <https://bgm.tv/subject/440775> | 预期之外的 ISBN 格式 '-' |
 | <https://bgm.tv/subject/440776> | 预期之外的 ISBN 格式 '-' |
 | <https://bgm.tv/subject/440777> | 预期之外的 ISBN 格式 '-' |
@@ -115,27 +101,6 @@ total 183
 | <https://bgm.tv/subject/440783> | 预期之外的 ISBN 格式 '-' |
 | <https://bgm.tv/subject/440784> | 预期之外的 ISBN 格式 '-' |
 | <https://bgm.tv/subject/440785> | 预期之外的 ISBN 格式 '-' |
-| <https://bgm.tv/subject/440786> | 预期之外的 ISBN 格式 '-' |
-| <https://bgm.tv/subject/440846> | 预期之外的 ISBN 格式 '-' |
-| <https://bgm.tv/subject/441700> | 预期之外的 ISBN 格式 '-' |
-| <https://bgm.tv/subject/443634> | 预期之外的 ISBN 格式 '4942330182383' |
-| <https://bgm.tv/subject/443846> | 预期之外的 ISBN 格式 '8910122502514' |
-| <https://bgm.tv/subject/444333> | 预期之外的 ISBN 格式 '4942330120392' |
-| <https://bgm.tv/subject/444404> | 预期之外的 ISBN 格式 '4718016042377' |
-| <https://bgm.tv/subject/444405> | 预期之外的 ISBN 格式 '4718016026247' |
-| <https://bgm.tv/subject/445258> | 预期之外的 ISBN 格式 '4712568600825' |
-| <https://bgm.tv/subject/446648> | 预期之外的 ISBN 格式 'B0BQ99L5Z2' |
-| <https://bgm.tv/subject/446654> | 预期之外的 ISBN 格式 'B08T43FJVN' |
-| <https://bgm.tv/subject/446867> | 预期之外的 ISBN 格式 'B0007EV29W' |
-| <https://bgm.tv/subject/447164> | 预期之外的 ISBN 格式 '4713006555677' |
-| <https://bgm.tv/subject/447441> | 预期之外的 ISBN 格式 '4713006544466' |
-| <https://bgm.tv/subject/447496> | 预期之外的 ISBN 格式 '4713006544794' |
-| <https://bgm.tv/subject/447499> | 预期之外的 ISBN 格式 '4713006555356' |
-| <https://bgm.tv/subject/447500> | 预期之外的 ISBN 格式 '4713006555288' |
-| <https://bgm.tv/subject/447513> | 预期之外的 ISBN 格式 '4713006556001' |
-| <https://bgm.tv/subject/447560> | 预期之外的 ISBN 格式 '4713006556315' |
-| <https://bgm.tv/subject/447561> | 预期之外的 ISBN 格式 '4713006556841' |
-| <https://bgm.tv/subject/447562> | 预期之外的 ISBN 格式 '4713006556612' |
 | <https://bgm.tv/subject/448104> | 不是合法的 isbn13 '9789887479235' |
 | <https://bgm.tv/subject/448293> | 不是合法的 isbn13 '9789887479211' |
 | <https://bgm.tv/subject/448580> | 多个ISBN无注释 |
