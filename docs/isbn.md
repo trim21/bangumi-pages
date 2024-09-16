@@ -1,7 +1,7 @@
 # ISBN 错误
 ## <https://bgm.tv/group/topic/404801>
 
-total 127
+total 126
 
 | url | error |
 | --- |  ---  |
@@ -111,7 +111,6 @@ total 127
 | <https://bgm.tv/subject/470463> | 预期之外的 ISBN 格式 '-' |
 | <https://bgm.tv/subject/470471> | 预期之外的 ISBN 格式 '-' |
 | <https://bgm.tv/subject/470524> | 预期之外的 ISBN 格式 '-' |
-| <https://bgm.tv/subject/470525> | 预期之外的 ISBN 格式 '-' |
 | <https://bgm.tv/subject/473599> | 预期之外的 ISBN 格式 '4895073700720' |
 | <https://bgm.tv/subject/477471> | 预期之外的 ISBN 格式 '-' |
 | <https://bgm.tv/subject/477472> | 预期之外的 ISBN 格式 '-' |
