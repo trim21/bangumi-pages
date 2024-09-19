@@ -1,7 +1,7 @@
 # ISBN 错误
 ## <https://bgm.tv/group/topic/404801>
 
-total 122
+total 119
 
 | url | error |
 | --- |  ---  |
@@ -84,8 +84,6 @@ total 122
 | <https://bgm.tv/subject/440785> | 预期之外的 ISBN 格式 '-' |
 | <https://bgm.tv/subject/448104> | 不是合法的 isbn13 '9789887479235' |
 | <https://bgm.tv/subject/448293> | 不是合法的 isbn13 '9789887479211' |
-| <https://bgm.tv/subject/448580> | 多个ISBN无注释 |
-| <https://bgm.tv/subject/449528> | 预期之外的 ISBN 格式 '894050781' |
 | <https://bgm.tv/subject/458249> | 预期之外的 ISBN 格式 '-' |
 | <https://bgm.tv/subject/458251> | 预期之外的 ISBN 格式 '-' |
 | <https://bgm.tv/subject/458252> | 预期之外的 ISBN 格式 '-' |
@@ -98,7 +96,6 @@ total 122
 | <https://bgm.tv/subject/458260> | 预期之外的 ISBN 格式 '-' |
 | <https://bgm.tv/subject/458264> | 预期之外的 ISBN 格式 '-' |
 | <https://bgm.tv/subject/465228> | 不是合法的 isbn10 '7223019826' |
-| <https://bgm.tv/subject/465983> | 预期之外的 ISBN 格式 '827714191233' |
 | <https://bgm.tv/subject/467126> | 预期之外的 ISBN 格式 '-' |
 | <https://bgm.tv/subject/467128> | 预期之外的 ISBN 格式 '-' |
 | <https://bgm.tv/subject/467129> | 预期之外的 ISBN 格式 '-' |
