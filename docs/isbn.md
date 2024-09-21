@@ -69,7 +69,6 @@ total 119
 | <https://bgm.tv/subject/422730> | 预期之外的 ISBN 格式 '无' |
 | <https://bgm.tv/subject/423984> | 预期之外的 ISBN 格式 '185006330001' |
 | <https://bgm.tv/subject/426943> | 预期之外的 ISBN 格式 '9771671688163' |
-| <https://bgm.tv/subject/429925> | 预期之外的 ISBN 格式 '6658741' |
 | <https://bgm.tv/subject/431106> | 不是合法的 isbn13 '9789887479271' |
 | <https://bgm.tv/subject/431477> | 预期之外的 ISBN 格式 '4711213664403' |
 | <https://bgm.tv/subject/431976> | 预期之外的 ISBN 格式 '6974882251307' |
@@ -124,3 +123,4 @@ total 119
 | <https://bgm.tv/subject/509627> | 预期之外的 ISBN 格式 '待查' |
 | <https://bgm.tv/subject/511198> | 预期之外的 ISBN 格式 '待查' |
 | <https://bgm.tv/subject/511219> | 预期之外的 ISBN 格式 '待查' |
+| <https://bgm.tv/subject/514335> | 预期之外的 ISBN 格式 '978489048436-' |
