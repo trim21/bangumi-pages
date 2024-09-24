@@ -1,7 +1,7 @@
 # ISBN 错误
 ## <https://bgm.tv/group/topic/404801>
 
-total 118
+total 119
 
 | url | error |
 | --- |  ---  |
@@ -123,3 +123,4 @@ total 118
 | <https://bgm.tv/subject/509627> | 预期之外的 ISBN 格式 '待查' |
 | <https://bgm.tv/subject/511198> | 预期之外的 ISBN 格式 '待查' |
 | <https://bgm.tv/subject/511219> | 预期之外的 ISBN 格式 '待查' |
+| <https://bgm.tv/subject/515019> | 预期之外的 ISBN 格式 'ISBN4-925148-99-0' |
