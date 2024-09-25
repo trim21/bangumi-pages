@@ -1,10 +1,11 @@
 # ISBN 错误
 ## <https://bgm.tv/group/topic/404801>
 
-total 116
+total 117
 
 | url | error |
 | --- |  ---  |
+| <https://bgm.tv/subject/9443> | 多个ISBN无注释 |
 | <https://bgm.tv/subject/149650> | 预期之外的 ISBN 格式 '2013071002581' |
 | <https://bgm.tv/subject/166719> | 预期之外的 ISBN 格式 '0060001771521' |
 | <https://bgm.tv/subject/166720> | 预期之外的 ISBN 格式 '0060001772481' |
