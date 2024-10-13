@@ -1,7 +1,7 @@
 # ISBN 错误
 ## <https://bgm.tv/group/topic/404801>
 
-total 116
+total 122
 
 | url | error |
 | --- |  ---  |
@@ -121,3 +121,9 @@ total 116
 | <https://bgm.tv/subject/509627> | 预期之外的 ISBN 格式 <code>待查</code> |
 | <https://bgm.tv/subject/511198> | 预期之外的 ISBN 格式 <code>待查</code> |
 | <https://bgm.tv/subject/511219> | 预期之外的 ISBN 格式 <code>待查</code> |
+| <https://bgm.tv/subject/518660> | 包含多个不匹配的 ISBN |
+| <https://bgm.tv/subject/518662> | 包含多个不匹配的 ISBN |
+| <https://bgm.tv/subject/518664> | 包含多个不匹配的 ISBN |
+| <https://bgm.tv/subject/518665> | 包含多个不匹配的 ISBN |
+| <https://bgm.tv/subject/518666> | 包含多个不匹配的 ISBN |
+| <https://bgm.tv/subject/518667> | 包含多个不匹配的 ISBN |
