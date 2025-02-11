@@ -1,7 +1,7 @@
 # ISBN 错误
 ## <https://bgm.tv/group/topic/404801>
 
-total 130
+total 138
 
 | url | error |
 | --- |  ---  |
@@ -132,6 +132,14 @@ total 130
 | <https://bgm.tv/subject/511219> | 预期之外的 ISBN 格式 `待查` |
 | <https://bgm.tv/subject/525331> | 不是合法的 isbn13 <code>9788992573222</code> |
 | <https://bgm.tv/subject/527380> | 预期之外的 ISBN 格式 `978754004573` |
-| <https://bgm.tv/subject/528561> | 预期之外的 ISBN 格式 `BN01394916` |
 | <https://bgm.tv/subject/528937> | 预期之外的 ISBN 格式 `4713227497886` |
 | <https://bgm.tv/subject/530549> | 不是合法的 isbn13 <code>9781964153228</code> |
+| <https://bgm.tv/subject/534093> | 预期之外的 ISBN 格式 `‎9784063724950` |
+| <https://bgm.tv/subject/534687> | 预期之外的 ISBN 格式 `‎978-4065380475` |
+| <https://bgm.tv/subject/534827> | 预期之外的 ISBN 格式 `9704088743516` |
+| <https://bgm.tv/subject/535763> | 预期之外的 ISBN 格式 `97894785977252` |
+| <https://bgm.tv/subject/536003> | 预期之外的 ISBN 格式 `‎9784046843852` |
+| <https://bgm.tv/subject/536077> | 预期之外的 ISBN 格式 `‎978-4845867677` |
+| <https://bgm.tv/subject/536111> | 预期之外的 ISBN 格式 `‎9784845839216` |
+| <https://bgm.tv/subject/536217> | 预期之外的 ISBN 格式 `‎9784785956196` |
+| <https://bgm.tv/subject/536648> | 不是合法的 isbn13 <code>9781964153328</code> |
