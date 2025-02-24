@@ -1,12 +1,15 @@
 # ISBN 错误
 ## <https://bgm.tv/group/topic/404801>
 
-total 142
+total 145
 
 | url | error |
 | --- |  ---  |
 | <https://bgm.tv/subject/1297> | 包含多个不匹配的 ISBN |
 | <https://bgm.tv/subject/47300> | 预期之外的 ISBN 格式 `97840471359` |
+| <https://bgm.tv/subject/88596> | 重复出现的 ISBN '9784840153423' |
+| <https://bgm.tv/subject/121898> | 重复出现的 ISBN '9784840153430' |
+| <https://bgm.tv/subject/121901> | 重复出现的 ISBN '9784840153409' |
 | <https://bgm.tv/subject/149650> | 预期之外的 ISBN 格式 `2013071002581` |
 | <https://bgm.tv/subject/164351> | 预期之外的 ISBN 格式 `276+3` |
 | <https://bgm.tv/subject/166719> | 预期之外的 ISBN 格式 `0060001771521` |
@@ -77,7 +80,6 @@ total 142
 | <https://bgm.tv/subject/422730> | 预期之外的 ISBN 格式 `无` |
 | <https://bgm.tv/subject/423984> | 预期之外的 ISBN 格式 `185006330001` |
 | <https://bgm.tv/subject/426943> | 预期之外的 ISBN 格式 `9771671688163` |
-| <https://bgm.tv/subject/431106> | 不是合法的 isbn13 <code>9789887479271</code> |
 | <https://bgm.tv/subject/431477> | 预期之外的 ISBN 格式 `4711213664403` |
 | <https://bgm.tv/subject/431976> | 预期之外的 ISBN 格式 `6974882251307` |
 | <https://bgm.tv/subject/433392> | 预期之外的 ISBN 格式 `10173-303` |
@@ -139,11 +141,12 @@ total 142
 | <https://bgm.tv/subject/536648> | 不是合法的 isbn13 <code>9781964153328</code> |
 | <https://bgm.tv/subject/538027> | 重复出现的 ISBN '9784048526746' |
 | <https://bgm.tv/subject/538028> | 重复出现的 ISBN '9784048527835' |
-| <https://bgm.tv/subject/538029> | 预期之外的 ISBN 格式 `‏ 4048528254 10` |
+| <https://bgm.tv/subject/538029> | 重复出现的 ISBN '9784048528252' |
 | <https://bgm.tv/subject/538030> | 重复出现的 ISBN '9784048529112' |
 | <https://bgm.tv/subject/538032> | 重复出现的 ISBN '9784829126820' |
 | <https://bgm.tv/subject/538033> | 重复出现的 ISBN '9784829127193' |
 | <https://bgm.tv/subject/538034> | 重复出现的 ISBN '9784829127520' |
 | <https://bgm.tv/subject/538035> | 重复出现的 ISBN '9784829128077' |
-| <https://bgm.tv/subject/538036> | 预期之外的 ISBN 格式 `‎4041211247 10` |
-| <https://bgm.tv/subject/538108> | 预期之外的 ISBN 格式 `‎9784088508115` |
+| <https://bgm.tv/subject/538036> | 重复出现的 ISBN '9784041211243' |
+| <https://bgm.tv/subject/538909> | 预期之外的 ISBN 格式 `TBA` |
+| <https://bgm.tv/subject/539065> | 预期之外的 ISBN 格式 `デジタル写真集` |
