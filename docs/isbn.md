@@ -1,7 +1,7 @@
 # ISBN 错误
 ## <https://bgm.tv/group/topic/404801>
 
-total 145
+total 147
 
 | url | error |
 | --- |  ---  |
@@ -150,3 +150,5 @@ total 145
 | <https://bgm.tv/subject/538036> | 重复出现的 ISBN '9784041211243' |
 | <https://bgm.tv/subject/538909> | 预期之外的 ISBN 格式 `TBA` |
 | <https://bgm.tv/subject/539065> | 预期之外的 ISBN 格式 `デジタル写真集` |
+| <https://bgm.tv/subject/540566> | 预期之外的 ISBN 格式 `‎9784778033262` |
+| <https://bgm.tv/subject/540613> | 预期之外的 ISBN 格式 `TBA` |
