@@ -1,7 +1,7 @@
 # ISBN 错误
 ## <https://bgm.tv/group/topic/404801>
 
-total 147
+total 152
 
 | url | error |
 | --- |  ---  |
@@ -133,6 +133,8 @@ total 147
 | <https://bgm.tv/subject/509627> | 预期之外的 ISBN 格式 `待查` |
 | <https://bgm.tv/subject/511198> | 预期之外的 ISBN 格式 `待查` |
 | <https://bgm.tv/subject/511219> | 预期之外的 ISBN 格式 `待查` |
+| <https://bgm.tv/subject/519557> | 不是合法的 isbn13 <code>9784924802255</code> |
+| <https://bgm.tv/subject/523974> | 预期之外的 ISBN 格式 `978489393077X` |
 | <https://bgm.tv/subject/525331> | 不是合法的 isbn13 <code>9788992573222</code> |
 | <https://bgm.tv/subject/527380> | 预期之外的 ISBN 格式 `978754004573` |
 | <https://bgm.tv/subject/528937> | 预期之外的 ISBN 格式 `4713227497886` |
@@ -150,5 +152,8 @@ total 147
 | <https://bgm.tv/subject/538036> | 重复出现的 ISBN '9784041211243' |
 | <https://bgm.tv/subject/538909> | 预期之外的 ISBN 格式 `TBA` |
 | <https://bgm.tv/subject/539065> | 预期之外的 ISBN 格式 `デジタル写真集` |
-| <https://bgm.tv/subject/540566> | 预期之外的 ISBN 格式 `‎9784778033262` |
 | <https://bgm.tv/subject/540613> | 预期之外的 ISBN 格式 `TBA` |
+| <https://bgm.tv/subject/542257> | 不是合法的 isbn13 <code>9784484912228</code> |
+| <https://bgm.tv/subject/542449> | 预期之外的 ISBN 格式 `4934569977830` |
+| <https://bgm.tv/subject/544067> | 预期之外的 ISBN 格式 `2018年6月20日` |
+| <https://bgm.tv/subject/545512> | 预期之外的 ISBN 格式 `2570000031161` |
