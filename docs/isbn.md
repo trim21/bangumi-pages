@@ -1,7 +1,7 @@
 # ISBN 错误
 ## <https://bgm.tv/group/topic/404801>
 
-total 151
+total 152
 
 | url | error |
 | --- |  ---  |
@@ -156,3 +156,4 @@ total 151
 | <https://bgm.tv/subject/542449> | 预期之外的 ISBN 格式 `4934569977830` |
 | <https://bgm.tv/subject/544067> | 预期之外的 ISBN 格式 `2018年6月20日` |
 | <https://bgm.tv/subject/545512> | 预期之外的 ISBN 格式 `2570000031161` |
+| <https://bgm.tv/subject/546875> | 预期之外的 ISBN 格式 `18` |
