@@ -1,7 +1,7 @@
 # ISBN 错误
 ## <https://bgm.tv/group/topic/404801>
 
-total 152
+total 153
 
 | url | error |
 | --- |  ---  |
@@ -157,3 +157,4 @@ total 152
 | <https://bgm.tv/subject/544067> | 预期之外的 ISBN 格式 `2018年6月20日` |
 | <https://bgm.tv/subject/545512> | 预期之外的 ISBN 格式 `2570000031161` |
 | <https://bgm.tv/subject/546875> | 预期之外的 ISBN 格式 `18` |
+| <https://bgm.tv/subject/547854> | 不是合法的 isbn13 <code>9781964163368</code> |
