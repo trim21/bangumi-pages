@@ -1,11 +1,12 @@
 # ISBN 错误
 ## <https://bgm.tv/group/topic/404801>
 
-total 153
+total 154
 
 | url | error |
 | --- |  ---  |
 | <https://bgm.tv/subject/1297> | 包含多个不匹配的 ISBN |
+| <https://bgm.tv/subject/17754> | 包含多个不匹配的 ISBN |
 | <https://bgm.tv/subject/47300> | 预期之外的 ISBN 格式 `97840471359` |
 | <https://bgm.tv/subject/88596> | 重复出现的 ISBN '9784840153423' |
 | <https://bgm.tv/subject/112141> | 预期之外的 ISBN 格式 `4905052680725` |
