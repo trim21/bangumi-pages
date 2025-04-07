@@ -10,9 +10,9 @@ jobs:
       contents: write
     runs-on: 'ubuntu-latest'
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4
       - name: Set up Python ${{ env.LATEST_PYTHON_VER }}
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@8d9ed9ac5c53483de85588cdf95a591a75ab9f55 # v5
         with:
           python-version: '3.x'
           cache: pip
@@ -22,7 +22,7 @@ jobs:
       - run: mkdocs build
 
       - name: Minio Deploy
-        uses: lovellfelix/minio-deploy-action@v1.1.1
+        uses: lovellfelix/minio-deploy-action@cfc4b36780804138fc0df64d8e862ed28db7fd34 # v1.1.1
         with:
           endpoint: ${{ secrets.MINIO_ENDPOINT }}
           access_key: ${{ secrets.MINIO_ACCESS_KEY }}
