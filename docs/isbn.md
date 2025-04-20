@@ -1,7 +1,7 @@
 # ISBN 错误
 ## <https://bgm.tv/group/topic/404801>
 
-total 155
+total 158
 
 | url | error |
 | --- |  ---  |
@@ -160,3 +160,6 @@ total 155
 | <https://bgm.tv/subject/547854> | 不是合法的 isbn13 <code>9781964163368</code> |
 | <https://bgm.tv/subject/551431> | 不是合法的 isbn13 <code>9784757716842</code> |
 | <https://bgm.tv/subject/552095> | 包含多个 ISBN, 请手动拆分 '9787505619517 (1-5)、9787505620391 (6-9)' |
+| <https://bgm.tv/subject/552914> | 不是合法的 isbn13 <code>9784757598408</code> |
+| <https://bgm.tv/subject/552915> | 不是合法的 isbn13 <code>9784757598394</code> |
+| <https://bgm.tv/subject/552927> | 不是合法的 isbn13 <code>9784757598351</code> |
