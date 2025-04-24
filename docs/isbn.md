@@ -1,7 +1,7 @@
 # ISBN 错误
 ## <https://bgm.tv/group/topic/404801>
 
-total 158
+total 159
 
 | url | error |
 | --- |  ---  |
@@ -163,3 +163,4 @@ total 158
 | <https://bgm.tv/subject/552914> | 不是合法的 isbn13 <code>9784757598408</code> |
 | <https://bgm.tv/subject/552915> | 不是合法的 isbn13 <code>9784757598394</code> |
 | <https://bgm.tv/subject/552927> | 不是合法的 isbn13 <code>9784757598351</code> |
+| <https://bgm.tv/subject/554706> | 不是合法的 isbn13 <code>9784798433503</code> |
