@@ -1,7 +1,7 @@
 # ISBN 错误
 ## <https://bgm.tv/group/topic/404801>
 
-total 162
+total 166
 
 | url | error |
 | --- |  ---  |
@@ -167,3 +167,7 @@ total 162
 | <https://bgm.tv/subject/554706> | 不是合法的 isbn13 <code>9784798433503</code> |
 | <https://bgm.tv/subject/556208> | 预期之外的 ISBN 格式 `784062837637` |
 | <https://bgm.tv/subject/557470> | 不是合法的 isbn13 <code>9784480888047</code> |
+| <https://bgm.tv/subject/561822> | 预期之外的 ISBN 格式 `4910074860188` |
+| <https://bgm.tv/subject/561823> | 预期之外的 ISBN 格式 `4910074860386` |
+| <https://bgm.tv/subject/561824> | 预期之外的 ISBN 格式 `4910074860584` |
+| <https://bgm.tv/subject/561825> | 重复出现的 ISBN '9784775514276' |
