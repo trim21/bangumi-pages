@@ -1,11 +1,10 @@
 # ISBN 错误
 ## <https://bgm.tv/group/topic/404801>
 
-total 205
+total 204
 
 | url | error |
 | --- |  ---  |
-| <https://bgm.tv/subject/599> | 预期之外的 ISBN 格式 `‎9784086176538` |
 | <https://bgm.tv/subject/1297> | 包含多个不匹配的 ISBN |
 | <https://bgm.tv/subject/1612> | 包含多个不匹配的 ISBN |
 | <https://bgm.tv/subject/17754> | 包含多个不匹配的 ISBN |
