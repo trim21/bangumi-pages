@@ -1,7 +1,7 @@
 # ISBN 错误
 ## <https://bgm.tv/group/topic/404801>
 
-total 209
+total 206
 
 | url | error |
 | --- |  ---  |
@@ -17,9 +17,6 @@ total 209
 | <https://bgm.tv/subject/121901> | 重复出现的 ISBN '9784840153409' |
 | <https://bgm.tv/subject/149650> | 预期之外的 ISBN 格式 `2013071002581` |
 | <https://bgm.tv/subject/164351> | 预期之外的 ISBN 格式 `276+3` |
-| <https://bgm.tv/subject/166719> | 预期之外的 ISBN 格式 `0060001771521` |
-| <https://bgm.tv/subject/166720> | 预期之外的 ISBN 格式 `0060001772481` |
-| <https://bgm.tv/subject/166721> | 预期之外的 ISBN 格式 `0060001778384` |
 | <https://bgm.tv/subject/170525> | 预期之外的 ISBN 格式 `2003310016479` |
 | <https://bgm.tv/subject/170526> | 预期之外的 ISBN 格式 `2003310016486` |
 | <https://bgm.tv/subject/170527> | 预期之外的 ISBN 格式 `2003310018237` |
