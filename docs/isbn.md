@@ -1,7 +1,7 @@
 # ISBN 错误
 ## <https://bgm.tv/group/topic/404801>
 
-total 208
+total 209
 
 | url | error |
 | --- |  ---  |
@@ -67,6 +67,7 @@ total 208
 | <https://bgm.tv/subject/175919> | 预期之外的 ISBN 格式 `8820002193126` |
 | <https://bgm.tv/subject/175920> | 预期之外的 ISBN 格式 `8820002193157` |
 | <https://bgm.tv/subject/175921> | 预期之外的 ISBN 格式 `8820002193195` |
+| <https://bgm.tv/subject/176524> | 包含多个不匹配的 ISBN |
 | <https://bgm.tv/subject/179826> | 预期之外的 ISBN 格式 `单行本` |
 | <https://bgm.tv/subject/255084> | 不是合法的 isbn10 <code>6000043278</code> |
 | <https://bgm.tv/subject/354677> | 预期之外的 ISBN 格式 `123test321find123354677354677` |
