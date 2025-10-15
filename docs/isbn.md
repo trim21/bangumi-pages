@@ -1,7 +1,7 @@
 # ISBN 错误
 ## <https://bgm.tv/group/topic/404801>
 
-total 210
+total 211
 
 | url | error |
 | --- |  ---  |
@@ -215,3 +215,4 @@ total 210
 | <https://bgm.tv/subject/588758> | 预期之外的 ISBN 格式 `465` |
 | <https://bgm.tv/subject/593952> | 预期之外的 ISBN 格式 `9789781302918804` |
 | <https://bgm.tv/subject/595576> | 预期之外的 ISBN 格式 `4712831760607` |
+| <https://bgm.tv/subject/597362> | 预期之外的 ISBN 格式 `‎ 978-4776729976` |
