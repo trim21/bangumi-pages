@@ -1,7 +1,7 @@
 # ISBN 错误
 ## <https://bgm.tv/group/topic/404801>
 
-total 225
+total 226
 
 | url | error |
 | --- |  ---  |
@@ -230,3 +230,4 @@ total 225
 | <https://bgm.tv/subject/603280> | 重复出现的 ISBN '9784091375483' |
 | <https://bgm.tv/subject/603281> | 预期之外的 ISBN 格式 `B01G3539F8` |
 | <https://bgm.tv/subject/603699> | 重复出现的 ISBN '9784757716001' |
+| <https://bgm.tv/subject/605076> | 预期之外的 ISBN 格式 `‎978-4408411620` |
