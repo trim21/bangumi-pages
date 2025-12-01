@@ -1,7 +1,7 @@
 # ISBN 错误
 ## <https://bgm.tv/group/topic/404801>
 
-total 237
+total 236
 
 | url | error |
 | --- |  ---  |
@@ -111,7 +111,6 @@ total 237
 | <https://bgm.tv/subject/467129> | 预期之外的 ISBN 格式 `-` |
 | <https://bgm.tv/subject/467132> | 预期之外的 ISBN 格式 `-` |
 | <https://bgm.tv/subject/467136> | 预期之外的 ISBN 格式 `-` |
-| <https://bgm.tv/subject/467325> | 不是合法的 isbn13 <code>9781987120121</code> |
 | <https://bgm.tv/subject/470447> | 预期之外的 ISBN 格式 `-` |
 | <https://bgm.tv/subject/470449> | 预期之外的 ISBN 格式 `-` |
 | <https://bgm.tv/subject/470456> | 预期之外的 ISBN 格式 `-` |
