@@ -1,7 +1,7 @@
 # ISBN 错误
 ## <https://bgm.tv/group/topic/404801>
 
-total 236
+total 235
 
 | url | error |
 | --- |  ---  |
@@ -179,7 +179,6 @@ total 236
 | <https://bgm.tv/subject/567023> | 预期之外的 ISBN 格式 `‎978-4866752198` |
 | <https://bgm.tv/subject/567025> | 预期之外的 ISBN 格式 `‎978-4866752266` |
 | <https://bgm.tv/subject/567026> | 预期之外的 ISBN 格式 `‎978-4866752334` |
-| <https://bgm.tv/subject/567455> | 预期之外的 ISBN 格式 `記号を喰う魔女` |
 | <https://bgm.tv/subject/568652> | 预期之外的 ISBN 格式 `‎9784041151273` |
 | <https://bgm.tv/subject/569237> | 预期之外的 ISBN 格式 `‎9784758091541` |
 | <https://bgm.tv/subject/569238> | 预期之外的 ISBN 格式 `‎9784758092784` |
