@@ -1,7 +1,7 @@
 # ISBN 错误
 ## <https://bgm.tv/group/topic/404801>
 
-total 241
+total 242
 
 | url | error |
 | --- |  ---  |
@@ -246,3 +246,4 @@ total 241
 | <https://bgm.tv/subject/619060> | 预期之外的 ISBN 格式 `‎9784892365089` |
 | <https://bgm.tv/subject/619213> | 预期之外的 ISBN 格式 `4902370553826` |
 | <https://bgm.tv/subject/619869> | 预期之外的 ISBN 格式 `80735-2034` |
+| <https://bgm.tv/subject/621942> | 预期之外的 ISBN 格式 `‎9784061822146` |
