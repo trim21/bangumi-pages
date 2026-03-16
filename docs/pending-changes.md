@@ -1,6 +1,6 @@
 # 待处理的条目修改
 
-total 6828
+total 6786
 
 | 条目 | 修改类型 |
 | --- | --- |
@@ -12,11 +12,6 @@ total 6828
 | [`小さな性`](https://bgm.tv/subject/418330) | 统一 ISBN 写法 |
 | [`人魚の愛しかた、愛されかた (下)`](https://bgm.tv/subject/338334) | 统一 ISBN 写法 |
 | [`雪花妃伝 ~藍帝後宮始末記~ (二)`](https://bgm.tv/subject/334576) | 统一 ISBN 写法 |
-| [`後宮に星は宿る ~金椛国春秋~ (1)`](https://bgm.tv/subject/331690) | 统一 ISBN 写法 |
-| [`ブスに花束を。 (9)`](https://bgm.tv/subject/331674) | 统一 ISBN 写法 |
-| [`神様なんか信じない僕らのエデン (下)`](https://bgm.tv/subject/331626) | 统一 ISBN 写法 |
-| [`神様なんか信じない僕らのエデン (上)`](https://bgm.tv/subject/331625) | 统一 ISBN 写法 |
-| [`異世界から聖女が来るようなので、邪魔者は消えようと思います (2)`](https://bgm.tv/subject/331616) | 统一 ISBN 写法 |
 | [`異世界から聖女が来るようなので、邪魔者は消えようと思います (1)`](https://bgm.tv/subject/331614) | 统一 ISBN 写法 |
 | [`華仙公主夜話 その麗人、後宮の闇を斬る (1)`](https://bgm.tv/subject/331275) | 统一 ISBN 写法 |
 | [`追い出されたら、何かと上手くいきまして (4)`](https://bgm.tv/subject/330686) | 统一 ISBN 写法 |
@@ -6755,44 +6750,7 @@ total 6828
 | [`人間カード (5)`](https://bgm.tv/subject/287430) | 统一 ISBN 写法 |
 | [`あらくさ忍法帖 (1)`](https://bgm.tv/subject/287429) | 统一 ISBN 写法 |
 | [`Yの箱船 (3)`](https://bgm.tv/subject/287425) | 统一 ISBN 写法 |
-| [`禁猟六区 コード・アムリタ (2)`](https://bgm.tv/subject/287422) | 统一 ISBN 写法 |
-| [`禁猟六区 コード・アムリタ (1)`](https://bgm.tv/subject/287421) | 统一 ISBN 写法 |
-| [`花鳥風月`](https://bgm.tv/subject/287419) | 统一 ISBN 写法 |
-| [`ナナヲチートイツ 紅龍 (4)`](https://bgm.tv/subject/287418) | 统一 ISBN 写法 |
-| [`ナナヲチートイツ 紅龍 (3)`](https://bgm.tv/subject/287417) | 统一 ISBN 写法 |
-| [`ナナヲチートイツ 紅龍 (2)`](https://bgm.tv/subject/287416) | 统一 ISBN 写法 |
-| [`ナナヲチートイツ 紅龍 (1)`](https://bgm.tv/subject/287415) | 统一 ISBN 写法 |
-| [`増殖フェティシズム`](https://bgm.tv/subject/287412) | 统一 ISBN 写法 |
-| [`コバちゃん開発日誌`](https://bgm.tv/subject/287411) | 统一 ISBN 写法 |
-| [`きょうから四姉妹 (3)`](https://bgm.tv/subject/287410) | 统一 ISBN 写法 |
-| [`きょうから四姉妹 (2)`](https://bgm.tv/subject/287409) | 统一 ISBN 写法 |
-| [`きょうから四姉妹 (1)`](https://bgm.tv/subject/287408) | 统一 ISBN 写法 |
-| [`無敵の人  (1)`](https://bgm.tv/subject/287406) | 统一 ISBN 写法 |
-| [`教えて!!コス姉さん (1)`](https://bgm.tv/subject/287404) | 统一 ISBN 写法 |
-| [`女神のスプリンター (3)`](https://bgm.tv/subject/287402) | 统一 ISBN 写法 |
-| [`未熟なふたりでございますが (4)`](https://bgm.tv/subject/287400) | 统一 ISBN 写法 |
-| [`うそつきパラドクス -社内風紀のみだしかた- (1)`](https://bgm.tv/subject/287399) | 统一 ISBN 写法 |
 | [`高嶺のハナさん (1)`](https://bgm.tv/subject/287393) | 统一 ISBN 写法 |
-| [`柔肌`](https://bgm.tv/subject/287388) | 统一 ISBN 写法 |
-| [`ぬこづけ! (12)`](https://bgm.tv/subject/287387) | 统一 ISBN 写法 |
-| [`ぬこづけ! (11)`](https://bgm.tv/subject/287386) | 统一 ISBN 写法 |
-| [`ときめきトゥナイト 江藤蘭世の宝箱`](https://bgm.tv/subject/287385) | 统一 ISBN 写法 |
-| [`学園ベビーシッターズ (19)`](https://bgm.tv/subject/287384) | 统一 ISBN 写法 |
-| [`金色のマビノギオン ─アーサー王の妹姫─ (3)`](https://bgm.tv/subject/287383) | 统一 ISBN 写法 |
-| [`恋するMOON DOG (1)`](https://bgm.tv/subject/287382) | 统一 ISBN 写法 |
-| [`オトナの小林くん (6)`](https://bgm.tv/subject/287381) | 统一 ISBN 写法 |
-| [`鉄壁ハニームーン (1)`](https://bgm.tv/subject/287380) | 统一 ISBN 写法 |
-| [`少女漫画のせいだからっ (1)`](https://bgm.tv/subject/287379) | 统一 ISBN 写法 |
-| [`ストーカーに追いかけられて困っています!`](https://bgm.tv/subject/287377) | 统一 ISBN 写法 |
-| [`きみの胸に愛を誓う`](https://bgm.tv/subject/287376) | 统一 ISBN 写法 |
-| [`フラレガール (4)`](https://bgm.tv/subject/287375) | 统一 ISBN 写法 |
-| [`海神の花嫁 (1)`](https://bgm.tv/subject/287374) | 统一 ISBN 写法 |
-| [`次はさせてね (6)`](https://bgm.tv/subject/287372) | 统一 ISBN 写法 |
-| [`スパイスとカスタード (6)`](https://bgm.tv/subject/287371) | 统一 ISBN 写法 |
-| [`お遊びはそこまで`](https://bgm.tv/subject/287370) | 统一 ISBN 写法 |
-| [`柚木さんちの四兄弟。 (3)`](https://bgm.tv/subject/287369) | 统一 ISBN 写法 |
-| [`初めて恋をした日に読む話 (9)`](https://bgm.tv/subject/287368) | 统一 ISBN 写法 |
-| [`暁のヨナ (30)`](https://bgm.tv/subject/287367) | 统一 ISBN 写法 |
 | [`暁のヨナ (29)`](https://bgm.tv/subject/287366) | 统一 ISBN 写法 |
 | [`マリッジパープル (2)`](https://bgm.tv/subject/287365) | 统一 ISBN 写法 |
 | [`下から、甘噛み。 (2)`](https://bgm.tv/subject/287364) | 统一 ISBN 写法 |
