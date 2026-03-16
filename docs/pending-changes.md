@@ -1,6 +1,6 @@
 # 待处理的条目修改
 
-total 6125
+total 6117
 
 | id | 条目 | 修改类型 |
 | --- | --- | --- |
@@ -6109,15 +6109,7 @@ total 6125
 | 287529 | [`俺と蛙さんの異世界放浪記  (4)`](https://bgm.tv/subject/287529) | 统一 ISBN 写法 |
 | 287527 | [`じい様が行く 『いのちだいじに』異世界ゆるり旅 (5)`](https://bgm.tv/subject/287527) | 统一 ISBN 写法 |
 | 287526 | [`じい様が行く  (2)`](https://bgm.tv/subject/287526) | 统一 ISBN 写法 |
-| 287525 | [`のんびりVRMMO記 (4)`](https://bgm.tv/subject/287525) | 统一 ISBN 写法 |
-| 287519 | [`おっさん商人、仲間を気ままに最強SSランクパーティーへ育てる`](https://bgm.tv/subject/287519) | 统一 ISBN 写法 |
-| 287513 | [`異世界をスキルブックと共に生きていく`](https://bgm.tv/subject/287513) | 统一 ISBN 写法 |
-| 287512 | [`鳥は鳥であるために (4)`](https://bgm.tv/subject/287512) | 统一 ISBN 写法 |
-| 287511 | [`鳥は鳥であるために (3)`](https://bgm.tv/subject/287511) | 统一 ISBN 写法 |
-| 287510 | [`鳥は鳥であるために (2)`](https://bgm.tv/subject/287510) | 统一 ISBN 写法 |
-| 287509 | [`鳥は鳥であるために (1)`](https://bgm.tv/subject/287509) | 统一 ISBN 写法 |
 | 287441 | [`傾国の仕立て屋 ローズ・ベルタン (1)`](https://bgm.tv/subject/287441) | 统一 ISBN 写法 |
-| 287435 | [`ジンメン (11)`](https://bgm.tv/subject/287435) | 统一 ISBN 写法 |
 | 287434 | [`冥婚の契 (2)`](https://bgm.tv/subject/287434) | 统一 ISBN 写法 |
 | 287433 | [`肉祓村 (2)`](https://bgm.tv/subject/287433) | 统一 ISBN 写法 |
 | 287432 | [`私刑ゲーム (2)`](https://bgm.tv/subject/287432) | 统一 ISBN 写法 |
