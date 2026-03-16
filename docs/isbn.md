@@ -1,7 +1,7 @@
 # ISBN 错误
 ## <https://bgm.tv/group/topic/404801>
 
-total 225
+total 226
 
 | url | error |
 | --- |  ---  |
@@ -230,3 +230,4 @@ total 225
 | <https://bgm.tv/subject/633536> | 不是合法的 isbn13 <code>9784835455483</code> |
 | <https://bgm.tv/subject/633556> | 预期之外的 ISBN 格式 `4988105613980` |
 | <https://bgm.tv/subject/634217> | 预期之外的 ISBN 格式 `4-09-102536-68` |
+| <https://bgm.tv/subject/635708> | 预期之外的 ISBN 格式 `978785160090` |
