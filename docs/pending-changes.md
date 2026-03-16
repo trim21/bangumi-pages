@@ -1,6 +1,6 @@
 # 待处理的条目修改
 
-total 7255
+total 7252
 
 | 条目 | 修改类型 |
 | --- | --- |
@@ -11,10 +11,6 @@ total 7255
 | [小説 ミラーさん](https://bgm.tv/subject/634706) | 统一 ISBN 写法 |
 | [小さな性](https://bgm.tv/subject/418330) | 统一 ISBN 写法 |
 | [人魚の愛しかた、愛されかた (下)](https://bgm.tv/subject/338334) | 统一 ISBN 写法 |
-| [JSのトリセツ (2)](https://bgm.tv/subject/333582) | 统一 ISBN 写法 |
-| [JSのトリセツ (1)](https://bgm.tv/subject/333581) | 统一 ISBN 写法 |
-| [こどもたちは禁色の雨に戯れる](https://bgm.tv/subject/333571) | 统一 ISBN 写法 |
-| [アトリエで飼われる私 (3)](https://bgm.tv/subject/333570) | 统一 ISBN 写法 |
 | [アトリエで飼われる私 (2)](https://bgm.tv/subject/333569) | 统一 ISBN 写法 |
 | [転生したら兵士だった?! ~赤い死神と呼ばれた男~ (3)](https://bgm.tv/subject/333565) | 统一 ISBN 写法 |
 | [転生したら兵士だった?! ~赤い死神と呼ばれた男~ (2)](https://bgm.tv/subject/333564) | 统一 ISBN 写法 |
@@ -7257,5 +7253,6 @@ total 7255
 | [超人高校生たちは異世界でも余裕で生き抜くようです！](https://bgm.tv/subject/277399) | 删除重复字段 |
 | [Shaq-Fu: A Legend Reborn](https://bgm.tv/subject/159210) | 删除不可见 Unicode 字符 |
 | [蟲姫 (1)](https://bgm.tv/subject/144543) | 删除重复字段 |
+| [蟲姫 (1)](https://bgm.tv/subject/144543) | 统一 ISBN 写法 |
 | [夢幻花伝](https://bgm.tv/subject/107600) | 统一 ISBN 写法 |
 | [加奈 〜いもうと〜](https://bgm.tv/subject/8025) | 删除重复字段 |
