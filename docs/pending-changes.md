@@ -1,6 +1,6 @@
 # 待处理的条目修改
 
-total 6786
+total 6630
 
 | 条目 | 修改类型 |
 | --- | --- |
@@ -14,131 +14,9 @@ total 6786
 | [`雪花妃伝 ~藍帝後宮始末記~ (二)`](https://bgm.tv/subject/334576) | 统一 ISBN 写法 |
 | [`異世界から聖女が来るようなので、邪魔者は消えようと思います (1)`](https://bgm.tv/subject/331614) | 统一 ISBN 写法 |
 | [`華仙公主夜話 その麗人、後宮の闇を斬る (1)`](https://bgm.tv/subject/331275) | 统一 ISBN 写法 |
-| [`追い出されたら、何かと上手くいきまして (4)`](https://bgm.tv/subject/330686) | 统一 ISBN 写法 |
 | [`追い出されたら、何かと上手くいきまして (3)`](https://bgm.tv/subject/330685) | 统一 ISBN 写法 |
-| [`追い出されたら、何かと上手くいきまして (2)`](https://bgm.tv/subject/330684) | 统一 ISBN 写法 |
-| [`追い出されたら、何かと上手くいきまして (1)`](https://bgm.tv/subject/330683) | 统一 ISBN 写法 |
-| [`大富豪皇帝の極上寵愛`](https://bgm.tv/subject/330232) | 统一 ISBN 写法 |
-| [`デキないふたり (1)`](https://bgm.tv/subject/330223) | 统一 ISBN 写法 |
-| [`たっぷりのキスからはじめて (2)`](https://bgm.tv/subject/330221) | 统一 ISBN 写法 |
-| [`装備製作系チートで異世界を自由に生きていきます (7)`](https://bgm.tv/subject/330157) | 统一 ISBN 写法 |
-| [`装備製作系チートで異世界を自由に生きていきます (6)`](https://bgm.tv/subject/330156) | 统一 ISBN 写法 |
-| [`装備製作系チートで異世界を自由に生きていきます (5)`](https://bgm.tv/subject/330155) | 统一 ISBN 写法 |
-| [`装備製作系チートで異世界を自由に生きていきます (4)`](https://bgm.tv/subject/330154) | 统一 ISBN 写法 |
-| [`装備製作系チートで異世界を自由に生きていきます (3)`](https://bgm.tv/subject/330153) | 统一 ISBN 写法 |
-| [`装備製作系チートで異世界を自由に生きていきます (2)`](https://bgm.tv/subject/330152) | 统一 ISBN 写法 |
-| [`装備製作系チートで異世界を自由に生きていきます (1)`](https://bgm.tv/subject/330148) | 统一 ISBN 写法 |
-| [`いつでも自宅に帰れる俺は、異世界で行商人をはじめました (3)`](https://bgm.tv/subject/330146) | 统一 ISBN 写法 |
-| [`いつでも自宅に帰れる俺は、異世界で行商人をはじめました (2)`](https://bgm.tv/subject/330144) | 统一 ISBN 写法 |
-| [`いつでも自宅に帰れる俺は、異世界で行商人をはじめました`](https://bgm.tv/subject/330143) | 统一 ISBN 写法 |
-| [`いつでも自宅に帰れる俺は、異世界で行商人をはじめました  (1)`](https://bgm.tv/subject/330140) | 统一 ISBN 写法 |
-| [`行き倒れもできないこんな異世界じゃ (1)`](https://bgm.tv/subject/330136) | 统一 ISBN 写法 |
-| [`幼馴染みで悪魔な騎士は、私のことが大嫌い (1)`](https://bgm.tv/subject/330135) | 统一 ISBN 写法 |
-| [`捨てられ白魔法使いの紅茶生活 (2)`](https://bgm.tv/subject/330128) | 统一 ISBN 写法 |
 | [`色えんぴつでかんたん愛らしい花と草木たち`](https://bgm.tv/subject/330014) | 统一 ISBN 写法 |
-| [`ズブズブに愛されるから何事かと思ったら、罠でした。 (下)`](https://bgm.tv/subject/330009) | 统一 ISBN 写法 |
-| [`ズブズブに愛されるから何事かと思ったら、罠でした。 (上)`](https://bgm.tv/subject/330008) | 统一 ISBN 写法 |
-| [`COLOSSUS ORDER`](https://bgm.tv/subject/330001) | 统一 ISBN 写法 |
-| [`HQ MIX!! 3`](https://bgm.tv/subject/330000) | 统一 ISBN 写法 |
-| [`KARASUNO DAYS2`](https://bgm.tv/subject/329999) | 统一 ISBN 写法 |
-| [`High Quickly!`](https://bgm.tv/subject/329998) | 统一 ISBN 写法 |
-| [`君をスキな瞬間`](https://bgm.tv/subject/329995) | 统一 ISBN 写法 |
-| [`インゴシマ (9)`](https://bgm.tv/subject/329478) | 统一 ISBN 写法 |
-| [`継母の連れ子が元カノだった (2)`](https://bgm.tv/subject/329403) | 统一 ISBN 写法 |
-| [`ドールハウスの人々`](https://bgm.tv/subject/329398) | 统一 ISBN 写法 |
-| [`リタイヤした人形師のMMO機巧叙事詩(クロニクル) (2)`](https://bgm.tv/subject/329396) | 统一 ISBN 写法 |
-| [`リタイヤした人形師のMMO機巧叙事詩(クロニクル)`](https://bgm.tv/subject/329395) | 统一 ISBN 写法 |
-| [`追放された悪役令嬢ですが、モフモフ付き!?スローライフはじめました  (1)`](https://bgm.tv/subject/329385) | 统一 ISBN 写法 |
-| [`悪役令嬢なので喜んで仕返しいたします (1)`](https://bgm.tv/subject/329384) | 统一 ISBN 写法 |
-| [`自称悪役令嬢な婚約者の観察記録。 (5)`](https://bgm.tv/subject/329383) | 统一 ISBN 写法 |
-| [`悪役令嬢ですが攻略対象の様子が異常すぎる III`](https://bgm.tv/subject/329380) | 统一 ISBN 写法 |
-| [`悪役令嬢ですが攻略対象の様子が異常すぎる II`](https://bgm.tv/subject/329379) | 统一 ISBN 写法 |
-| [`婚約破棄が目標です! (1)`](https://bgm.tv/subject/329371) | 统一 ISBN 写法 |
-| [`獣人隊長の(仮)婚約事情 (1)`](https://bgm.tv/subject/329368) | 统一 ISBN 写法 |
-| [`フェンリル騎士隊のたぐいまれなるモフモフ事情 ~異動先の上司が犬でした~ (2)`](https://bgm.tv/subject/329366) | 统一 ISBN 写法 |
-| [`薔薇王の葬列 (15)`](https://bgm.tv/subject/328489) | 统一 ISBN 写法 |
-| [`あの子を殺すな 江戸川治ダークストーリーズ`](https://bgm.tv/subject/328479) | 统一 ISBN 写法 |
-| [`イケメン貧乏神と同居はじめました! (1)`](https://bgm.tv/subject/328420) | 统一 ISBN 写法 |
-| [`貴腐人ローザは陰から愛を見守りたい (1)`](https://bgm.tv/subject/328414) | 统一 ISBN 写法 |
-| [`クラスメイト・ゲーム 殺人者の教室`](https://bgm.tv/subject/328375) | 统一 ISBN 写法 |
-| [`きみよん~誰も死なないキミガシネ~`](https://bgm.tv/subject/328374) | 统一 ISBN 写法 |
-| [`キミガシネ ―多数決デスゲーム― side ジョー`](https://bgm.tv/subject/328373) | 统一 ISBN 写法 |
-| [`キミガシネ ‐多数決デスゲーム‐ (2)`](https://bgm.tv/subject/328372) | 统一 ISBN 写法 |
-| [`キミガシネ ‐多数決デスゲーム‐ (1)`](https://bgm.tv/subject/328371) | 统一 ISBN 写法 |
-| [`狼ゲーム (02)`](https://bgm.tv/subject/328366) | 统一 ISBN 写法 |
-| [`レベル0の魔王様、異世界で冒険者を始めます (4) 魔女との戦いに終止符を!`](https://bgm.tv/subject/328245) | 统一 ISBN 写法 |
-| [`レベル0の魔王様、異世界で冒険者を始めます (3) 古の竜を救うことにしました`](https://bgm.tv/subject/328244) | 统一 ISBN 写法 |
-| [`追放悪役令嬢の旦那様 (2)`](https://bgm.tv/subject/328233) | 统一 ISBN 写法 |
-| [`ある日、私は冷血公爵の娘になった (1)`](https://bgm.tv/subject/328227) | 统一 ISBN 写法 |
-| [`悪役令嬢の役割は終えました  (1)`](https://bgm.tv/subject/328222) | 统一 ISBN 写法 |
-| [`ストーカー浄化団 (6)`](https://bgm.tv/subject/327537) | 统一 ISBN 写法 |
-| [`悪役令嬢は断罪引退を目指したい! けど、もしかしてここ溺愛ルート!?`](https://bgm.tv/subject/326695) | 统一 ISBN 写法 |
-| [`拝啓「氷の騎士とはずれ姫」だったわたしたちへ  (2)`](https://bgm.tv/subject/326690) | 统一 ISBN 写法 |
-| [`拝啓「氷の騎士とはずれ姫」だったわたしたちへ  (1)`](https://bgm.tv/subject/326689) | 统一 ISBN 写法 |
-| [`拝啓「氷の騎士とはずれ姫」だったわたしたちへ (1)`](https://bgm.tv/subject/326687) | 统一 ISBN 写法 |
-| [`元、落ちこぼれ公爵令嬢です。 (1)`](https://bgm.tv/subject/326684) | 统一 ISBN 写法 |
-| [`元、落ちこぼれ公爵令嬢です。THE COMIC (1)`](https://bgm.tv/subject/326682) | 统一 ISBN 写法 |
-| [`マンガで分かる愛される心理術`](https://bgm.tv/subject/326680) | 统一 ISBN 写法 |
-| [`心理学は役に立たない!? (3)`](https://bgm.tv/subject/326679) | 统一 ISBN 写法 |
-| [`心理学は役に立たない!? (2)`](https://bgm.tv/subject/326678) | 统一 ISBN 写法 |
-| [`心理学は役に立たない!? (1)`](https://bgm.tv/subject/326677) | 统一 ISBN 写法 |
-| [`マンガで分かる肉体改造　美肌・スキンケア編`](https://bgm.tv/subject/326670) | 统一 ISBN 写法 |
-| [`マンガで分かる肉体改造 糖質制限&肉食主義編`](https://bgm.tv/subject/326669) | 统一 ISBN 写法 |
-| [`マンガで分かる肉体改造 湯シャン編`](https://bgm.tv/subject/326668) | 统一 ISBN 写法 |
-| [`マンガで分かる肉体改造 糖質制限編`](https://bgm.tv/subject/326667) | 统一 ISBN 写法 |
-| [`マンガで分かる肉体改造 短眠編`](https://bgm.tv/subject/326666) | 统一 ISBN 写法 |
-| [`【衝撃】推しの美容系配信者が客として来た結果、、、`](https://bgm.tv/subject/326611) | 统一 ISBN 写法 |
-| [`塩対応の佐藤さんが俺にだけ甘い@comic (2)`](https://bgm.tv/subject/326433) | 统一 ISBN 写法 |
-| [`普通の女子校生が【ろこどる】やってみた。 (9)`](https://bgm.tv/subject/326253) | 统一 ISBN 写法 |
-| [`親友王子と腰巾着~推しの王子に求婚されて困ってます~ (1)`](https://bgm.tv/subject/326065) | 统一 ISBN 写法 |
-| [`ずたぼろ令嬢は姉の元婚約者に溺愛される (2)`](https://bgm.tv/subject/326062) | 统一 ISBN 写法 |
-| [`ガリ勉地味萌え令嬢は、俺様王子などお呼びでない  (1)`](https://bgm.tv/subject/326060) | 统一 ISBN 写法 |
-| [`悪役令嬢の執事様 破滅フラグは俺が潰させていただきます  (1)`](https://bgm.tv/subject/326059) | 统一 ISBN 写法 |
-| [`日本のおかしな現代妖怪図鑑`](https://bgm.tv/subject/326055) | 统一 ISBN 写法 |
-| [`Suzerain`](https://bgm.tv/subject/325608) | 删除不可见 Unicode 字符 |
-| [`陰の実力者になりたくて! (4)`](https://bgm.tv/subject/325535) | 统一 ISBN 写法 |
-| [`陰の実力者になりたくて! (3)`](https://bgm.tv/subject/325534) | 统一 ISBN 写法 |
-| [`イドラ ファンタシースターサーガ ゆるイドラ`](https://bgm.tv/subject/325125) | 统一 ISBN 写法 |
-| [`没落令嬢の異国結婚録  (1)`](https://bgm.tv/subject/324902) | 统一 ISBN 写法 |
-| [`侍女なのに…聖剣を抜いてしまった! (2)`](https://bgm.tv/subject/324901) | 统一 ISBN 写法 |
-| [`まいてはいけないローゼンメイデン`](https://bgm.tv/subject/324883) | 统一 ISBN 写法 |
-| [`九頭竜さんの推しは小さい`](https://bgm.tv/subject/324729) | 统一 ISBN 写法 |
-| [`欲しがりウサギと任侠ベア`](https://bgm.tv/subject/324725) | 统一 ISBN 写法 |
-| [`センパイ! オフィスラブしましょ♪ (2)`](https://bgm.tv/subject/324572) | 统一 ISBN 写法 |
-| [`異世界出版の編集さん (2)`](https://bgm.tv/subject/324571) | 统一 ISBN 写法 |
-| [`腹黒殿下の策略婚 ~契約は溺愛のはじまり~`](https://bgm.tv/subject/324398) | 统一 ISBN 写法 |
-| [`神様、お嫁に参ります！`](https://bgm.tv/subject/324391) | 统一 ISBN 写法 |
-| [`予知能力まんが・九能ちよ (2)`](https://bgm.tv/subject/324385) | 统一 ISBN 写法 |
-| [`執着幼馴染みのせいで人生を何十周もする羽目になった私の結末`](https://bgm.tv/subject/324369) | 统一 ISBN 写法 |
-| [`グランドール王国再生録 破滅の悪役王女ですが救国エンドをお望みです`](https://bgm.tv/subject/324368) | 统一 ISBN 写法 |
-| [`ふつつかな悪女ではございますが ~雛宮蝶鼠とりかえ伝~`](https://bgm.tv/subject/324367) | 统一 ISBN 写法 |
-| [`兎の森 2`](https://bgm.tv/subject/324172) | 统一 ISBN 写法 |
-| [`立花館To Lieあんぐる (9)`](https://bgm.tv/subject/324091) | 统一 ISBN 写法 |
-| [`ぼくたちは勉強ができない (20)`](https://bgm.tv/subject/323517) | 统一 ISBN 写法 |
-| [`SSSS.GRIDMAN 姫とサムライ (1)`](https://bgm.tv/subject/323389) | 统一 ISBN 写法 |
-| [`国境のエミーリャ (2)`](https://bgm.tv/subject/323190) | 统一 ISBN 写法 |
-| [`国境のエミーリャ (1)`](https://bgm.tv/subject/323189) | 统一 ISBN 写法 |
-| [`liar (9)`](https://bgm.tv/subject/323123) | 统一 ISBN 写法 |
-| [`もういちどスポットライト (1)`](https://bgm.tv/subject/323104) | 统一 ISBN 写法 |
-| [`夏へのトンネル、さよならの出口 群青 (1)`](https://bgm.tv/subject/323100) | 统一 ISBN 写法 |
 | [`魔法少女には向かない職業 (2)`](https://bgm.tv/subject/323097) | 统一 ISBN 写法 |
-| [`魔法少女には向かない職業 (1)`](https://bgm.tv/subject/323096) | 统一 ISBN 写法 |
-| [`あの子より愛して (1)`](https://bgm.tv/subject/323090) | 统一 ISBN 写法 |
-| [`パンプキンナイト (5)`](https://bgm.tv/subject/323087) | 统一 ISBN 写法 |
-| [`パンプキンナイト (4)`](https://bgm.tv/subject/323086) | 统一 ISBN 写法 |
-| [`兇器博物館 (1)`](https://bgm.tv/subject/323085) | 统一 ISBN 写法 |
-| [`リベンジ・ラブ (2)`](https://bgm.tv/subject/323083) | 统一 ISBN 写法 |
-| [`リベンジ・ラブ (1)`](https://bgm.tv/subject/323082) | 统一 ISBN 写法 |
-| [`金四郎の妻ですが (2)`](https://bgm.tv/subject/323078) | 统一 ISBN 写法 |
-| [`金四郎の妻ですが (1)`](https://bgm.tv/subject/323077) | 统一 ISBN 写法 |
-| [`捕り物に姉が口を出してきます`](https://bgm.tv/subject/323075) | 统一 ISBN 写法 |
-| [`うちの旦那が甘ちゃんで (9)`](https://bgm.tv/subject/323074) | 统一 ISBN 写法 |
-| [`うちの旦那が甘ちゃんで (8)`](https://bgm.tv/subject/323073) | 统一 ISBN 写法 |
-| [`うちの旦那が甘ちゃんで (7)`](https://bgm.tv/subject/323072) | 统一 ISBN 写法 |
-| [`うちの旦那が甘ちゃんで (6)`](https://bgm.tv/subject/323071) | 统一 ISBN 写法 |
-| [`うちの旦那が甘ちゃんで (5)`](https://bgm.tv/subject/323070) | 统一 ISBN 写法 |
-| [`うちの旦那が甘ちゃんで (4)`](https://bgm.tv/subject/323069) | 统一 ISBN 写法 |
-| [`うちの旦那が甘ちゃんで (3)`](https://bgm.tv/subject/323068) | 统一 ISBN 写法 |
 | [`うちの旦那が甘ちゃんで (2)`](https://bgm.tv/subject/323067) | 统一 ISBN 写法 |
 | [`うちの旦那が甘ちゃんで  (1)`](https://bgm.tv/subject/323066) | 统一 ISBN 写法 |
 | [`うちの旦那が甘ちゃんで (1)`](https://bgm.tv/subject/323064) | 统一 ISBN 写法 |
@@ -6752,41 +6630,7 @@ total 6786
 | [`Yの箱船 (3)`](https://bgm.tv/subject/287425) | 统一 ISBN 写法 |
 | [`高嶺のハナさん (1)`](https://bgm.tv/subject/287393) | 统一 ISBN 写法 |
 | [`暁のヨナ (29)`](https://bgm.tv/subject/287366) | 统一 ISBN 写法 |
-| [`マリッジパープル (2)`](https://bgm.tv/subject/287365) | 统一 ISBN 写法 |
-| [`下から、甘噛み。 (2)`](https://bgm.tv/subject/287364) | 统一 ISBN 写法 |
-| [`下から、甘噛み。 (1)`](https://bgm.tv/subject/287363) | 统一 ISBN 写法 |
-| [`遺産フィアンセ`](https://bgm.tv/subject/287361) | 统一 ISBN 写法 |
-| [`俺の指で乱れろ。~閉店後のサロン、意地悪に焦らされて`](https://bgm.tv/subject/287359) | 统一 ISBN 写法 |
-| [`自称・彼氏がキツく愛して離れません 変態スパダリがむき出す独占欲 (2)`](https://bgm.tv/subject/287358) | 统一 ISBN 写法 |
-| [`ラブ→マウント (3)`](https://bgm.tv/subject/287357) | 统一 ISBN 写法 |
-| [`キラキラきらめく恋になる`](https://bgm.tv/subject/287356) | 统一 ISBN 写法 |
-| [`社内マリッジハニー (3)`](https://bgm.tv/subject/287355) | 统一 ISBN 写法 |
-| [`世界で一番きれいな初恋 (2)`](https://bgm.tv/subject/287354) | 统一 ISBN 写法 |
-| [`きっと愛だから、いらない (6)`](https://bgm.tv/subject/287353) | 统一 ISBN 写法 |
-| [`恋に毒針 (1)`](https://bgm.tv/subject/287352) | 统一 ISBN 写法 |
-| [`ショートケーキケーキ (12)`](https://bgm.tv/subject/287350) | 统一 ISBN 写法 |
-| [`ぶどうとスミレ (1)`](https://bgm.tv/subject/287349) | 统一 ISBN 写法 |
-| [`青楼オペラ (11)`](https://bgm.tv/subject/287348) | 统一 ISBN 写法 |
-| [`めもくらむ 大正キネマ浪漫 (4)`](https://bgm.tv/subject/287336) | 统一 ISBN 写法 |
-| [`輝夜伝 (3)`](https://bgm.tv/subject/287335) | 统一 ISBN 写法 |
-| [`偽りのフレイヤ (3)`](https://bgm.tv/subject/287334) | 统一 ISBN 写法 |
-| [`世界で一番、俺が〇〇 (7)`](https://bgm.tv/subject/287333) | 统一 ISBN 写法 |
-| [`ホタルノヒカリ BABY (3)`](https://bgm.tv/subject/287332) | 统一 ISBN 写法 |
-| [`ホタルノヒカリ BABY (2)`](https://bgm.tv/subject/287331) | 统一 ISBN 写法 |
-| [`ホタルノヒカリ BABY (1)`](https://bgm.tv/subject/287330) | 统一 ISBN 写法 |
-| [`私が恋などしなくても (1)`](https://bgm.tv/subject/287327) | 统一 ISBN 写法 |
-| [`僕と君の大切な話 (6)`](https://bgm.tv/subject/287325) | 统一 ISBN 写法 |
-| [`カカフカカ (9)`](https://bgm.tv/subject/287324) | 统一 ISBN 写法 |
-| [`セキララにキス vol.9`](https://bgm.tv/subject/287323) | 统一 ISBN 写法 |
 | [`まいりました、先輩 (7)`](https://bgm.tv/subject/287322) | 统一 ISBN 写法 |
-| [`きみはかわいい女の子 (10)`](https://bgm.tv/subject/287321) | 统一 ISBN 写法 |
-| [`放課後、恋した。 (6)`](https://bgm.tv/subject/287320) | 统一 ISBN 写法 |
-| [`私達××しました (6)`](https://bgm.tv/subject/287319) | 统一 ISBN 写法 |
-| [`それは密室の出来事 (1)`](https://bgm.tv/subject/287318) | 统一 ISBN 写法 |
-| [`みんなでニャンニャン`](https://bgm.tv/subject/284497) | 删除重复字段 |
 | [`超人高校生たちは異世界でも余裕で生き抜くようです！`](https://bgm.tv/subject/277399) | 删除重复字段 |
-| [`Shaq-Fu: A Legend Reborn`](https://bgm.tv/subject/159210) | 删除不可见 Unicode 字符 |
 | [`蟲姫 (1)`](https://bgm.tv/subject/144543) | 删除重复字段 |
 | [`蟲姫 (1)`](https://bgm.tv/subject/144543) | 统一 ISBN 写法 |
-| [`夢幻花伝`](https://bgm.tv/subject/107600) | 统一 ISBN 写法 |
-| [`加奈 〜いもうと〜`](https://bgm.tv/subject/8025) | 删除重复字段 |
