@@ -1,6 +1,6 @@
 # 待处理的条目修改
 
-total 6158
+total 6127
 
 | id | 条目 | 修改类型 |
 | --- | --- | --- |
@@ -16,36 +16,7 @@ total 6158
 | 287433 | [`肉祓村 (2)`](https://bgm.tv/subject/287433) | 统一 ISBN 写法 |
 | 287434 | [`冥婚の契 (2)`](https://bgm.tv/subject/287434) | 统一 ISBN 写法 |
 | 287435 | [`ジンメン (11)`](https://bgm.tv/subject/287435) | 统一 ISBN 写法 |
-| 287436 | [`ジンメン (12)`](https://bgm.tv/subject/287436) | 统一 ISBN 写法 |
-| 287439 | [`クマ撃ちの女 (1)`](https://bgm.tv/subject/287439) | 统一 ISBN 写法 |
 | 287441 | [`傾国の仕立て屋 ローズ・ベルタン (1)`](https://bgm.tv/subject/287441) | 统一 ISBN 写法 |
-| 287443 | [`恋せよキモノ乙女 (4)`](https://bgm.tv/subject/287443) | 统一 ISBN 写法 |
-| 287445 | [`浴衣と着物のイラストブック`](https://bgm.tv/subject/287445) | 统一 ISBN 写法 |
-| 287446 | [`グルタ島日記 大麦畑のジョディー`](https://bgm.tv/subject/287446) | 统一 ISBN 写法 |
-| 287447 | [`半熟ファミリア 腹ペコ兄妹の熟成レシピ`](https://bgm.tv/subject/287447) | 统一 ISBN 写法 |
-| 287448 | [`めんつゆひとり飯 (2)`](https://bgm.tv/subject/287448) | 统一 ISBN 写法 |
-| 287449 | [`くーねるまるた ぬーぼ (2)`](https://bgm.tv/subject/287449) | 统一 ISBN 写法 |
-| 287450 | [`くーねるまるた ぬーぼ (3)`](https://bgm.tv/subject/287450) | 统一 ISBN 写法 |
-| 287451 | [`晴れのちシンデレラ magical (3)`](https://bgm.tv/subject/287451) | 统一 ISBN 写法 |
-| 287453 | [`林檎と薔薇と吸血鬼(仮) (1)`](https://bgm.tv/subject/287453) | 统一 ISBN 写法 |
-| 287456 | [`思春期JCの血は極上 (1)`](https://bgm.tv/subject/287456) | 统一 ISBN 写法 |
-| 287458 | [`1年A組のモンスター (3)`](https://bgm.tv/subject/287458) | 统一 ISBN 写法 |
-| 287461 | [`異世界転生 百合アンソロジー`](https://bgm.tv/subject/287461) | 统一 ISBN 写法 |
-| 287465 | [`魔女が下す鉄槌 マレウス・マレフィカルム (2)`](https://bgm.tv/subject/287465) | 统一 ISBN 写法 |
-| 287466 | [`キキ・ホリック`](https://bgm.tv/subject/287466) | 统一 ISBN 写法 |
-| 287468 | [`カタコトの庭 (1)`](https://bgm.tv/subject/287468) | 统一 ISBN 写法 |
-| 287469 | [`天使が家にやってきた (2)`](https://bgm.tv/subject/287469) | 统一 ISBN 写法 |
-| 287471 | [`便利屋斎藤さん、異世界に行く (1)`](https://bgm.tv/subject/287471) | 统一 ISBN 写法 |
-| 287493 | [`転性パンデみっく (4)`](https://bgm.tv/subject/287493) | 统一 ISBN 写法 |
-| 287494 | [`転性パンデみっく (5)`](https://bgm.tv/subject/287494) | 统一 ISBN 写法 |
-| 287495 | [`僕の部屋がダンジョンの休憩所になってしまった件 (3)`](https://bgm.tv/subject/287495) | 统一 ISBN 写法 |
-| 287496 | [`僕の部屋がダンジョンの休憩所になってしまった件 放課後の異世界冒険部`](https://bgm.tv/subject/287496) | 统一 ISBN 写法 |
-| 287499 | [`落ちこぼれ[☆1]魔法使いは、今日も無意識にチートを使う (3)`](https://bgm.tv/subject/287499) | 统一 ISBN 写法 |
-| 287500 | [`落ちこぼれ[☆1]魔法使いは、今日も無意識にチートを使う (4)`](https://bgm.tv/subject/287500) | 统一 ISBN 写法 |
-| 287502 | [`前世は剣帝。今生クズ王子`](https://bgm.tv/subject/287502) | 统一 ISBN 写法 |
-| 287505 | [`神に愛された子 (1)`](https://bgm.tv/subject/287505) | 统一 ISBN 写法 |
-| 287506 | [`神に愛された子 (2)`](https://bgm.tv/subject/287506) | 统一 ISBN 写法 |
-| 287507 | [`神に愛された子 (3)`](https://bgm.tv/subject/287507) | 统一 ISBN 写法 |
 | 287509 | [`鳥は鳥であるために (1)`](https://bgm.tv/subject/287509) | 统一 ISBN 写法 |
 | 287510 | [`鳥は鳥であるために (2)`](https://bgm.tv/subject/287510) | 统一 ISBN 写法 |
 | 287511 | [`鳥は鳥であるために (3)`](https://bgm.tv/subject/287511) | 统一 ISBN 写法 |
@@ -6094,8 +6065,6 @@ total 6158
 | 313689 | [`妖精王は愛を喰らう`](https://bgm.tv/subject/313689) | 统一 ISBN 写法 |
 | 314127 | [`神の手違いで死んだらチートガン積みで異世界に放り込まれました (1)`](https://bgm.tv/subject/314127) | 统一 ISBN 写法 |
 | 314135 | [`異世界でアイテムコレクター (1)`](https://bgm.tv/subject/314135) | 统一 ISBN 写法 |
-| 314136 | [`異世界でアイテムコレクター (2)`](https://bgm.tv/subject/314136) | 统一 ISBN 写法 |
-| 314138 | [`異世界でアイテムコレクター (4)`](https://bgm.tv/subject/314138) | 统一 ISBN 写法 |
 | 314139 | [`異世界でアイテムコレクター (5)`](https://bgm.tv/subject/314139) | 统一 ISBN 写法 |
 | 314143 | [`元獣医の令嬢は婚約破棄されましたが、もふもふたちに大人気です! (2)`](https://bgm.tv/subject/314143) | 统一 ISBN 写法 |
 | 314146 | [`異世界王子の年上シンデレラ`](https://bgm.tv/subject/314146) | 统一 ISBN 写法 |
