@@ -1,0 +1,14 @@
+[project]
+name = "bangumi-pages"
+version = "0.1.0"
+description = "MkDocs site for bangumi-pages"
+readme = "readme.md"
+requires-python = ">=3.10"
+dependencies = [
+    "mkdocs==1.6.1",
+    "mkdocs-material==9.7.5",
+    "mkdocs-open-in-new-tab==1.0.8",
+]
+
+[tool.uv]
+package = false
