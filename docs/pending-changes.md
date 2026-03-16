@@ -1,6 +1,6 @@
 # 待处理的条目修改
 
-total 7277
+total 7243
 
 | 条目 | 修改类型 |
 | --- | --- |
@@ -7239,45 +7239,11 @@ total 7277
 | [異世界転生で賢者になって冒険者生活 ~【魔法改良】で異世界最強~  (1)](https://bgm.tv/subject/333520) | 统一 ISBN 写法 |
 | [男装令嬢の不本意な結婚  (1)](https://bgm.tv/subject/333521) | 统一 ISBN 写法 |
 | [地味姫と黒猫の、円満な婚約破棄 (1)](https://bgm.tv/subject/333524) | 统一 ISBN 写法 |
-| [地味姫と黒猫の、円満な婚約破棄  (1)](https://bgm.tv/subject/333526) | 统一 ISBN 写法 |
-| [地味姫と黒猫の、円満な婚約破棄 (2)](https://bgm.tv/subject/333527) | 统一 ISBN 写法 |
-| [異世界トリップの脇役だった件](https://bgm.tv/subject/333528) | 统一 ISBN 写法 |
-| [聖女じゃないと追放されたので、もふもふ従者(聖獣)とおにぎりを握る  (1)](https://bgm.tv/subject/333531) | 统一 ISBN 写法 |
-| [聖女じゃないと追放されたので、もふもふ従者(聖獣)とおにぎりを握る (1)](https://bgm.tv/subject/333533) | 统一 ISBN 写法 |
-| [聖女じゃないと追放されたので、もふもふ従者(聖獣)とおにぎりを握る (2)](https://bgm.tv/subject/333534) | 统一 ISBN 写法 |
-| [転生したら兵士だった?!~赤い死神と呼ばれた男~ (1)](https://bgm.tv/subject/333563) | 统一 ISBN 写法 |
-| [転生したら兵士だった?! ~赤い死神と呼ばれた男~ (2)](https://bgm.tv/subject/333564) | 统一 ISBN 写法 |
-| [転生したら兵士だった?! ~赤い死神と呼ばれた男~ (3)](https://bgm.tv/subject/333565) | 统一 ISBN 写法 |
-| [アトリエで飼われる私 (2)](https://bgm.tv/subject/333569) | 统一 ISBN 写法 |
-| [アトリエで飼われる私 (3)](https://bgm.tv/subject/333570) | 统一 ISBN 写法 |
-| [こどもたちは禁色の雨に戯れる](https://bgm.tv/subject/333571) | 统一 ISBN 写法 |
-| [JSのトリセツ (1)](https://bgm.tv/subject/333581) | 统一 ISBN 写法 |
-| [JSのトリセツ (2)](https://bgm.tv/subject/333582) | 统一 ISBN 写法 |
-| [キャラクター](https://bgm.tv/subject/333584) | 统一 ISBN 写法 |
-| [王立魔法学園の最下生 ~貧困街上がりの最強魔法師、貴族だらけの学園で無双する~ (1)](https://bgm.tv/subject/333594) | 统一 ISBN 写法 |
-| [王立魔法学園の最下生 ~貧困街上がりの最強魔法師、貴族だらけの学園で無双する~](https://bgm.tv/subject/333595) | 统一 ISBN 写法 |
-| [艦隊これくしょん -艦これ- 今宵もサルーテ! (4)](https://bgm.tv/subject/333618) | 统一 ISBN 写法 |
-| [結界師への転生  (2)](https://bgm.tv/subject/334458) | 统一 ISBN 写法 |
-| [結界師への転生  (3)](https://bgm.tv/subject/334459) | 统一 ISBN 写法 |
-| [結界師への転生  (4)](https://bgm.tv/subject/334460) | 统一 ISBN 写法 |
-| [美しき鬼の寵愛に縛られて ~大江山酔夢譚~ (上)](https://bgm.tv/subject/334466) | 统一 ISBN 写法 |
-| [美しき鬼の寵愛に縛られて ~大江山酔夢譚~ (下)](https://bgm.tv/subject/334467) | 统一 ISBN 写法 |
-| [伯爵のみだらな寵愛アンソロジー](https://bgm.tv/subject/334468) | 统一 ISBN 写法 |
-| [交際0日、溺愛婚。](https://bgm.tv/subject/334469) | 统一 ISBN 写法 |
-| [半沢ニャオ樹 (1)](https://bgm.tv/subject/334475) | 统一 ISBN 写法 |
-| [恋じゃないなら名前をつけて (1)](https://bgm.tv/subject/334479) | 统一 ISBN 写法 |
-| [今日、世界一の告白を。](https://bgm.tv/subject/334480) | 统一 ISBN 写法 |
-| [運命のツガイと新婚発情セックス](https://bgm.tv/subject/334565) | 统一 ISBN 写法 |
-| [大嫌いな旦那さまに溺愛されてます I](https://bgm.tv/subject/334567) | 统一 ISBN 写法 |
-| [恋と国会 (1)](https://bgm.tv/subject/334570) | 统一 ISBN 写法 |
-| [雪花妃伝 ~藍帝後宮始末記~ (一)](https://bgm.tv/subject/334575) | 统一 ISBN 写法 |
 | [雪花妃伝 ~藍帝後宮始末記~ (二)](https://bgm.tv/subject/334576) | 统一 ISBN 写法 |
-| [後宮の夜叉姫 (3)](https://bgm.tv/subject/334596) | 统一 ISBN 写法 |
 | [人魚の愛しかた、愛されかた (下)](https://bgm.tv/subject/338334) | 统一 ISBN 写法 |
 | [小さな性](https://bgm.tv/subject/418330) | 统一 ISBN 写法 |
 | [小説 ミラーさん](https://bgm.tv/subject/634706) | 统一 ISBN 写法 |
 | [斬妖除魔 28](https://bgm.tv/subject/634988) | 删除不可见 Unicode 字符 |
 | [ウミガメのスープ〜寝取られ学園の探偵と助手〜](https://bgm.tv/subject/635077) | 删除不可见 Unicode 字符 |
 | [정의오락실](https://bgm.tv/subject/635318) | 统一 ISBN 写法 |
-| [王たる股冠の輝きよ(1)](https://bgm.tv/subject/635605) | 统一 ISBN 写法 |
 | [꽃과 재](https://bgm.tv/subject/635661) | 删除不可见 Unicode 字符 |
