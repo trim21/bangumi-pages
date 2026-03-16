@@ -1,7 +1,6 @@
 # ISBN 错误
 ## <https://bgm.tv/group/topic/404801>
 
-
 total 225
 
 | url | error |
