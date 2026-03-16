@@ -1,6 +1,6 @@
 # 待处理的条目修改
 
-total 6061
+total 6060
 
 | id | 条目 | 修改类型 |
 | --- | --- | --- |
@@ -6028,7 +6028,6 @@ total 6061
 | 287598 | [`女が苦手なヤンキーと少女の話 (1)`](https://bgm.tv/subject/287598) | 统一 ISBN 写法 |
 | 287594 | [`社畜と少女の1800日 (8)`](https://bgm.tv/subject/287594) | 统一 ISBN 写法 |
 | 287593 | [`社畜と少女の1800日 (7)`](https://bgm.tv/subject/287593) | 统一 ISBN 写法 |
-| 287592 | [`君は俺の妻になるのだから`](https://bgm.tv/subject/287592) | 统一 ISBN 写法 |
 | 287591 | [`身代わりの執愛`](https://bgm.tv/subject/287591) | 统一 ISBN 写法 |
 | 287588 | [`お試し結婚だったハズですがっ？`](https://bgm.tv/subject/287588) | 统一 ISBN 写法 |
 | 287587 | [`ドＳ極道の甘い執愛～FROM BLACK～`](https://bgm.tv/subject/287587) | 统一 ISBN 写法 |
