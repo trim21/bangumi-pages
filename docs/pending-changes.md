@@ -1,6 +1,6 @@
 # 待处理的条目修改
 
-total 5909
+total 5869
 
 | id | 条目 | 修改类型 |
 | --- | --- | --- |
@@ -5868,46 +5868,6 @@ total 5909
 | 287939 | [`Unnamed Memory II 玉座に無き女王`](https://bgm.tv/subject/287939) | 统一 ISBN 写法 |
 | 287938 | [`白き聖女の福音 呪われ王は神との離婚を望む`](https://bgm.tv/subject/287938) | 统一 ISBN 写法 |
 | 287937 | [`騎士団長と『仮』王宮生活! ?`](https://bgm.tv/subject/287937) | 统一 ISBN 写法 |
-| 287936 | [`蜜籠: 皇帝陛下は死神憑きの王女を死ぬほど愛しています`](https://bgm.tv/subject/287936) | 统一 ISBN 写法 |
-| 287935 | [`ウブな王女と初恋こじらせ王子~溺愛包囲網からは逃げられません!?~`](https://bgm.tv/subject/287935) | 统一 ISBN 写法 |
-| 287934 | [`ランペリウスの吸血姫 (5) Brotherhood (2)`](https://bgm.tv/subject/287934) | 统一 ISBN 写法 |
-| 287933 | [`ランペリウスの吸血姫 (4) Brotherhood`](https://bgm.tv/subject/287933) | 统一 ISBN 写法 |
-| 287932 | [`ランペリウスの吸血姫 (3) 追憶のファルス`](https://bgm.tv/subject/287932) | 统一 ISBN 写法 |
-| 287931 | [`ランペリウスの吸血姫 (2)`](https://bgm.tv/subject/287931) | 统一 ISBN 写法 |
-| 287930 | [`ランペリウスの吸血姫 (1)`](https://bgm.tv/subject/287930) | 统一 ISBN 写法 |
-| 287927 | [`勇者に買われた奴隷ですが、なぜか勇者を調教しています。`](https://bgm.tv/subject/287927) | 统一 ISBN 写法 |
-| 287926 | [`猫の手でもよろしければ`](https://bgm.tv/subject/287926) | 统一 ISBN 写法 |
-| 287925 | [`魔界で結婚しました`](https://bgm.tv/subject/287925) | 统一 ISBN 写法 |
-| 287914 | [`シチハゴジュウロク (4)`](https://bgm.tv/subject/287914) | 统一 ISBN 写法 |
-| 287911 | [`シチハゴジュウロク (3)`](https://bgm.tv/subject/287911) | 统一 ISBN 写法 |
-| 287906 | [`初めての人になってくれませんか?`](https://bgm.tv/subject/287906) | 统一 ISBN 写法 |
-| 287905 | [`御伽噺を翔ける魔女`](https://bgm.tv/subject/287905) | 统一 ISBN 写法 |
-| 287904 | [`やさしい真実と政略結婚`](https://bgm.tv/subject/287904) | 统一 ISBN 写法 |
-| 287903 | [`私のホワイトライオン (2)`](https://bgm.tv/subject/287903) | 统一 ISBN 写法 |
-| 287902 | [`私のホワイトライオン (1)`](https://bgm.tv/subject/287902) | 统一 ISBN 写法 |
-| 287900 | [`青い鳥つかまえて`](https://bgm.tv/subject/287900) | 统一 ISBN 写法 |
-| 287899 | [`ワケあり公爵と密約婚~愛してはいけないのに、新妻が可愛すぎる~`](https://bgm.tv/subject/287899) | 统一 ISBN 写法 |
-| 287898 | [`オネエな伯爵と臆病令嬢の婚約者ごっこ`](https://bgm.tv/subject/287898) | 统一 ISBN 写法 |
-| 287896 | [`ロミオとジュリエットの結末`](https://bgm.tv/subject/287896) | 统一 ISBN 写法 |
-| 287894 | [`契約妻と伯爵家 (2)`](https://bgm.tv/subject/287894) | 统一 ISBN 写法 |
-| 287893 | [`契約妻と伯爵家 (1)`](https://bgm.tv/subject/287893) | 统一 ISBN 写法 |
-| 287891 | [`偽彼氏と別れる20の方法`](https://bgm.tv/subject/287891) | 统一 ISBN 写法 |
-| 287890 | [`目論見通り愛に溺れて?`](https://bgm.tv/subject/287890) | 统一 ISBN 写法 |
-| 287889 | [`辞令は恋のはじまり`](https://bgm.tv/subject/287889) | 统一 ISBN 写法 |
-| 287888 | [`策士な彼はこじらせ若女将に執愛中`](https://bgm.tv/subject/287888) | 统一 ISBN 写法 |
-| 287887 | [`私、不運なんです!?`](https://bgm.tv/subject/287887) | 统一 ISBN 写法 |
-| 287886 | [`コンプレックス・ラヴァー`](https://bgm.tv/subject/287886) | 统一 ISBN 写法 |
-| 287885 | [`地味男を餌付けしたら、実はイケメン御曹司でした`](https://bgm.tv/subject/287885) | 统一 ISBN 写法 |
-| 287884 | [`愛されてアブノーマル`](https://bgm.tv/subject/287884) | 统一 ISBN 写法 |
-| 287883 | [`星野宮桜子の三度目の正直。 (2)`](https://bgm.tv/subject/287883) | 统一 ISBN 写法 |
-| 287881 | [`いばら姫に最初のキスを`](https://bgm.tv/subject/287881) | 统一 ISBN 写法 |
-| 287880 | [`コンプレックスの行き先は`](https://bgm.tv/subject/287880) | 统一 ISBN 写法 |
-| 287878 | [`おうちでごはん (12)`](https://bgm.tv/subject/287878) | 统一 ISBN 写法 |
-| 287877 | [`おうちでごはん (11)`](https://bgm.tv/subject/287877) | 统一 ISBN 写法 |
-| 287876 | [`おうちでごはん (10)`](https://bgm.tv/subject/287876) | 统一 ISBN 写法 |
-| 287875 | [`おうちでごはん (9)`](https://bgm.tv/subject/287875) | 统一 ISBN 写法 |
-| 287874 | [`おうちでごはん (8)`](https://bgm.tv/subject/287874) | 统一 ISBN 写法 |
-| 287873 | [`おうちでごはん (7)`](https://bgm.tv/subject/287873) | 统一 ISBN 写法 |
 | 287441 | [`傾国の仕立て屋 ローズ・ベルタン (1)`](https://bgm.tv/subject/287441) | 统一 ISBN 写法 |
 | 287393 | [`高嶺のハナさん (1)`](https://bgm.tv/subject/287393) | 统一 ISBN 写法 |
 | 287366 | [`暁のヨナ (29)`](https://bgm.tv/subject/287366) | 统一 ISBN 写法 |
