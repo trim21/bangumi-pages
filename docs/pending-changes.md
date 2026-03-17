@@ -1,6 +1,6 @@
 # 待处理的条目修改
 
-total 6028
+total 5992
 
 | id | 条目 | 修改类型 |
 | --- | --- | --- |
@@ -5991,42 +5991,6 @@ total 6028
 | 287757 | [`お待たせしました、初恋です。 (2)`](https://bgm.tv/subject/287757) | 统一 ISBN 写法 |
 | 287756 | [`トロけてもいいですか? (4)`](https://bgm.tv/subject/287756) | 统一 ISBN 写法 |
 | 287754 | [`あさひ先輩のお気にいり (6)`](https://bgm.tv/subject/287754) | 统一 ISBN 写法 |
-| 287753 | [`へうげもの (25)`](https://bgm.tv/subject/287753) | 统一 ISBN 写法 |
-| 287734 | [`教師×生徒の百合アンソロジーコミック`](https://bgm.tv/subject/287734) | 统一 ISBN 写法 |
-| 287728 | [`この素晴らしい世界に祝福を! (16) 脱走女神、ゴーホーム!`](https://bgm.tv/subject/287728) | 统一 ISBN 写法 |
-| 287726 | [`交通事故で頭を強打したらどうなるか？`](https://bgm.tv/subject/287726) | 统一 ISBN 写法 |
-| 287713 | [`嘘800と好き1つ`](https://bgm.tv/subject/287713) | 统一 ISBN 写法 |
-| 287707 | [`凍牌 ～ミナゴロシ篇～ (4)`](https://bgm.tv/subject/287707) | 统一 ISBN 写法 |
-| 287706 | [`天牌 (100)`](https://bgm.tv/subject/287706) | 统一 ISBN 写法 |
-| 287705 | [`天牌 (99)`](https://bgm.tv/subject/287705) | 统一 ISBN 写法 |
-| 287704 | [`天牌 (98)`](https://bgm.tv/subject/287704) | 统一 ISBN 写法 |
-| 287703 | [`天牌外伝 (36)`](https://bgm.tv/subject/287703) | 统一 ISBN 写法 |
-| 287702 | [`天牌外伝 (35)`](https://bgm.tv/subject/287702) | 统一 ISBN 写法 |
-| 287668 | [`虐殺ハッピーエンド (6)`](https://bgm.tv/subject/287668) | 统一 ISBN 写法 |
-| 287667 | [`親愛なる僕へ殺意をこめて (5)`](https://bgm.tv/subject/287667) | 统一 ISBN 写法 |
-| 287663 | [`ぼくは知っている。`](https://bgm.tv/subject/287663) | 统一 ISBN 写法 |
-| 287661 | [`ココを異世界とする! (2)`](https://bgm.tv/subject/287661) | 统一 ISBN 写法 |
-| 287652 | [`マイぼーる! (16)`](https://bgm.tv/subject/287652) | 统一 ISBN 写法 |
-| 287643 | [`菓子先輩のおいしいレシピ`](https://bgm.tv/subject/287643) | 统一 ISBN 写法 |
-| 287642 | [`休みの日〜その夢と、さよならの向こう側には〜`](https://bgm.tv/subject/287642) | 统一 ISBN 写法 |
-| 287641 | [`それでも僕らは夢を描く`](https://bgm.tv/subject/287641) | 统一 ISBN 写法 |
-| 287640 | [`いつかのラブレターを、きみにもう一度`](https://bgm.tv/subject/287640) | 统一 ISBN 写法 |
-| 287639 | [`MAO (1)`](https://bgm.tv/subject/287639) | 统一 ISBN 写法 |
-| 287636 | [`覆面系ノイズ (18)`](https://bgm.tv/subject/287636) | 统一 ISBN 写法 |
-| 287630 | [`マージナルナイト (1)`](https://bgm.tv/subject/287630) | 统一 ISBN 写法 |
-| 287612 | [`貧乏ガールと肉食ワンコの同棲事情`](https://bgm.tv/subject/287612) | 统一 ISBN 写法 |
-| 287611 | [`うちの紳士な絶倫上司は何度果てても放してくれない`](https://bgm.tv/subject/287611) | 统一 ISBN 写法 |
-| 287610 | [`幼なじみはセクシー男優!? 甘い誘惑、2度目の恋`](https://bgm.tv/subject/287610) | 统一 ISBN 写法 |
-| 287609 | [`恋の熱情~火消しのお兄さんに激しく抱かれたい~`](https://bgm.tv/subject/287609) | 统一 ISBN 写法 |
-| 287608 | [`嘘つきな純情―姉の元カレに恋をした。―`](https://bgm.tv/subject/287608) | 统一 ISBN 写法 |
-| 287607 | [`カタブツ君の愛は激流~俺は生涯あなたと添い遂げたい~ (下)`](https://bgm.tv/subject/287607) | 统一 ISBN 写法 |
-| 287605 | [`カタブツ君の愛は激流~俺は生涯あなたと添い遂げたい~ (上)`](https://bgm.tv/subject/287605) | 统一 ISBN 写法 |
-| 287603 | [`今夜、カレを指名します! 1時間7000円のレンタル彼氏`](https://bgm.tv/subject/287603) | 统一 ISBN 写法 |
-| 287602 | [`絶倫弁護士の夜の顔III~ご利用は計画的に~`](https://bgm.tv/subject/287602) | 统一 ISBN 写法 |
-| 287600 | [`29歳・地味局の突然なモテ期 I`](https://bgm.tv/subject/287600) | 统一 ISBN 写法 |
-| 287599 | [`ぽんこつポン子 (1)`](https://bgm.tv/subject/287599) | 统一 ISBN 写法 |
-| 287598 | [`女が苦手なヤンキーと少女の話 (1)`](https://bgm.tv/subject/287598) | 统一 ISBN 写法 |
-| 287594 | [`社畜と少女の1800日 (8)`](https://bgm.tv/subject/287594) | 统一 ISBN 写法 |
 | 287441 | [`傾国の仕立て屋 ローズ・ベルタン (1)`](https://bgm.tv/subject/287441) | 统一 ISBN 写法 |
 | 287393 | [`高嶺のハナさん (1)`](https://bgm.tv/subject/287393) | 统一 ISBN 写法 |
 | 287366 | [`暁のヨナ (29)`](https://bgm.tv/subject/287366) | 统一 ISBN 写法 |
