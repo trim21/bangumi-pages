@@ -1,6 +1,6 @@
 # 待处理的条目修改
 
-total 5956
+total 5949
 
 | id | 条目 | 修改类型 |
 | --- | --- | --- |
@@ -5915,13 +5915,6 @@ total 5956
 | 287868 | [`おうちでごはん (2)`](https://bgm.tv/subject/287868) | 统一 ISBN 写法 |
 | 287867 | [`おうちでごはん (1)`](https://bgm.tv/subject/287867) | 统一 ISBN 写法 |
 | 287864 | [`ハコヅメ~交番女子の逆襲~ (8)`](https://bgm.tv/subject/287864) | 统一 ISBN 写法 |
-| 287863 | [`ハコヅメ~交番女子の逆襲~ (7)`](https://bgm.tv/subject/287863) | 统一 ISBN 写法 |
-| 287859 | [`魔女の怪画集 (5)`](https://bgm.tv/subject/287859) | 统一 ISBN 写法 |
-| 287858 | [`魔女の怪画集 (4)`](https://bgm.tv/subject/287858) | 统一 ISBN 写法 |
-| 287856 | [`左ききのエレン (8)`](https://bgm.tv/subject/287856) | 统一 ISBN 写法 |
-| 287855 | [`左ききのエレン (7)`](https://bgm.tv/subject/287855) | 统一 ISBN 写法 |
-| 287854 | [`左ききのエレン (6)`](https://bgm.tv/subject/287854) | 统一 ISBN 写法 |
-| 287853 | [`忘却バッテリー (5)`](https://bgm.tv/subject/287853) | 统一 ISBN 写法 |
 | 287852 | [`忘却バッテリー (4)`](https://bgm.tv/subject/287852) | 统一 ISBN 写法 |
 | 287851 | [`忘却バッテリー (3)`](https://bgm.tv/subject/287851) | 统一 ISBN 写法 |
 | 287850 | [`忘却バッテリー (2)`](https://bgm.tv/subject/287850) | 统一 ISBN 写法 |
