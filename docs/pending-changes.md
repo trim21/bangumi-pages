@@ -1,6 +1,6 @@
 # 待处理的条目修改
 
-total 5693
+total 5687
 
 | id | 条目 | 修改类型 |
 | --- | --- | --- |
@@ -67,12 +67,6 @@ total 5693
 | 311026 | [`未確認で進行形 (11)`](https://bgm.tv/subject/311026) | 统一 ISBN 写法 |
 | 310922 | [`二度目の人生アニメーター (5)`](https://bgm.tv/subject/310922) | 统一 ISBN 写法 |
 | 310919 | [`川島芳子は男になりたい (2)`](https://bgm.tv/subject/310919) | 统一 ISBN 写法 |
-| 310918 | [`ある奴隷少女に起こった出来事 (1)`](https://bgm.tv/subject/310918) | 统一 ISBN 写法 |
-| 310917 | [`みかづきマーチ (1)`](https://bgm.tv/subject/310917) | 统一 ISBN 写法 |
-| 310916 | [`ブラトデア (1)`](https://bgm.tv/subject/310916) | 统一 ISBN 写法 |
-| 310905 | [`氷川先生はオタク彼氏がほしい。3時間目`](https://bgm.tv/subject/310905) | 统一 ISBN 写法 |
-| 310904 | [`氷川先生はオタク彼氏がほしい。2時間目`](https://bgm.tv/subject/310904) | 统一 ISBN 写法 |
-| 310895 | [`エンとゆかり (1)`](https://bgm.tv/subject/310895) | 统一 ISBN 写法 |
 | 310894 | [`委員長のノゾミ (2)`](https://bgm.tv/subject/310894) | 统一 ISBN 写法 |
 | 310893 | [`あやしびと (1)`](https://bgm.tv/subject/310893) | 统一 ISBN 写法 |
 | 310892 | [`おちこぼれフルーツタルト (5)`](https://bgm.tv/subject/310892) | 统一 ISBN 写法 |
