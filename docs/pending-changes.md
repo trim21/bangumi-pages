@@ -1,6 +1,6 @@
 # 待处理的条目修改
 
-total 5687
+total 5676
 
 | id | 条目 | 修改类型 |
 | --- | --- | --- |
@@ -62,11 +62,6 @@ total 5687
 | 311086 | [`これは経費で落ちません! ~経理部の森若さん~ (6)`](https://bgm.tv/subject/311086) | 统一 ISBN 写法 |
 | 311085 | [`これは経費で落ちません! ~経理部の森若さん~ (5)`](https://bgm.tv/subject/311085) | 统一 ISBN 写法 |
 | 311041 | [`薔薇王の葬列 (14)`](https://bgm.tv/subject/311041) | 统一 ISBN 写法 |
-| 311030 | [`鬼塚ちゃんと触田くん (1)`](https://bgm.tv/subject/311030) | 统一 ISBN 写法 |
-| 311029 | [`カノジョと秘密と恋もよう (1)`](https://bgm.tv/subject/311029) | 统一 ISBN 写法 |
-| 311026 | [`未確認で進行形 (11)`](https://bgm.tv/subject/311026) | 统一 ISBN 写法 |
-| 310922 | [`二度目の人生アニメーター (5)`](https://bgm.tv/subject/310922) | 统一 ISBN 写法 |
-| 310919 | [`川島芳子は男になりたい (2)`](https://bgm.tv/subject/310919) | 统一 ISBN 写法 |
 | 310894 | [`委員長のノゾミ (2)`](https://bgm.tv/subject/310894) | 统一 ISBN 写法 |
 | 310893 | [`あやしびと (1)`](https://bgm.tv/subject/310893) | 统一 ISBN 写法 |
 | 310892 | [`おちこぼれフルーツタルト (5)`](https://bgm.tv/subject/310892) | 统一 ISBN 写法 |
@@ -346,7 +341,6 @@ total 5687
 | 308368 | [`プラネット・ウィズ (3)`](https://bgm.tv/subject/308368) | 统一 ISBN 写法 |
 | 308367 | [`プラネット・ウィズ (2)`](https://bgm.tv/subject/308367) | 统一 ISBN 写法 |
 | 308362 | [`つばめティップオフ！ (01)`](https://bgm.tv/subject/308362) | 统一 ISBN 写法 |
-| 308361 | [`B/W`](https://bgm.tv/subject/308361) | 统一 ISBN 写法 |
 | 308359 | [`ブクロキックス (1)`](https://bgm.tv/subject/308359) | 统一 ISBN 写法 |
 | 308358 | [`きるる KILL ME (1)`](https://bgm.tv/subject/308358) | 统一 ISBN 写法 |
 | 308343 | [`デスマーチからはじまる異世界狂想曲 (19)`](https://bgm.tv/subject/308343) | 统一 ISBN 写法 |
@@ -2027,7 +2021,6 @@ total 5687
 | 300951 | [`アップルシードα (1)`](https://bgm.tv/subject/300951) | 统一 ISBN 写法 |
 | 300949 | [`大金星`](https://bgm.tv/subject/300949) | 统一 ISBN 写法 |
 | 300948 | [`黒船`](https://bgm.tv/subject/300948) | 统一 ISBN 写法 |
-| 300947 | [`大王`](https://bgm.tv/subject/300947) | 统一 ISBN 写法 |
 | 300941 | [`怖い心理テスト あなたの中のサイコパス`](https://bgm.tv/subject/300941) | 统一 ISBN 写法 |
 | 300939 | [`野人転生 (1)`](https://bgm.tv/subject/300939) | 统一 ISBN 写法 |
 | 300933 | [`世界に一つだけのR (1)`](https://bgm.tv/subject/300933) | 统一 ISBN 写法 |
@@ -3018,7 +3011,6 @@ total 5687
 | 297120 | [`本日のバーガー (13)`](https://bgm.tv/subject/297120) | 统一 ISBN 写法 |
 | 297097 | [`弱小ソシャゲ部の僕らが神ゲーを作るまで (1)`](https://bgm.tv/subject/297097) | 统一 ISBN 写法 |
 | 297063 | [`可愛ければ変態でも好きになってくれますか? (9)`](https://bgm.tv/subject/297063) | 统一 ISBN 写法 |
-| 297051 | [`死印`](https://bgm.tv/subject/297051) | 统一 ISBN 写法 |
 | 297032 | [`師弟 棋士たち魂の伝承`](https://bgm.tv/subject/297032) | 统一 ISBN 写法 |
 | 297029 | [`アニメーターの仕事がわかる本`](https://bgm.tv/subject/297029) | 统一 ISBN 写法 |
 | 297019 | [`ご恩は一生忘れません (3)`](https://bgm.tv/subject/297019) | 统一 ISBN 写法 |
@@ -4128,7 +4120,6 @@ total 5687
 | 293106 | [`青鬼 異形（いぎょう）編`](https://bgm.tv/subject/293106) | 统一 ISBN 写法 |
 | 293105 | [`青鬼 怨霊(おんりょう)編`](https://bgm.tv/subject/293105) | 统一 ISBN 写法 |
 | 293104 | [`青鬼 断章編`](https://bgm.tv/subject/293104) | 统一 ISBN 写法 |
-| 293103 | [`青鬼`](https://bgm.tv/subject/293103) | 统一 ISBN 写法 |
 | 293102 | [`武神男子　～二郎くんの無問題な厄日～`](https://bgm.tv/subject/293102) | 统一 ISBN 写法 |
 | 293101 | [`狩兎町ハロウィンナイト 陽気な吸血鬼と機械仕掛けの怪物`](https://bgm.tv/subject/293101) | 统一 ISBN 写法 |
 | 293100 | [`マネートラップ 偽りの王子と非道なる一族`](https://bgm.tv/subject/293100) | 统一 ISBN 写法 |
@@ -4170,7 +4161,6 @@ total 5687
 | 292848 | [`死役所 (14)`](https://bgm.tv/subject/292848) | 统一 ISBN 写法 |
 | 292841 | [`センサー`](https://bgm.tv/subject/292841) | 统一 ISBN 写法 |
 | 292839 | [`極東事変 (1)`](https://bgm.tv/subject/292839) | 统一 ISBN 写法 |
-| 292838 | [`汁嬢`](https://bgm.tv/subject/292838) | 统一 ISBN 写法 |
 | 292799 | [`ゆるさば。 (03)`](https://bgm.tv/subject/292799) | 统一 ISBN 写法 |
 | 292793 | [`現実逃避してたらボロボロになった話`](https://bgm.tv/subject/292793) | 统一 ISBN 写法 |
 | 292770 | [`放課後ていぼう日誌 (4)`](https://bgm.tv/subject/292770) | 统一 ISBN 写法 |
@@ -4891,7 +4881,6 @@ total 5687
 | 290435 | [`鍵つきテラリウム (2)`](https://bgm.tv/subject/290435) | 统一 ISBN 写法 |
 | 290432 | [`夢に現れる君は、理想と幻想とぼくの過去`](https://bgm.tv/subject/290432) | 统一 ISBN 写法 |
 | 290405 | [`HELLO WORLD if --勘解由小路三鈴は世界で最初の失恋をする--`](https://bgm.tv/subject/290405) | 统一 ISBN 写法 |
-| 290404 | [`娼年`](https://bgm.tv/subject/290404) | 统一 ISBN 写法 |
 | 290403 | [`娼年 3`](https://bgm.tv/subject/290403) | 统一 ISBN 写法 |
 | 290402 | [`娼年 2`](https://bgm.tv/subject/290402) | 统一 ISBN 写法 |
 | 290401 | [`娼年 1`](https://bgm.tv/subject/290401) | 统一 ISBN 写法 |
