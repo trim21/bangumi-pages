@@ -1,6 +1,6 @@
 # 待处理的条目修改
 
-total 5745
+total 5707
 
 | id | 条目 | 修改类型 |
 | --- | --- | --- |
@@ -35,45 +35,7 @@ total 5745
 | 313689 | [`妖精王は愛を喰らう`](https://bgm.tv/subject/313689) | 统一 ISBN 写法 |
 | 313688 | [`契約離婚 花嫁は御曹司に甘く囚われる`](https://bgm.tv/subject/313688) | 统一 ISBN 写法 |
 | 313687 | [`毒皇子の求婚`](https://bgm.tv/subject/313687) | 统一 ISBN 写法 |
-| 312443 | [`寒がりに雪 (1)`](https://bgm.tv/subject/312443) | 统一 ISBN 写法 |
 | 311922 | [`지옥`](https://bgm.tv/subject/311922) | 删除不可见 Unicode 字符 |
-| 311868 | [`サマータイムレンダ (11)`](https://bgm.tv/subject/311868) | 统一 ISBN 写法 |
-| 311867 | [`おじさんが女子●生に悪いことを教える話 (2)`](https://bgm.tv/subject/311867) | 统一 ISBN 写法 |
-| 311865 | [`後宮の花は偽りに護る`](https://bgm.tv/subject/311865) | 统一 ISBN 写法 |
-| 311864 | [`こっち向いて、神様 おんぼろ社の大豪邸`](https://bgm.tv/subject/311864) | 统一 ISBN 写法 |
-| 311863 | [`君とメリーバッドエンド (1)`](https://bgm.tv/subject/311863) | 统一 ISBN 写法 |
-| 311862 | [`きみに、にゃあと鳴いてやる。 わたしが猫になった67日間`](https://bgm.tv/subject/311862) | 统一 ISBN 写法 |
-| 311861 | [`ネクラとヒリアが出会う時`](https://bgm.tv/subject/311861) | 统一 ISBN 写法 |
-| 311860 | [`藤倉君のニセ彼女`](https://bgm.tv/subject/311860) | 统一 ISBN 写法 |
-| 311859 | [`藤倉君のニセ彼女 (1)`](https://bgm.tv/subject/311859) | 统一 ISBN 写法 |
-| 311857 | [`学くんはかっこよく告白したい`](https://bgm.tv/subject/311857) | 统一 ISBN 写法 |
-| 311835 | [`転生王女と天才令嬢の魔法革命 (2)`](https://bgm.tv/subject/311835) | 统一 ISBN 写法 |
-| 311727 | [`制服至上主義`](https://bgm.tv/subject/311727) | 统一 ISBN 写法 |
-| 311380 | [`異世界転移者のマイペース攻略記 (2)`](https://bgm.tv/subject/311380) | 统一 ISBN 写法 |
-| 311377 | [`異世界転移者のマイペース攻略記 (1)`](https://bgm.tv/subject/311377) | 统一 ISBN 写法 |
-| 311294 | [`デート・ア・ライブ フラグメント デート・ア・バレット (6)`](https://bgm.tv/subject/311294) | 统一 ISBN 写法 |
-| 311256 | [`モフモフでムコムコ (1)`](https://bgm.tv/subject/311256) | 统一 ISBN 写法 |
-| 311254 | [`八歳から始まる神々の使徒の転生生活 (1)`](https://bgm.tv/subject/311254) | 统一 ISBN 写法 |
-| 311252 | [`八歳から始まる神々の使徒の転生生活 (3)`](https://bgm.tv/subject/311252) | 统一 ISBN 写法 |
-| 311251 | [`八歳から始まる神々の使徒の転生生活 (2)`](https://bgm.tv/subject/311251) | 统一 ISBN 写法 |
-| 311246 | [`トラップ ~危険な元カレ~ (1)`](https://bgm.tv/subject/311246) | 统一 ISBN 写法 |
-| 311245 | [`もっとあなたを好きになる一日`](https://bgm.tv/subject/311245) | 统一 ISBN 写法 |
-| 311244 | [`ホンノウスイッチ (3)`](https://bgm.tv/subject/311244) | 统一 ISBN 写法 |
-| 311243 | [`私の町の千葉くんは。 (6)`](https://bgm.tv/subject/311243) | 统一 ISBN 写法 |
-| 311242 | [`僕の家においで Wedding (7)`](https://bgm.tv/subject/311242) | 统一 ISBN 写法 |
-| 311241 | [`ウソ婚 (5)`](https://bgm.tv/subject/311241) | 统一 ISBN 写法 |
-| 311240 | [`きみはかわいい女の子 (11)`](https://bgm.tv/subject/311240) | 统一 ISBN 写法 |
-| 311239 | [`わるいこと、ぜんぶ。 (3)`](https://bgm.tv/subject/311239) | 统一 ISBN 写法 |
-| 311238 | [`わるいこと、ぜんぶ。 (2)`](https://bgm.tv/subject/311238) | 统一 ISBN 写法 |
-| 311237 | [`千紘くんは、あたし中毒。 (3)`](https://bgm.tv/subject/311237) | 统一 ISBN 写法 |
-| 311236 | [`ヒロインはじめました。 (4)`](https://bgm.tv/subject/311236) | 统一 ISBN 写法 |
-| 311235 | [`国民的アイドルが弟になったら (2)`](https://bgm.tv/subject/311235) | 统一 ISBN 写法 |
-| 311234 | [`国民的アイドルが弟になったら (1)`](https://bgm.tv/subject/311234) | 统一 ISBN 写法 |
-| 311231 | [`恋と心臓 (5)`](https://bgm.tv/subject/311231) | 统一 ISBN 写法 |
-| 311230 | [`転生悪女の黒歴史 (4)`](https://bgm.tv/subject/311230) | 统一 ISBN 写法 |
-| 311229 | [`天啓の皇帝 呪術師の娘`](https://bgm.tv/subject/311229) | 统一 ISBN 写法 |
-| 311228 | [`あやかし、あまやかし`](https://bgm.tv/subject/311228) | 统一 ISBN 写法 |
-| 311227 | [`愛したがりのメゾン (3)`](https://bgm.tv/subject/311227) | 统一 ISBN 写法 |
 | 311225 | [`黒婚―ブラマリ― (1)`](https://bgm.tv/subject/311225) | 统一 ISBN 写法 |
 | 311224 | [`野良猫と狼 (1)`](https://bgm.tv/subject/311224) | 统一 ISBN 写法 |
 | 311223 | [`墜落JKと廃人教師 (8)`](https://bgm.tv/subject/311223) | 统一 ISBN 写法 |
