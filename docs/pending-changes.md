@@ -1,6 +1,6 @@
 # 待处理的条目修改
 
-total 5949
+total 5909
 
 | id | 条目 | 修改类型 |
 | --- | --- | --- |
@@ -5908,46 +5908,6 @@ total 5949
 | 287875 | [`おうちでごはん (9)`](https://bgm.tv/subject/287875) | 统一 ISBN 写法 |
 | 287874 | [`おうちでごはん (8)`](https://bgm.tv/subject/287874) | 统一 ISBN 写法 |
 | 287873 | [`おうちでごはん (7)`](https://bgm.tv/subject/287873) | 统一 ISBN 写法 |
-| 287872 | [`おうちでごはん (6)`](https://bgm.tv/subject/287872) | 统一 ISBN 写法 |
-| 287871 | [`おうちでごはん (5)`](https://bgm.tv/subject/287871) | 统一 ISBN 写法 |
-| 287870 | [`おうちでごはん (4)`](https://bgm.tv/subject/287870) | 统一 ISBN 写法 |
-| 287869 | [`おうちでごはん (3)`](https://bgm.tv/subject/287869) | 统一 ISBN 写法 |
-| 287868 | [`おうちでごはん (2)`](https://bgm.tv/subject/287868) | 统一 ISBN 写法 |
-| 287867 | [`おうちでごはん (1)`](https://bgm.tv/subject/287867) | 统一 ISBN 写法 |
-| 287864 | [`ハコヅメ~交番女子の逆襲~ (8)`](https://bgm.tv/subject/287864) | 统一 ISBN 写法 |
-| 287852 | [`忘却バッテリー (4)`](https://bgm.tv/subject/287852) | 统一 ISBN 写法 |
-| 287851 | [`忘却バッテリー (3)`](https://bgm.tv/subject/287851) | 统一 ISBN 写法 |
-| 287850 | [`忘却バッテリー (2)`](https://bgm.tv/subject/287850) | 统一 ISBN 写法 |
-| 287849 | [`ロッキンユー!!! (4)`](https://bgm.tv/subject/287849) | 统一 ISBN 写法 |
-| 287848 | [`迷宮王子と渡り姫`](https://bgm.tv/subject/287848) | 统一 ISBN 写法 |
-| 287845 | [`悪堕ち姫は実家没落をねらう (2)`](https://bgm.tv/subject/287845) | 统一 ISBN 写法 |
-| 287844 | [`悪堕ち姫は実家没落をねらう (1)`](https://bgm.tv/subject/287844) | 统一 ISBN 写法 |
-| 287842 | [`神様は嘘つき。`](https://bgm.tv/subject/287842) | 统一 ISBN 写法 |
-| 287840 | [`鬼畜でドSな魔術師アークと私の専属契約書`](https://bgm.tv/subject/287840) | 统一 ISBN 写法 |
-| 287839 | [`ダメチートをもらった私が ツンデレ王子と世界を救います`](https://bgm.tv/subject/287839) | 统一 ISBN 写法 |
-| 287838 | [`たすけて女神さま!`](https://bgm.tv/subject/287838) | 统一 ISBN 写法 |
-| 287837 | [`センセイと愛犬`](https://bgm.tv/subject/287837) | 统一 ISBN 写法 |
-| 287835 | [`出会ってしまったツルとカメ (1)`](https://bgm.tv/subject/287835) | 统一 ISBN 写法 |
-| 287833 | [`グランクレスト戦記  (6)`](https://bgm.tv/subject/287833) | 统一 ISBN 写法 |
-| 287832 | [`宝灯堂機譚 (5)`](https://bgm.tv/subject/287832) | 统一 ISBN 写法 |
-| 287831 | [`宝灯堂機譚 (4)`](https://bgm.tv/subject/287831) | 统一 ISBN 写法 |
-| 287830 | [`宝灯堂機譚 (3)`](https://bgm.tv/subject/287830) | 统一 ISBN 写法 |
-| 287829 | [`宝灯堂機譚 (2)`](https://bgm.tv/subject/287829) | 统一 ISBN 写法 |
-| 287828 | [`宝灯堂機譚 (1)`](https://bgm.tv/subject/287828) | 统一 ISBN 写法 |
-| 287826 | [`いたいお姉さんは好きですか? (3)`](https://bgm.tv/subject/287826) | 统一 ISBN 写法 |
-| 287824 | [`えりちゃんちはふつう`](https://bgm.tv/subject/287824) | 统一 ISBN 写法 |
-| 287823 | [`お気に召すまま シギサワカヤ短編集`](https://bgm.tv/subject/287823) | 统一 ISBN 写法 |
-| 287822 | [`バジーノイズ (3)`](https://bgm.tv/subject/287822) | 统一 ISBN 写法 |
-| 287821 | [`おやすみシェヘラザード (3)`](https://bgm.tv/subject/287821) | 统一 ISBN 写法 |
-| 287820 | [`おやすみシェヘラザード (2)`](https://bgm.tv/subject/287820) | 统一 ISBN 写法 |
-| 287815 | [`伝説兄妹 3！妹湯けむり編`](https://bgm.tv/subject/287815) | 统一 ISBN 写法 |
-| 287814 | [`伝説兄妹2！ 小樽恋情編`](https://bgm.tv/subject/287814) | 统一 ISBN 写法 |
-| 287812 | [`伝説兄妹!`](https://bgm.tv/subject/287812) | 统一 ISBN 写法 |
-| 287811 | [`しずまれ! 俺の左腕 (2)`](https://bgm.tv/subject/287811) | 统一 ISBN 写法 |
-| 287810 | [`しずまれ! 俺の左腕`](https://bgm.tv/subject/287810) | 统一 ISBN 写法 |
-| 287808 | [`夫婦交姦ゲーム`](https://bgm.tv/subject/287808) | 统一 ISBN 写法 |
-| 287807 | [`夫婦交姦ゲーム ―終末の淫宴―`](https://bgm.tv/subject/287807) | 统一 ISBN 写法 |
-| 287806 | [`獄姦WEBサイト`](https://bgm.tv/subject/287806) | 统一 ISBN 写法 |
 | 287441 | [`傾国の仕立て屋 ローズ・ベルタン (1)`](https://bgm.tv/subject/287441) | 统一 ISBN 写法 |
 | 287393 | [`高嶺のハナさん (1)`](https://bgm.tv/subject/287393) | 统一 ISBN 写法 |
 | 287366 | [`暁のヨナ (29)`](https://bgm.tv/subject/287366) | 统一 ISBN 写法 |
