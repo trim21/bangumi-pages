@@ -1,6 +1,6 @@
 # 待处理的条目修改
 
-total 5707
+total 5693
 
 | id | 条目 | 修改类型 |
 | --- | --- | --- |
@@ -35,9 +35,6 @@ total 5707
 | 313689 | [`妖精王は愛を喰らう`](https://bgm.tv/subject/313689) | 统一 ISBN 写法 |
 | 313688 | [`契約離婚 花嫁は御曹司に甘く囚われる`](https://bgm.tv/subject/313688) | 统一 ISBN 写法 |
 | 313687 | [`毒皇子の求婚`](https://bgm.tv/subject/313687) | 统一 ISBN 写法 |
-| 311922 | [`지옥`](https://bgm.tv/subject/311922) | 删除不可见 Unicode 字符 |
-| 311225 | [`黒婚―ブラマリ― (1)`](https://bgm.tv/subject/311225) | 统一 ISBN 写法 |
-| 311224 | [`野良猫と狼 (1)`](https://bgm.tv/subject/311224) | 统一 ISBN 写法 |
 | 311223 | [`墜落JKと廃人教師 (8)`](https://bgm.tv/subject/311223) | 统一 ISBN 写法 |
 | 311222 | [`春と恋と君のこと (4)`](https://bgm.tv/subject/311222) | 统一 ISBN 写法 |
 | 311220 | [`お迎え渋谷くん (6)`](https://bgm.tv/subject/311220) | 统一 ISBN 写法 |
@@ -62,12 +59,6 @@ total 5707
 | 311126 | [`ひきこまり吸血姫の悶々 (2)`](https://bgm.tv/subject/311126) | 统一 ISBN 写法 |
 | 311125 | [`ひきこまり吸血姫の悶々 (1)`](https://bgm.tv/subject/311125) | 统一 ISBN 写法 |
 | 311123 | [`スペース☆ダンディ (2)`](https://bgm.tv/subject/311123) | 统一 ISBN 写法 |
-| 311114 | [`FIRE RABBIT!! (6)`](https://bgm.tv/subject/311114) | 统一 ISBN 写法 |
-| 311113 | [`FIRE RABBIT!! (5)`](https://bgm.tv/subject/311113) | 统一 ISBN 写法 |
-| 311112 | [`FIRE RABBIT!! (4)`](https://bgm.tv/subject/311112) | 统一 ISBN 写法 |
-| 311111 | [`FIRE RABBIT!! (3)`](https://bgm.tv/subject/311111) | 统一 ISBN 写法 |
-| 311110 | [`FIRE RABBIT!! (2)`](https://bgm.tv/subject/311110) | 统一 ISBN 写法 |
-| 311087 | [`これは経費で落ちません! ~経理部の森若さん~ (7)`](https://bgm.tv/subject/311087) | 统一 ISBN 写法 |
 | 311086 | [`これは経費で落ちません! ~経理部の森若さん~ (6)`](https://bgm.tv/subject/311086) | 统一 ISBN 写法 |
 | 311085 | [`これは経費で落ちません! ~経理部の森若さん~ (5)`](https://bgm.tv/subject/311085) | 统一 ISBN 写法 |
 | 311041 | [`薔薇王の葬列 (14)`](https://bgm.tv/subject/311041) | 统一 ISBN 写法 |
@@ -391,7 +382,6 @@ total 5707
 | 308263 | [`【急募】捨てられてたドラゴン拾った【飼い方】 (2)`](https://bgm.tv/subject/308263) | 统一 ISBN 写法 |
 | 308260 | [`北海道の現役ハンターが異世界に放り込まれてみた (2)`](https://bgm.tv/subject/308260) | 统一 ISBN 写法 |
 | 308259 | [`北海道の現役ハンターが異世界に放り込まれてみた (1)`](https://bgm.tv/subject/308259) | 统一 ISBN 写法 |
-| 308249 | [`Afterglow`](https://bgm.tv/subject/308249) | 删除重复字段 |
 | 308245 | [`魔力が無いと言われたので独学で最強無双の大賢者になりました!`](https://bgm.tv/subject/308245) | 统一 ISBN 写法 |
 | 308243 | [`竜人さまに狂愛される悪役令嬢には王子なんか必要ありません!`](https://bgm.tv/subject/308243) | 统一 ISBN 写法 |
 | 308242 | [`田舎貴族に転生した最強死霊術師、子どものフリして爪を隠す`](https://bgm.tv/subject/308242) | 统一 ISBN 写法 |
@@ -3027,14 +3017,11 @@ total 5707
 | 297216 | [`こちらラスボス魔王城前「教会」 (2)`](https://bgm.tv/subject/297216) | 统一 ISBN 写法 |
 | 297215 | [`ゴブリンはもう十分に強い (4)`](https://bgm.tv/subject/297215) | 统一 ISBN 写法 |
 | 297214 | [`巴里マカロンの謎`](https://bgm.tv/subject/297214) | 统一 ISBN 写法 |
-| 297200 | [`Waves of Euphoria`](https://bgm.tv/subject/297200) | 删除重复字段 |
-| 297165 | [`GIRLS' FRONTLINE O.S.T II`](https://bgm.tv/subject/297165) | 删除重复字段 |
 | 297164 | [`愛されすぎて敵わない!`](https://bgm.tv/subject/297164) | 统一 ISBN 写法 |
 | 297150 | [`村上春樹の「螢」・オーウェルの「一九八四年」`](https://bgm.tv/subject/297150) | 统一 ISBN 写法 |
 | 297140 | [`けもののの`](https://bgm.tv/subject/297140) | 统一 ISBN 写法 |
 | 297123 | [`転生王女と天才令嬢の魔法革命`](https://bgm.tv/subject/297123) | 统一 ISBN 写法 |
 | 297120 | [`本日のバーガー (13)`](https://bgm.tv/subject/297120) | 统一 ISBN 写法 |
-| 297100 | [`Spirit Chords`](https://bgm.tv/subject/297100) | 删除重复字段 |
 | 297097 | [`弱小ソシャゲ部の僕らが神ゲーを作るまで (1)`](https://bgm.tv/subject/297097) | 统一 ISBN 写法 |
 | 297063 | [`可愛ければ変態でも好きになってくれますか? (9)`](https://bgm.tv/subject/297063) | 统一 ISBN 写法 |
 | 297051 | [`死印`](https://bgm.tv/subject/297051) | 统一 ISBN 写法 |
@@ -5168,7 +5155,6 @@ total 5707
 | 289409 | [`妖怪男ウォッチ (2)`](https://bgm.tv/subject/289409) | 统一 ISBN 写法 |
 | 289408 | [`妖怪男ウォッチ (1)`](https://bgm.tv/subject/289408) | 统一 ISBN 写法 |
 | 289406 | [`花咲高校演劇部へようこそ!`](https://bgm.tv/subject/289406) | 统一 ISBN 写法 |
-| 289398 | [`ReversEstory`](https://bgm.tv/subject/289398) | 删除不可见 Unicode 字符 |
 | 289393 | [`テューリンゲン博士と愛しのリリー`](https://bgm.tv/subject/289393) | 统一 ISBN 写法 |
 | 289391 | [`プロフーモ!`](https://bgm.tv/subject/289391) | 统一 ISBN 写法 |
 | 289381 | [`魔法がとけたあとも`](https://bgm.tv/subject/289381) | 统一 ISBN 写法 |
