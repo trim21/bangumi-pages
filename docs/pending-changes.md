@@ -1,4 +1,3 @@
-<style> table { width: 100%; } </style>
 # 待处理的条目修改
 
 total 5469
