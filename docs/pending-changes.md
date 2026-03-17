@@ -1,6 +1,6 @@
 # 待处理的条目修改
 
-total 5992
+total 5956
 
 | id | 条目 | 修改类型 |
 | --- | --- | --- |
@@ -5955,42 +5955,6 @@ total 5992
 | 287808 | [`夫婦交姦ゲーム`](https://bgm.tv/subject/287808) | 统一 ISBN 写法 |
 | 287807 | [`夫婦交姦ゲーム ―終末の淫宴―`](https://bgm.tv/subject/287807) | 统一 ISBN 写法 |
 | 287806 | [`獄姦WEBサイト`](https://bgm.tv/subject/287806) | 统一 ISBN 写法 |
-| 287805 | [`淫獄学園`](https://bgm.tv/subject/287805) | 统一 ISBN 写法 |
-| 287804 | [`凌辱支配`](https://bgm.tv/subject/287804) | 统一 ISBN 写法 |
-| 287803 | [`尾山泰永自選傑作集`](https://bgm.tv/subject/287803) | 统一 ISBN 写法 |
-| 287802 | [`ZINGNIZE (2)`](https://bgm.tv/subject/287802) | 统一 ISBN 写法 |
-| 287797 | [`常習盗賊改め方ひなぎく見参! (3)`](https://bgm.tv/subject/287797) | 统一 ISBN 写法 |
-| 287796 | [`常習盗賊改め方ひなぎく見参! (2)`](https://bgm.tv/subject/287796) | 统一 ISBN 写法 |
-| 287795 | [`常習盗賊改め方ひなぎく見参! (1)`](https://bgm.tv/subject/287795) | 统一 ISBN 写法 |
-| 287793 | [`星の大サーカス (1)`](https://bgm.tv/subject/287793) | 统一 ISBN 写法 |
-| 287791 | [`まもって守護月天！ 解封の章 (4)`](https://bgm.tv/subject/287791) | 统一 ISBN 写法 |
-| 287790 | [`まもって守護月天！ 解封の章 (3)`](https://bgm.tv/subject/287790) | 统一 ISBN 写法 |
-| 287789 | [`まもって守護月天！ 解封の章 (2)`](https://bgm.tv/subject/287789) | 统一 ISBN 写法 |
-| 287788 | [`まもって守護月天！ 解封の章 (1)`](https://bgm.tv/subject/287788) | 统一 ISBN 写法 |
-| 287786 | [`ゆとのと (3)`](https://bgm.tv/subject/287786) | 统一 ISBN 写法 |
-| 287785 | [`ゆとのと (2)`](https://bgm.tv/subject/287785) | 统一 ISBN 写法 |
-| 287784 | [`ゆとのと (1)`](https://bgm.tv/subject/287784) | 统一 ISBN 写法 |
-| 287782 | [`モトカレマニア (3)`](https://bgm.tv/subject/287782) | 统一 ISBN 写法 |
-| 287781 | [`マイ ベイカー (2)`](https://bgm.tv/subject/287781) | 统一 ISBN 写法 |
-| 287780 | [`おじさま侯爵は恋するお年頃 (10)`](https://bgm.tv/subject/287780) | 统一 ISBN 写法 |
-| 287778 | [`大正ロマンチカ (21)`](https://bgm.tv/subject/287778) | 统一 ISBN 写法 |
-| 287777 | [`マリーミー! (10)`](https://bgm.tv/subject/287777) | 统一 ISBN 写法 |
-| 287776 | [`アニメ「京都寺町三条のホームズ」公式ガイドブック`](https://bgm.tv/subject/287776) | 统一 ISBN 写法 |
-| 287775 | [`京都寺町三条のホームズ (12) 祗園探偵の事件手帖`](https://bgm.tv/subject/287775) | 统一 ISBN 写法 |
-| 287774 | [`京都寺町三条のホームズ (11) あの頃の想いと優しい夏休み`](https://bgm.tv/subject/287774) | 统一 ISBN 写法 |
-| 287773 | [`京都寺町三条のホームズ  (4)`](https://bgm.tv/subject/287773) | 统一 ISBN 写法 |
-| 287772 | [`着たい服がある (4)`](https://bgm.tv/subject/287772) | 统一 ISBN 写法 |
-| 287771 | [`着たい服がある (3)`](https://bgm.tv/subject/287771) | 统一 ISBN 写法 |
-| 287770 | [`乙女文藝ハッカソン (3)`](https://bgm.tv/subject/287770) | 统一 ISBN 写法 |
-| 287769 | [`乙女文藝ハッカソン (2)`](https://bgm.tv/subject/287769) | 统一 ISBN 写法 |
-| 287768 | [`乙女文藝ハッカソン (1)`](https://bgm.tv/subject/287768) | 统一 ISBN 写法 |
-| 287766 | [`涙雨とセレナーデ (5)`](https://bgm.tv/subject/287766) | 统一 ISBN 写法 |
-| 287765 | [`トラの子が♂なのに迫ってくる話`](https://bgm.tv/subject/287765) | 统一 ISBN 写法 |
-| 287764 | [`絶対に付き合ってはいけない3B男子 (1)`](https://bgm.tv/subject/287764) | 统一 ISBN 写法 |
-| 287759 | [`天照様ご乱心`](https://bgm.tv/subject/287759) | 统一 ISBN 写法 |
-| 287757 | [`お待たせしました、初恋です。 (2)`](https://bgm.tv/subject/287757) | 统一 ISBN 写法 |
-| 287756 | [`トロけてもいいですか? (4)`](https://bgm.tv/subject/287756) | 统一 ISBN 写法 |
-| 287754 | [`あさひ先輩のお気にいり (6)`](https://bgm.tv/subject/287754) | 统一 ISBN 写法 |
 | 287441 | [`傾国の仕立て屋 ローズ・ベルタン (1)`](https://bgm.tv/subject/287441) | 统一 ISBN 写法 |
 | 287393 | [`高嶺のハナさん (1)`](https://bgm.tv/subject/287393) | 统一 ISBN 写法 |
 | 287366 | [`暁のヨナ (29)`](https://bgm.tv/subject/287366) | 统一 ISBN 写法 |
