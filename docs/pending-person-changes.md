@@ -1,10 +1,9 @@
 # 待处理的人物修改
 
-total 169
+total 139
 
 | id | 人物 | 修改类型 |
 | --- | --- | --- |
-| 83662 | [`YUE`](https://bgm.tv/person/83662) | 删除不可见 Unicode 字符 |
 | 67750 | [`ころねぽち`](https://bgm.tv/person/67750) | 删除不可见 Unicode 字符 |
 | 67217 | [`​千葉啓介`](https://bgm.tv/person/67217) | 删除不可见 Unicode 字符 |
 | 67204 | [`EUGEN`](https://bgm.tv/person/67204) | 删除不可见 Unicode 字符 |
@@ -26,35 +25,6 @@ total 169
 | 64454 | [`眠音りま`](https://bgm.tv/person/64454) | 删除不可见 Unicode 字符 |
 | 64302 | [`しむ`](https://bgm.tv/person/64302) | 删除不可见 Unicode 字符 |
 | 63767 | [`唯香`](https://bgm.tv/person/63767) | 删除不可见 Unicode 字符 |
-| 63521 | [`風音ゆき`](https://bgm.tv/person/63521) | 删除不可见 Unicode 字符 |
-| 63338 | [`菜月なこ`](https://bgm.tv/person/63338) | 删除不可见 Unicode 字符 |
-| 63296 | [`狐今あまね`](https://bgm.tv/person/63296) | 删除不可见 Unicode 字符 |
-| 63133 | [`S.A薔薇坊`](https://bgm.tv/person/63133) | 删除不可见 Unicode 字符 |
-| 63043 | [`sugarbeans`](https://bgm.tv/person/63043) | 删除不可见 Unicode 字符 |
-| 61835 | [`雲丹`](https://bgm.tv/person/61835) | 删除不可见 Unicode 字符 |
-| 61706 | [`みやしろ`](https://bgm.tv/person/61706) | 删除不可见 Unicode 字符 |
-| 61316 | [`やたぬき圭`](https://bgm.tv/person/61316) | 删除不可见 Unicode 字符 |
-| 61304 | [`如月ゆう`](https://bgm.tv/person/61304) | 删除不可见 Unicode 字符 |
-| 61097 | [`幕須介人`](https://bgm.tv/person/61097) | 删除不可见 Unicode 字符 |
-| 60291 | [`上坂梨紗`](https://bgm.tv/person/60291) | 删除不可见 Unicode 字符 |
-| 60075 | [`雷涛`](https://bgm.tv/person/60075) | 删除不可见 Unicode 字符 |
-| 59808 | [`Modina`](https://bgm.tv/person/59808) | 删除不可见 Unicode 字符 |
-| 57774 | [`原田ちあき`](https://bgm.tv/person/57774) | 删除不可见 Unicode 字符 |
-| 57468 | [`Smany`](https://bgm.tv/person/57468) | 删除不可见 Unicode 字符 |
-| 57194 | [`要田健`](https://bgm.tv/person/57194) | 删除不可见 Unicode 字符 |
-| 57018 | [`船井美玖`](https://bgm.tv/person/57018) | 删除不可见 Unicode 字符 |
-| 56811 | [`晴祥文化`](https://bgm.tv/person/56811) | 删除不可见 Unicode 字符 |
-| 56569 | [`百田ちなこ`](https://bgm.tv/person/56569) | 删除不可见 Unicode 字符 |
-| 56550 | [`Gal Gadot`](https://bgm.tv/person/56550) | 删除不可见 Unicode 字符 |
-| 56034 | [`犬養奏`](https://bgm.tv/person/56034) | 删除不可见 Unicode 字符 |
-| 55917 | [`天城しの`](https://bgm.tv/person/55917) | 删除不可见 Unicode 字符 |
-| 55866 | [`くれ〜ぷ`](https://bgm.tv/person/55866) | 删除不可见 Unicode 字符 |
-| 55412 | [`Siino`](https://bgm.tv/person/55412) | 删除不可见 Unicode 字符 |
-| 55314 | [`桃稚ちあ`](https://bgm.tv/person/55314) | 删除不可见 Unicode 字符 |
-| 55177 | [`ああああ`](https://bgm.tv/person/55177) | 删除不可见 Unicode 字符 |
-| 55162 | [`s-don`](https://bgm.tv/person/55162) | 删除不可见 Unicode 字符 |
-| 54842 | [`PRIMAGIC`](https://bgm.tv/person/54842) | 删除不可见 Unicode 字符 |
-| 53219 | [`嵐星人`](https://bgm.tv/person/53219) | 删除不可见 Unicode 字符 |
 | 51735 | [`ALFA游戏组`](https://bgm.tv/person/51735) | 删除不可见 Unicode 字符 |
 | 51289 | [`reboot`](https://bgm.tv/person/51289) | 删除不可见 Unicode 字符 |
 | 50839 | [`中村一般`](https://bgm.tv/person/50839) | 删除不可见 Unicode 字符 |
