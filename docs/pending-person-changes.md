@@ -1,6 +1,6 @@
 # 待处理的人物修改
 
-total 265
+total 268
 
 | id | 人物 | 修改类型 |
 | --- | --- | --- |
@@ -269,3 +269,6 @@ total 265
 | 5733 | [`KOTOKO`](https://bgm.tv/person/5733) | 删除不可见 Unicode 字符 |
 | 3660 | [`文倉十`](https://bgm.tv/person/3660) | 删除不可见 Unicode 字符 |
 | 1293 | [`上田益`](https://bgm.tv/person/1293) | 删除不可见 Unicode 字符 |
+| 38964 | [`伊藤浩資`](https://bgm.tv/person/38964) | 删除重复字段 |
+| 38962 | [`大沢つむぎ`](https://bgm.tv/person/38962) | 删除重复字段 |
+| 16081 | [`元ハルヒラ`](https://bgm.tv/person/16081) | 删除重复字段 |
