@@ -1,6 +1,6 @@
 # 待处理的人物修改
 
-total 91
+total 86
 
 | id | 人物 | 修改类型 |
 | --- | --- | --- |
@@ -49,11 +49,6 @@ total 91
 | 32909 | [`杉下トキヤ`](https://bgm.tv/person/32909) | 删除不可见 Unicode 字符 |
 | 32817 | [`望月けい`](https://bgm.tv/person/32817) | 删除不可见 Unicode 字符 |
 | 32682 | [`twinkle`](https://bgm.tv/person/32682) | 删除不可见 Unicode 字符 |
-| 31993 | [`北村友香`](https://bgm.tv/person/31993) | 删除不可见 Unicode 字符 |
-| 31937 | [`小松`](https://bgm.tv/person/31937) | 删除不可见 Unicode 字符 |
-| 31527 | [`AcFun`](https://bgm.tv/person/31527) | 删除不可见 Unicode 字符 |
-| 31053 | [`なめたけ`](https://bgm.tv/person/31053) | 删除不可见 Unicode 字符 |
-| 31007 | [`Infogrames`](https://bgm.tv/person/31007) | 删除不可见 Unicode 字符 |
 | 30998 | [`シエラ`](https://bgm.tv/person/30998) | 删除不可见 Unicode 字符 |
 | 29916 | [`逢瀬アキラ`](https://bgm.tv/person/29916) | 删除不可见 Unicode 字符 |
 | 29551 | [`猫乃緒みみ`](https://bgm.tv/person/29551) | 删除不可见 Unicode 字符 |
