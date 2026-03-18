@@ -1,43 +1,9 @@
 # 待处理的角色修改
 
-total 668
+total 619
 
 | id | 角色 | 修改类型 |
 | --- | --- | --- |
-| 204872 | [`ラムダ`](https://bgm.tv/character/204872) | 删除不可见 Unicode 字符 |
-| 204671 | [`アウルス・アンセルム　`](https://bgm.tv/character/204671) | 删除不可见 Unicode 字符 |
-| 202667 | [`おかざき尊`](https://bgm.tv/character/202667) | 删除不可见 Unicode 字符 |
-| 202666 | [`越川メイ`](https://bgm.tv/character/202666) | 删除不可见 Unicode 字符 |
-| 200076 | [`后土`](https://bgm.tv/character/200076) | 删除不可见 Unicode 字符 |
-| 198774 | [`香田茜`](https://bgm.tv/character/198774) | 删除不可见 Unicode 字符 |
-| 198772 | [`二階堂恩`](https://bgm.tv/character/198772) | 删除不可见 Unicode 字符 |
-| 198770 | [`黒凪王純`](https://bgm.tv/character/198770) | 删除不可见 Unicode 字符 |
-| 198667 | [`陸上チカ　`](https://bgm.tv/character/198667) | 删除不可见 Unicode 字符 |
-| 198345 | [`一条将太`](https://bgm.tv/character/198345) | 删除不可见 Unicode 字符 |
-| 197203 | [`えのぐ`](https://bgm.tv/character/197203) | 删除不可见 Unicode 字符 |
-| 195379 | [`黒主灰閻　`](https://bgm.tv/character/195379) | 删除不可见 Unicode 字符 |
-| 194840 | [`알리시아 데본셔`](https://bgm.tv/character/194840) | 删除不可见 Unicode 字符 |
-| 194839 | [`제플린 데본셔`](https://bgm.tv/character/194839) | 删除不可见 Unicode 字符 |
-| 194838 | [`﻿율리안 요하네스`](https://bgm.tv/character/194838) | 删除不可见 Unicode 字符 |
-| 194837 | [`레베카`](https://bgm.tv/character/194837) | 删除不可见 Unicode 字符 |
-| 193188 | [`アンジェリーナ・グランマニエルショコラ・ジュリアンジェリー　`](https://bgm.tv/character/193188) | 删除不可见 Unicode 字符 |
-| 192542 | [`​成瀬尽`](https://bgm.tv/character/192542) | 删除不可见 Unicode 字符 |
-| 189293 | [`梶`](https://bgm.tv/character/189293) | 删除不可见 Unicode 字符 |
-| 189292 | [`佐倉`](https://bgm.tv/character/189292) | 删除不可见 Unicode 字符 |
-| 189290 | [`旭`](https://bgm.tv/character/189290) | 删除不可见 Unicode 字符 |
-| 189289 | [`嘉島直人`](https://bgm.tv/character/189289) | 删除不可见 Unicode 字符 |
-| 189288 | [`相原友樹`](https://bgm.tv/character/189288) | 删除不可见 Unicode 字符 |
-| 188861 | [`ポンザラシ`](https://bgm.tv/character/188861) | 删除不可见 Unicode 字符 |
-| 188496 | [`星隈奈留乃　`](https://bgm.tv/character/188496) | 删除不可见 Unicode 字符 |
-| 188481 | [`アケチミツヒデ　`](https://bgm.tv/character/188481) | 删除不可见 Unicode 字符 |
-| 188472 | [`ワイバーン娘　`](https://bgm.tv/character/188472) | 删除不可见 Unicode 字符 |
-| 188465 | [`クリス　`](https://bgm.tv/character/188465) | 删除不可见 Unicode 字符 |
-| 188278 | [`キキョウ　`](https://bgm.tv/character/188278) | 删除不可见 Unicode 字符 |
-| 188277 | [`リリシア　`](https://bgm.tv/character/188277) | 删除不可见 Unicode 字符 |
-| 188270 | [`スフィカ　`](https://bgm.tv/character/188270) | 删除不可见 Unicode 字符 |
-| 188201 | [`市長さん 　`](https://bgm.tv/character/188201) | 删除不可见 Unicode 字符 |
-| 188200 | [`モグラ 　`](https://bgm.tv/character/188200) | 删除不可见 Unicode 字符 |
-| 188199 | [`魔女子さん 　`](https://bgm.tv/character/188199) | 删除不可见 Unicode 字符 |
 | 188135 | [`富田愛菜　`](https://bgm.tv/character/188135) | 删除不可见 Unicode 字符 |
 | 188133 | [`彩風怜佳　`](https://bgm.tv/character/188133) | 删除不可见 Unicode 字符 |
 | 188065 | [`フローラ　`](https://bgm.tv/character/188065) | 删除不可见 Unicode 字符 |
@@ -140,7 +106,6 @@ total 668
 | 160994 | [`ウィザード`](https://bgm.tv/character/160994) | 删除不可见 Unicode 字符 |
 | 160993 | [`招かれざる客`](https://bgm.tv/character/160993) | 删除不可见 Unicode 字符 |
 | 160991 | [`うっかりハチベー`](https://bgm.tv/character/160991) | 删除不可见 Unicode 字符 |
-| 160989 | [`レジェンダリー・ファイナル・クライマックス・ボム`](https://bgm.tv/character/160989) | 删除不可见 Unicode 字符 |
 | 160128 | [`幽蘭`](https://bgm.tv/character/160128) | 删除不可见 Unicode 字符 |
 | 160127 | [`蜂矢夢久`](https://bgm.tv/character/160127) | 删除不可见 Unicode 字符 |
 | 158493 | [`​？ ？ ？`](https://bgm.tv/character/158493) | 删除不可见 Unicode 字符 |
@@ -253,7 +218,6 @@ total 668
 | 110371 | [`汐留道雄`](https://bgm.tv/character/110371) | 删除不可见 Unicode 字符 |
 | 110367 | [`青海`](https://bgm.tv/character/110367) | 删除不可见 Unicode 字符 |
 | 110366 | [`新橋`](https://bgm.tv/character/110366) | 删除不可见 Unicode 字符 |
-| 107316 | [`サンフランシスコ＝フランソワーズ`](https://bgm.tv/character/107316) | 删除不可见 Unicode 字符 |
 | 107314 | [`東不九兵衛`](https://bgm.tv/character/107314) | 删除不可见 Unicode 字符 |
 | 107310 | [`アンナ＝ハート`](https://bgm.tv/character/107310) | 删除不可见 Unicode 字符 |
 | 106136 | [`⁡吉永玲子`](https://bgm.tv/character/106136) | 删除不可见 Unicode 字符 |
@@ -355,20 +319,7 @@ total 668
 | 86032 | [`Theodore Riddle`](https://bgm.tv/character/86032) | 删除不可见 Unicode 字符 |
 | 86030 | [`​磯井来`](https://bgm.tv/character/86030) | 删除不可见 Unicode 字符 |
 | 86028 | [`榎本一恵`](https://bgm.tv/character/86028) | 删除不可见 Unicode 字符 |
-| 71589 | [`ミレイユ／エデンズリッター グレモリー　`](https://bgm.tv/character/71589) | 删除不可见 Unicode 字符 |
-| 71587 | [`ヒルデガルド／エデンズリッター バルベリト　`](https://bgm.tv/character/71587) | 删除不可见 Unicode 字符 |
 | 50618 | [`“山の翁”`](https://bgm.tv/character/50618) | 删除不可见 Unicode 字符 |
-| 43777 | [`Ana`](https://bgm.tv/character/43777) | 删除不可见 Unicode 字符 |
-| 32098 | [`宮森かおり`](https://bgm.tv/character/32098) | 删除不可见 Unicode 字符 |
-| 30186 | [`Max Payne`](https://bgm.tv/character/30186) | 删除不可见 Unicode 字符 |
-| 29221 | [`衛`](https://bgm.tv/character/29221) | 删除不可见 Unicode 字符 |
-| 26099 | [`彩梨父親`](https://bgm.tv/character/26099) | 删除不可见 Unicode 字符 |
-| 26094 | [`瑪桃·拉斯布利`](https://bgm.tv/character/26094) | 删除不可见 Unicode 字符 |
-| 26091 | [`露兒·馬多里卡尼`](https://bgm.tv/character/26091) | 删除不可见 Unicode 字符 |
-| 26087 | [`彩梨·美普　`](https://bgm.tv/character/26087) | 删除不可见 Unicode 字符 |
-| 20813 | [`リ・スゥファ`](https://bgm.tv/character/20813) | 删除不可见 Unicode 字符 |
-| 20794 | [`イグニス`](https://bgm.tv/character/20794) | 删除不可见 Unicode 字符 |
-| 12443 | [`アマリ＝ナ＝ベムベ＝ベルベル　`](https://bgm.tv/character/12443) | 删除不可见 Unicode 字符 |
 | 110950 | [`クピタン`](https://bgm.tv/character/110950) | 删除重复字段 |
 | 110948 | [`リルル`](https://bgm.tv/character/110948) | 删除重复字段 |
 | 105786 | [`アルフレッド＝アルシュジャー`](https://bgm.tv/character/105786) | 删除重复字段 |
