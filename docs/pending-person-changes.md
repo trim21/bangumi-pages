@@ -1,11 +1,9 @@
 # 待处理的人物修改
 
-total 268
+total 265
 
 | id | 人物 | 修改类型 |
 | --- | --- | --- |
-| 88601 | [`古賀陽菜`](https://bgm.tv/person/88601) | 删除不可见 Unicode 字符 |
-| 88242 | [`石橋雅一`](https://bgm.tv/person/88242) | 删除不可见 Unicode 字符 |
 | 88134 | [`安芸緒`](https://bgm.tv/person/88134) | 删除不可见 Unicode 字符 |
 | 86882 | [`kanakanakanatch`](https://bgm.tv/person/86882) | 删除不可见 Unicode 字符 |
 | 86503 | [`Seiji Iwasaki`](https://bgm.tv/person/86503) | 删除不可见 Unicode 字符 |
@@ -30,7 +28,6 @@ total 268
 | 80329 | [`ゆめこ`](https://bgm.tv/person/80329) | 删除不可见 Unicode 字符 |
 | 79962 | [`杨芝科`](https://bgm.tv/person/79962) | 删除不可见 Unicode 字符 |
 | 79490 | [`細川成美`](https://bgm.tv/person/79490) | 删除不可见 Unicode 字符 |
-| 78442 | [`RiFF Studio`](https://bgm.tv/person/78442) | 删除不可见 Unicode 字符 |
 | 78000 | [`与光同尘`](https://bgm.tv/person/78000) | 删除不可见 Unicode 字符 |
 | 77652 | [`R'entelica`](https://bgm.tv/person/77652) | 删除不可见 Unicode 字符 |
 | 77209 | [`阿云嘎`](https://bgm.tv/person/77209) | 删除不可见 Unicode 字符 |
