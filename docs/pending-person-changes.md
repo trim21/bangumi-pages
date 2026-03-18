@@ -1,59 +1,10 @@
 # 待处理的人物修改
 
-total 218
+total 169
 
 | id | 人物 | 修改类型 |
 | --- | --- | --- |
-| 85633 | [`Бам!Бук`](https://bgm.tv/person/85633) | 删除不可见 Unicode 字符 |
-| 84933 | [`海野水玉`](https://bgm.tv/person/84933) | 删除不可见 Unicode 字符 |
-| 84797 | [`林そよか`](https://bgm.tv/person/84797) | 删除不可见 Unicode 字符 |
 | 83662 | [`YUE`](https://bgm.tv/person/83662) | 删除不可见 Unicode 字符 |
-| 83616 | [`呆`](https://bgm.tv/person/83616) | 删除不可见 Unicode 字符 |
-| 83126 | [`菅谷豊`](https://bgm.tv/person/83126) | 删除不可见 Unicode 字符 |
-| 82315 | [`あん豆`](https://bgm.tv/person/82315) | 删除不可见 Unicode 字符 |
-| 82130 | [`Yasuha.`](https://bgm.tv/person/82130) | 删除不可见 Unicode 字符 |
-| 81985 | [`カラスロ`](https://bgm.tv/person/81985) | 删除不可见 Unicode 字符 |
-| 81971 | [`炬ﾖﾂｷﾞ`](https://bgm.tv/person/81971) | 删除不可见 Unicode 字符 |
-| 81503 | [`羊露霧`](https://bgm.tv/person/81503) | 删除不可见 Unicode 字符 |
-| 80638 | [`斑马影视`](https://bgm.tv/person/80638) | 删除不可见 Unicode 字符 |
-| 80570 | [`ザ50回転ズ`](https://bgm.tv/person/80570) | 删除不可见 Unicode 字符 |
-| 80453 | [`joinT`](https://bgm.tv/person/80453) | 删除不可见 Unicode 字符 |
-| 80329 | [`ゆめこ`](https://bgm.tv/person/80329) | 删除不可见 Unicode 字符 |
-| 79962 | [`杨芝科`](https://bgm.tv/person/79962) | 删除不可见 Unicode 字符 |
-| 79490 | [`細川成美`](https://bgm.tv/person/79490) | 删除不可见 Unicode 字符 |
-| 78000 | [`与光同尘`](https://bgm.tv/person/78000) | 删除不可见 Unicode 字符 |
-| 77652 | [`R'entelica`](https://bgm.tv/person/77652) | 删除不可见 Unicode 字符 |
-| 77209 | [`阿云嘎`](https://bgm.tv/person/77209) | 删除不可见 Unicode 字符 |
-| 76653 | [`​怠目しあん`](https://bgm.tv/person/76653) | 删除不可见 Unicode 字符 |
-| 75477 | [`夏みのる`](https://bgm.tv/person/75477) | 删除不可见 Unicode 字符 |
-| 75161 | [`保利影业`](https://bgm.tv/person/75161) | 删除不可见 Unicode 字符 |
-| 75092 | [`みなづき`](https://bgm.tv/person/75092) | 删除不可见 Unicode 字符 |
-| 74850 | [`わっふる`](https://bgm.tv/person/74850) | 删除不可见 Unicode 字符 |
-| 74769 | [`room6`](https://bgm.tv/person/74769) | 删除不可见 Unicode 字符 |
-| 74598 | [`桜都あるす`](https://bgm.tv/person/74598) | 删除不可见 Unicode 字符 |
-| 73926 | [`小山絵里奈`](https://bgm.tv/person/73926) | 删除不可见 Unicode 字符 |
-| 73567 | [`Amy Pascal`](https://bgm.tv/person/73567) | 删除不可见 Unicode 字符 |
-| 73426 | [`相馬めぐみ`](https://bgm.tv/person/73426) | 删除不可见 Unicode 字符 |
-| 73325 | [`necoworks`](https://bgm.tv/person/73325) | 删除不可见 Unicode 字符 |
-| 73124 | [`いお`](https://bgm.tv/person/73124) | 删除不可见 Unicode 字符 |
-| 72676 | [`神海処`](https://bgm.tv/person/72676) | 删除不可见 Unicode 字符 |
-| 72263 | [`馮嘉德`](https://bgm.tv/person/72263) | 删除不可见 Unicode 字符 |
-| 71532 | [`幻步游戏`](https://bgm.tv/person/71532) | 删除不可见 Unicode 字符 |
-| 71266 | [`山月まり`](https://bgm.tv/person/71266) | 删除不可见 Unicode 字符 |
-| 71013 | [`吉田敬`](https://bgm.tv/person/71013) | 删除不可见 Unicode 字符 |
-| 70950 | [`にょる`](https://bgm.tv/person/70950) | 删除不可见 Unicode 字符 |
-| 70619 | [`Seraph`](https://bgm.tv/person/70619) | 删除不可见 Unicode 字符 |
-| 70599 | [`伊藤誠悟`](https://bgm.tv/person/70599) | 删除不可见 Unicode 字符 |
-| 70548 | [`藤墅。`](https://bgm.tv/person/70548) | 删除不可见 Unicode 字符 |
-| 70253 | [`音熊联萌`](https://bgm.tv/person/70253) | 删除不可见 Unicode 字符 |
-| 69585 | [`tsuki`](https://bgm.tv/person/69585) | 删除不可见 Unicode 字符 |
-| 69584 | [`Moai`](https://bgm.tv/person/69584) | 删除不可见 Unicode 字符 |
-| 69164 | [`しいたけ`](https://bgm.tv/person/69164) | 删除不可见 Unicode 字符 |
-| 68817 | [`u-full`](https://bgm.tv/person/68817) | 删除不可见 Unicode 字符 |
-| 68707 | [`松﨑涼介`](https://bgm.tv/person/68707) | 删除不可见 Unicode 字符 |
-| 68652 | [`づ`](https://bgm.tv/person/68652) | 删除不可见 Unicode 字符 |
-| 68477 | [`池田和宏`](https://bgm.tv/person/68477) | 删除不可见 Unicode 字符 |
-| 67880 | [`NORICOPO`](https://bgm.tv/person/67880) | 删除不可见 Unicode 字符 |
 | 67750 | [`ころねぽち`](https://bgm.tv/person/67750) | 删除不可见 Unicode 字符 |
 | 67217 | [`​千葉啓介`](https://bgm.tv/person/67217) | 删除不可见 Unicode 字符 |
 | 67204 | [`EUGEN`](https://bgm.tv/person/67204) | 删除不可见 Unicode 字符 |
