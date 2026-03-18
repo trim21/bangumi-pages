@@ -1,27 +1,9 @@
 # 待处理的人物修改
 
-total 288
+total 269
 
 | id | 人物 | 修改类型 |
 | --- | --- | --- |
-| 45893 | [`デジタルワークスエンターテインメント`](https://bgm.tv/person/45893) | 删除不可见 Unicode 字符 |
-| 6814 | [`Warner Bros. Entertainment, Inc`](https://bgm.tv/person/6814) | 删除不可见 Unicode 字符 |
-| 78296 | [`Mitsuru Matsuoka EARNEST DRIVE`](https://bgm.tv/person/78296) | 删除不可见 Unicode 字符 |
-| 80451 | [`Blatantly Emotional Records`](https://bgm.tv/person/80451) | 删除不可见 Unicode 字符 |
-| 80175 | [`Seven Bucks Productions`](https://bgm.tv/person/80175) | 删除不可见 Unicode 字符 |
-| 68162 | [`フーリンキャットマーク`](https://bgm.tv/person/68162) | 删除不可见 Unicode 字符 |
-| 25116 | [`コロムビアゆりかご会`](https://bgm.tv/person/25116) | 删除不可见 Unicode 字符 |
-| 71347 | [`Skydance Interactive`](https://bgm.tv/person/71347) | 删除不可见 Unicode 字符 |
-| 73545 | [`Sandfall Interactive`](https://bgm.tv/person/73545) | 删除不可见 Unicode 字符 |
-| 75743 | [`アリスティア株式会社`](https://bgm.tv/person/75743) | 删除不可见 Unicode 字符 |
-| 44009 | [`Fortiche Production`](https://bgm.tv/person/44009) | 删除不可见 Unicode 字符 |
-| 47500 | [`UchuPeople合同会社`](https://bgm.tv/person/47500) | 删除不可见 Unicode 字符 |
-| 47791 | [`コスモプロジェクト`](https://bgm.tv/person/47791) | 删除不可见 Unicode 字符 |
-| 52883 | [`サイトウリョースケ`](https://bgm.tv/person/52883) | 删除不可见 Unicode 字符 |
-| 70667 | [`Lin-Manuel Miranda`](https://bgm.tv/person/70667) | 删除不可见 Unicode 字符 |
-| 73989 | [`Build A Rocket Boy`](https://bgm.tv/person/73989) | 删除不可见 Unicode 字符 |
-| 25015 | [`Jacques Offenbach`](https://bgm.tv/person/25015) | 删除不可见 Unicode 字符 |
-| 38505 | [`NOSTALGICGARDEN　`](https://bgm.tv/person/38505) | 删除不可见 Unicode 字符 |
 | 71262 | [`しなもんしゅがー☆`](https://bgm.tv/person/71262) | 删除不可见 Unicode 字符 |
 | 72283 | [`Jamsai Publishing`](https://bgm.tv/person/72283) | 删除不可见 Unicode 字符 |
 | 34397 | [`ファイルーズあい`](https://bgm.tv/person/34397) | 删除不可见 Unicode 字符 |
@@ -53,7 +35,6 @@ total 288
 | 54835 | [`Hiroki Sagawa`](https://bgm.tv/person/54835) | 删除不可见 Unicode 字符 |
 | 66071 | [`おもち もなか`](https://bgm.tv/person/66071) | 删除不可见 Unicode 字符 |
 | 86503 | [`Seiji Iwasaki`](https://bgm.tv/person/86503) | 删除不可见 Unicode 字符 |
-| 30569 | [`兎味ペロリナ`](https://bgm.tv/person/30569) | 删除不可见 Unicode 字符 |
 | 30899 | [`Flying Lotus`](https://bgm.tv/person/30899) | 删除不可见 Unicode 字符 |
 | 31279 | [`野田てつろう`](https://bgm.tv/person/31279) | 删除不可见 Unicode 字符 |
 | 31398 | [`マツキタツヤ`](https://bgm.tv/person/31398) | 删除不可见 Unicode 字符 |
