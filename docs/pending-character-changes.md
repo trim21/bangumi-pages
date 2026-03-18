@@ -1,59 +1,9 @@
 # 待处理的角色修改
 
-total 619
+total 569
 
 | id | 角色 | 修改类型 |
 | --- | --- | --- |
-| 188135 | [`富田愛菜　`](https://bgm.tv/character/188135) | 删除不可见 Unicode 字符 |
-| 188133 | [`彩風怜佳　`](https://bgm.tv/character/188133) | 删除不可见 Unicode 字符 |
-| 188065 | [`フローラ　`](https://bgm.tv/character/188065) | 删除不可见 Unicode 字符 |
-| 188064 | [`エデルガルト　`](https://bgm.tv/character/188064) | 删除不可见 Unicode 字符 |
-| 188061 | [`オリガ　`](https://bgm.tv/character/188061) | 删除不可见 Unicode 字符 |
-| 188060 | [`ポリーナ　`](https://bgm.tv/character/188060) | 删除不可见 Unicode 字符 |
-| 188059 | [`アナスタシア　`](https://bgm.tv/character/188059) | 删除不可见 Unicode 字符 |
-| 188039 | [`幽　`](https://bgm.tv/character/188039) | 删除不可见 Unicode 字符 |
-| 187975 | [`カタリナ　`](https://bgm.tv/character/187975) | 删除不可见 Unicode 字符 |
-| 187931 | [`フィオナ姫　`](https://bgm.tv/character/187931) | 删除不可见 Unicode 字符 |
-| 187868 | [`フィリオラ　`](https://bgm.tv/character/187868) | 删除不可见 Unicode 字符 |
-| 187851 | [`月岡陽　`](https://bgm.tv/character/187851) | 删除不可见 Unicode 字符 |
-| 187597 | [`川崎の人間`](https://bgm.tv/character/187597) | 删除不可见 Unicode 字符 |
-| 187596 | [`横浜のエルフ`](https://bgm.tv/character/187596) | 删除不可见 Unicode 字符 |
-| 187550 | [`白井洋平　`](https://bgm.tv/character/187550) | 删除不可见 Unicode 字符 |
-| 186633 | [`萊姆 達蒙`](https://bgm.tv/character/186633) | 删除不可见 Unicode 字符 |
-| 186632 | [`露娜・星格那`](https://bgm.tv/character/186632) | 删除不可见 Unicode 字符 |
-| 186271 | [`ジナン`](https://bgm.tv/character/186271) | 删除不可见 Unicode 字符 |
-| 186053 | [`金伯利女郎`](https://bgm.tv/character/186053) | 删除不可见 Unicode 字符 |
-| 185970 | [`ラン`](https://bgm.tv/character/185970) | 删除不可见 Unicode 字符 |
-| 185969 | [`ミック`](https://bgm.tv/character/185969) | 删除不可见 Unicode 字符 |
-| 185734 | [`​樋口聖高`](https://bgm.tv/character/185734) | 删除不可见 Unicode 字符 |
-| 185701 | [`淳ヒカリ`](https://bgm.tv/character/185701) | 删除不可见 Unicode 字符 |
-| 185699 | [`ユキ`](https://bgm.tv/character/185699) | 删除不可见 Unicode 字符 |
-| 185698 | [`日下部ハル`](https://bgm.tv/character/185698) | 删除不可见 Unicode 字符 |
-| 185696 | [`東清一郎`](https://bgm.tv/character/185696) | 删除不可见 Unicode 字符 |
-| 185695 | [`夜凪トウワ`](https://bgm.tv/character/185695) | 删除不可见 Unicode 字符 |
-| 185694 | [`鈴城カナデ`](https://bgm.tv/character/185694) | 删除不可见 Unicode 字符 |
-| 185656 | [`霜月海`](https://bgm.tv/character/185656) | 删除不可见 Unicode 字符 |
-| 185655 | [`樋口和人`](https://bgm.tv/character/185655) | 删除不可见 Unicode 字符 |
-| 185654 | [`相羽直樹`](https://bgm.tv/character/185654) | 删除不可见 Unicode 字符 |
-| 184992 | [`謎の青年`](https://bgm.tv/character/184992) | 删除不可见 Unicode 字符 |
-| 184991 | [`ウサギさん`](https://bgm.tv/character/184991) | 删除不可见 Unicode 字符 |
-| 184990 | [`小人さん`](https://bgm.tv/character/184990) | 删除不可见 Unicode 字符 |
-| 184989 | [`ナイトメア`](https://bgm.tv/character/184989) | 删除不可见 Unicode 字符 |
-| 184988 | [`猟師さん`](https://bgm.tv/character/184988) | 删除不可见 Unicode 字符 |
-| 184987 | [`きつねさん`](https://bgm.tv/character/184987) | 删除不可见 Unicode 字符 |
-| 184986 | [`山猫さん`](https://bgm.tv/character/184986) | 删除不可见 Unicode 字符 |
-| 184983 | [`狼さん`](https://bgm.tv/character/184983) | 删除不可见 Unicode 字符 |
-| 184982 | [`ティアナ`](https://bgm.tv/character/184982) | 删除不可见 Unicode 字符 |
-| 179254 | [`橘花あぐ`](https://bgm.tv/character/179254) | 删除不可见 Unicode 字符 |
-| 179164 | [`九々里美木`](https://bgm.tv/character/179164) | 删除不可见 Unicode 字符 |
-| 179103 | [`乙姫`](https://bgm.tv/character/179103) | 删除不可见 Unicode 字符 |
-| 178809 | [`炎帝`](https://bgm.tv/character/178809) | 删除不可见 Unicode 字符 |
-| 178773 | [`白鳥雅火`](https://bgm.tv/character/178773) | 删除不可见 Unicode 字符 |
-| 178299 | [`九尾の傍観者`](https://bgm.tv/character/178299) | 删除不可见 Unicode 字符 |
-| 178239 | [`ネフィリム`](https://bgm.tv/character/178239) | 删除不可见 Unicode 字符 |
-| 178062 | [`黒四館結愛`](https://bgm.tv/character/178062) | 删除不可见 Unicode 字符 |
-| 178036 | [`黒四館菊花`](https://bgm.tv/character/178036) | 删除不可见 Unicode 字符 |
-| 178013 | [`黒四館美衣`](https://bgm.tv/character/178013) | 删除不可见 Unicode 字符 |
 | 177895 | [`牧原七海`](https://bgm.tv/character/177895) | 删除不可见 Unicode 字符 |
 | 177892 | [`乙坂さおり`](https://bgm.tv/character/177892) | 删除不可见 Unicode 字符 |
 | 177891 | [`榎本未玲`](https://bgm.tv/character/177891) | 删除不可见 Unicode 字符 |
