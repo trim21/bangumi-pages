@@ -1,6 +1,6 @@
 # 待处理的角色修改
 
-total 189
+total 167
 
 | id | 角色 | 修改类型 |
 | --- | --- | --- |
@@ -32,28 +32,6 @@ total 189
 | 80495 | [`真田氏館`](https://bgm.tv/character/80495) | 删除重复字段 |
 | 80494 | [`真田本城`](https://bgm.tv/character/80494) | 删除重复字段 |
 | 80493 | [`砥石城`](https://bgm.tv/character/80493) | 删除重复字段 |
-| 80492 | [`高島城`](https://bgm.tv/character/80492) | 删除重复字段 |
-| 80491 | [`上原城`](https://bgm.tv/character/80491) | 删除重复字段 |
-| 80490 | [`上田城`](https://bgm.tv/character/80490) | 删除重复字段 |
-| 80489 | [`龍岡城`](https://bgm.tv/character/80489) | 删除重复字段 |
-| 80488 | [`高遠城`](https://bgm.tv/character/80488) | 删除重复字段 |
-| 80487 | [`松代城`](https://bgm.tv/character/80487) | 删除重复字段 |
-| 80486 | [`小諸城`](https://bgm.tv/character/80486) | 删除重复字段 |
-| 80485 | [`松本城`](https://bgm.tv/character/80485) | 删除重复字段 |
-| 80484 | [`新府城`](https://bgm.tv/character/80484) | 删除重复字段 |
-| 80483 | [`要害城`](https://bgm.tv/character/80483) | 删除重复字段 |
-| 80482 | [`甲府城`](https://bgm.tv/character/80482) | 删除重复字段 |
-| 80481 | [`躑躅ヶ崎館`](https://bgm.tv/character/80481) | 删除重复字段 |
-| 80479 | [`金ヶ崎城`](https://bgm.tv/character/80479) | 删除重复字段 |
-| 80478 | [`福井城`](https://bgm.tv/character/80478) | 删除重复字段 |
-| 80477 | [`丸岡城`](https://bgm.tv/character/80477) | 删除重复字段 |
-| 80476 | [`一乗谷城`](https://bgm.tv/character/80476) | 删除重复字段 |
-| 80474 | [`金沢城`](https://bgm.tv/character/80474) | 删除重复字段 |
-| 80473 | [`高岡城`](https://bgm.tv/character/80473) | 删除重复字段 |
-| 80471 | [`村上城`](https://bgm.tv/character/80471) | 删除重复字段 |
-| 80470 | [`長岡城`](https://bgm.tv/character/80470) | 删除重复字段 |
-| 80469 | [`坂戸城`](https://bgm.tv/character/80469) | 删除重复字段 |
-| 80468 | [`高田城`](https://bgm.tv/character/80468) | 删除重复字段 |
 | 80466 | [`春日山城`](https://bgm.tv/character/80466) | 删除重复字段 |
 | 80465 | [`小机城`](https://bgm.tv/character/80465) | 删除重复字段 |
 | 80464 | [`石垣山城`](https://bgm.tv/character/80464) | 删除重复字段 |
