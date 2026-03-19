@@ -1,59 +1,11 @@
 # 待处理的角色修改
 
-total 449
+total 401
 
 | id | 角色 | 修改类型 |
 | --- | --- | --- |
 | 156709 | [`Sua`](https://bgm.tv/character/156709) | 删除不可见 Unicode 字符 |
 | 156429 | [`　`](https://bgm.tv/character/156429) | 删除不可见 Unicode 字符 |
-| 118955 | [`​カシキン`](https://bgm.tv/character/118955) | 删除不可见 Unicode 字符 |
-| 117556 | [`カイナ`](https://bgm.tv/character/117556) | 删除不可见 Unicode 字符 |
-| 117555 | [`僕`](https://bgm.tv/character/117555) | 删除不可见 Unicode 字符 |
-| 117553 | [`雪見花子`](https://bgm.tv/character/117553) | 删除不可见 Unicode 字符 |
-| 117552 | [`​柳下陽介`](https://bgm.tv/character/117552) | 删除不可见 Unicode 字符 |
-| 117551 | [`​北条舞`](https://bgm.tv/character/117551) | 删除不可见 Unicode 字符 |
-| 117550 | [`​川名啓`](https://bgm.tv/character/117550) | 删除不可见 Unicode 字符 |
-| 117549 | [`田辺綾`](https://bgm.tv/character/117549) | 删除不可见 Unicode 字符 |
-| 117548 | [`岡部小百合`](https://bgm.tv/character/117548) | 删除不可见 Unicode 字符 |
-| 117546 | [`​長城百合子`](https://bgm.tv/character/117546) | 删除不可见 Unicode 字符 |
-| 117544 | [`アガペー`](https://bgm.tv/character/117544) | 删除不可见 Unicode 字符 |
-| 117541 | [`キキョウ`](https://bgm.tv/character/117541) | 删除不可见 Unicode 字符 |
-| 117540 | [`スミレ`](https://bgm.tv/character/117540) | 删除不可见 Unicode 字符 |
-| 117539 | [`​躑躅`](https://bgm.tv/character/117539) | 删除不可见 Unicode 字符 |
-| 117485 | [`ツツジ`](https://bgm.tv/character/117485) | 删除不可见 Unicode 字符 |
-| 117484 | [`スミレ`](https://bgm.tv/character/117484) | 删除不可见 Unicode 字符 |
-| 117483 | [`夏目巧`](https://bgm.tv/character/117483) | 删除不可见 Unicode 字符 |
-| 117482 | [`黄印蓮`](https://bgm.tv/character/117482) | 删除不可见 Unicode 字符 |
-| 117481 | [`​夏目タクミ`](https://bgm.tv/character/117481) | 删除不可见 Unicode 字符 |
-| 117480 | [`黄印レン`](https://bgm.tv/character/117480) | 删除不可见 Unicode 字符 |
-| 117479 | [`​綿`](https://bgm.tv/character/117479) | 删除不可见 Unicode 字符 |
-| 117478 | [`木綿`](https://bgm.tv/character/117478) | 删除不可见 Unicode 字符 |
-| 117477 | [`マオ`](https://bgm.tv/character/117477) | 删除不可见 Unicode 字符 |
-| 117476 | [`ワタ`](https://bgm.tv/character/117476) | 删除不可见 Unicode 字符 |
-| 117475 | [`モメン`](https://bgm.tv/character/117475) | 删除不可见 Unicode 字符 |
-| 117348 | [`警察同志`](https://bgm.tv/character/117348) | 删除不可见 Unicode 字符 |
-| 117346 | [`【死神】`](https://bgm.tv/character/117346) | 删除不可见 Unicode 字符 |
-| 117345 | [`前辈`](https://bgm.tv/character/117345) | 删除不可见 Unicode 字符 |
-| 116690 | [`美鈴`](https://bgm.tv/character/116690) | 删除不可见 Unicode 字符 |
-| 116689 | [`早川`](https://bgm.tv/character/116689) | 删除不可见 Unicode 字符 |
-| 116688 | [`相島`](https://bgm.tv/character/116688) | 删除不可见 Unicode 字符 |
-| 116368 | [`Tanaka`](https://bgm.tv/character/116368) | 删除不可见 Unicode 字符 |
-| 116367 | [`Jimmy Kurosaki`](https://bgm.tv/character/116367) | 删除不可见 Unicode 字符 |
-| 116357 | [`Kiwi`](https://bgm.tv/character/116357) | 删除不可见 Unicode 字符 |
-| 116356 | [`Dorio`](https://bgm.tv/character/116356) | 删除不可见 Unicode 字符 |
-| 116352 | [`David Martinez`](https://bgm.tv/character/116352) | 删除不可见 Unicode 字符 |
-| 112953 | [`マシロ`](https://bgm.tv/character/112953) | 删除不可见 Unicode 字符 |
-| 111136 | [`室井`](https://bgm.tv/character/111136) | 删除不可见 Unicode 字符 |
-| 110372 | [`市場前`](https://bgm.tv/character/110372) | 删除不可见 Unicode 字符 |
-| 110371 | [`汐留道雄`](https://bgm.tv/character/110371) | 删除不可见 Unicode 字符 |
-| 110367 | [`青海`](https://bgm.tv/character/110367) | 删除不可见 Unicode 字符 |
-| 110366 | [`新橋`](https://bgm.tv/character/110366) | 删除不可见 Unicode 字符 |
-| 107314 | [`東不九兵衛`](https://bgm.tv/character/107314) | 删除不可见 Unicode 字符 |
-| 107310 | [`アンナ＝ハート`](https://bgm.tv/character/107310) | 删除不可见 Unicode 字符 |
-| 106136 | [`⁡吉永玲子`](https://bgm.tv/character/106136) | 删除不可见 Unicode 字符 |
-| 106135 | [`⁡吉永良太`](https://bgm.tv/character/106135) | 删除不可见 Unicode 字符 |
-| 106134 | [`⁡山川信也`](https://bgm.tv/character/106134) | 删除不可见 Unicode 字符 |
-| 106133 | [`⁡海凪一誠`](https://bgm.tv/character/106133) | 删除不可见 Unicode 字符 |
 | 106132 | [`⁡海凪ひなた`](https://bgm.tv/character/106132) | 删除不可见 Unicode 字符 |
 | 104652 | [`天童アリス`](https://bgm.tv/character/104652) | 删除不可见 Unicode 字符 |
 | 104651 | [`アロナ`](https://bgm.tv/character/104651) | 删除不可见 Unicode 字符 |
