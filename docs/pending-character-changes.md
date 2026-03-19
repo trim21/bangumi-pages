@@ -1,59 +1,11 @@
 # 待处理的角色修改
 
-total 352
+total 304
 
 | id | 角色 | 修改类型 |
 | --- | --- | --- |
 | 156429 | [`　`](https://bgm.tv/character/156429) | 删除不可见 Unicode 字符 |
-| 95039 | [`萩原ノア`](https://bgm.tv/character/95039) | 删除不可见 Unicode 字符 |
-| 95038 | [`与謝野レンゲ`](https://bgm.tv/character/95038) | 删除不可见 Unicode 字符 |
-| 95037 | [`萩原イデア`](https://bgm.tv/character/95037) | 删除不可见 Unicode 字符 |
-| 95036 | [`樋口マヤ`](https://bgm.tv/character/95036) | 删除不可见 Unicode 字符 |
-| 94467 | [`蒼井茜`](https://bgm.tv/character/94467) | 删除不可见 Unicode 字符 |
-| 92673 | [`ヴェリア`](https://bgm.tv/character/92673) | 删除不可见 Unicode 字符 |
-| 91091 | [`末吉美鈴`](https://bgm.tv/character/91091) | 删除不可见 Unicode 字符 |
-| 91090 | [`八代いつき`](https://bgm.tv/character/91090) | 删除不可见 Unicode 字符 |
-| 91089 | [`木ノ丸栄介`](https://bgm.tv/character/91089) | 删除不可见 Unicode 字符 |
-| 91088 | [`安彦千賀子`](https://bgm.tv/character/91088) | 删除不可见 Unicode 字符 |
-| 91086 | [`東條芙美華`](https://bgm.tv/character/91086) | 删除不可见 Unicode 字符 |
-| 91085 | [`西連寺アザミ`](https://bgm.tv/character/91085) | 删除不可见 Unicode 字符 |
-| 90112 | [`龚彦彦`](https://bgm.tv/character/90112) | 删除不可见 Unicode 字符 |
-| 90110 | [`叶丝砚`](https://bgm.tv/character/90110) | 删除不可见 Unicode 字符 |
 | 90105 | [`贺黛`](https://bgm.tv/character/90105) | 删除不可见 Unicode 字符 |
-| 89536 | [`マナ`](https://bgm.tv/character/89536) | 删除不可见 Unicode 字符 |
-| 89534 | [`七瀬さおり`](https://bgm.tv/character/89534) | 删除不可见 Unicode 字符 |
-| 89532 | [`花田ゆず`](https://bgm.tv/character/89532) | 删除不可见 Unicode 字符 |
-| 89530 | [`篠川`](https://bgm.tv/character/89530) | 删除不可见 Unicode 字符 |
-| 89527 | [`成美`](https://bgm.tv/character/89527) | 删除不可见 Unicode 字符 |
-| 89094 | [`二ツ森勝巳`](https://bgm.tv/character/89094) | 删除不可见 Unicode 字符 |
-| 89093 | [`斉藤健二`](https://bgm.tv/character/89093) | 删除不可见 Unicode 字符 |
-| 88488 | [`廉頗`](https://bgm.tv/character/88488) | 删除不可见 Unicode 字符 |
-| 88486 | [`璋揺`](https://bgm.tv/character/88486) | 删除不可见 Unicode 字符 |
-| 88235 | [`​荒谷凪津香`](https://bgm.tv/character/88235) | 删除不可见 Unicode 字符 |
-| 88222 | [`ブラミーテ`](https://bgm.tv/character/88222) | 删除不可见 Unicode 字符 |
-| 88221 | [`マユウル`](https://bgm.tv/character/88221) | 删除不可见 Unicode 字符 |
-| 88218 | [`レモネード`](https://bgm.tv/character/88218) | 删除不可见 Unicode 字符 |
-| 88217 | [`シードル`](https://bgm.tv/character/88217) | 删除不可见 Unicode 字符 |
-| 87758 | [`陽乃秀一`](https://bgm.tv/character/87758) | 删除不可见 Unicode 字符 |
-| 87757 | [`前平陸人`](https://bgm.tv/character/87757) | 删除不可见 Unicode 字符 |
-| 87671 | [`中原 サトリ`](https://bgm.tv/character/87671) | 删除不可见 Unicode 字符 |
-| 87428 | [`執見収蔵`](https://bgm.tv/character/87428) | 删除不可见 Unicode 字符 |
-| 87427 | [`執見神人`](https://bgm.tv/character/87427) | 删除不可见 Unicode 字符 |
-| 87426 | [`金富公坊`](https://bgm.tv/character/87426) | 删除不可见 Unicode 字符 |
-| 87425 | [`演舎優我`](https://bgm.tv/character/87425) | 删除不可见 Unicode 字符 |
-| 87424 | [`尾根圭`](https://bgm.tv/character/87424) | 删除不可见 Unicode 字符 |
-| 87423 | [`彼島元秋`](https://bgm.tv/character/87423) | 删除不可见 Unicode 字符 |
-| 87422 | [`医山外果`](https://bgm.tv/character/87422) | 删除不可见 Unicode 字符 |
-| 87421 | [`佐川宅馬`](https://bgm.tv/character/87421) | 删除不可见 Unicode 字符 |
-| 87419 | [`根暗ぼっち`](https://bgm.tv/character/87419) | 删除不可见 Unicode 字符 |
-| 87418 | [`直兄`](https://bgm.tv/character/87418) | 删除不可见 Unicode 字符 |
-| 87416 | [`主人公`](https://bgm.tv/character/87416) | 删除不可见 Unicode 字符 |
-| 86589 | [`籠目正太郎`](https://bgm.tv/character/86589) | 删除不可见 Unicode 字符 |
-| 86032 | [`Theodore Riddle`](https://bgm.tv/character/86032) | 删除不可见 Unicode 字符 |
-| 86030 | [`​磯井来`](https://bgm.tv/character/86030) | 删除不可见 Unicode 字符 |
-| 86028 | [`榎本一恵`](https://bgm.tv/character/86028) | 删除不可见 Unicode 字符 |
-| 50618 | [`“山の翁”`](https://bgm.tv/character/50618) | 删除不可见 Unicode 字符 |
-| 110950 | [`クピタン`](https://bgm.tv/character/110950) | 删除重复字段 |
 | 110948 | [`リルル`](https://bgm.tv/character/110948) | 删除重复字段 |
 | 105786 | [`アルフレッド＝アルシュジャー`](https://bgm.tv/character/105786) | 删除重复字段 |
 | 80638 | [`座喜味城`](https://bgm.tv/character/80638) | 删除重复字段 |
