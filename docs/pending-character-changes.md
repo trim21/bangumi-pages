@@ -1,6 +1,6 @@
 # 待处理的角色修改
 
-total 167
+total 155
 
 | id | 角色 | 修改类型 |
 | --- | --- | --- |
@@ -27,11 +27,6 @@ total 167
 | 80500 | [`郡上八幡城`](https://bgm.tv/character/80500) | 删除重复字段 |
 | 80499 | [`苗木城`](https://bgm.tv/character/80499) | 删除重复字段 |
 | 80498 | [`岩村城`](https://bgm.tv/character/80498) | 删除重复字段 |
-| 80497 | [`稲葉山城`](https://bgm.tv/character/80497) | 删除重复字段 |
-| 80496 | [`望月城`](https://bgm.tv/character/80496) | 删除重复字段 |
-| 80495 | [`真田氏館`](https://bgm.tv/character/80495) | 删除重复字段 |
-| 80494 | [`真田本城`](https://bgm.tv/character/80494) | 删除重复字段 |
-| 80493 | [`砥石城`](https://bgm.tv/character/80493) | 删除重复字段 |
 | 80466 | [`春日山城`](https://bgm.tv/character/80466) | 删除重复字段 |
 | 80465 | [`小机城`](https://bgm.tv/character/80465) | 删除重复字段 |
 | 80464 | [`石垣山城`](https://bgm.tv/character/80464) | 删除重复字段 |
@@ -47,13 +42,6 @@ total 167
 | 80453 | [`武蔵松山城`](https://bgm.tv/character/80453) | 删除重复字段 |
 | 80452 | [`秩父三峰城`](https://bgm.tv/character/80452) | 删除重复字段 |
 | 80451 | [`岩槻城`](https://bgm.tv/character/80451) | 删除重复字段 |
-| 80449 | [`河越城`](https://bgm.tv/character/80449) | 删除重复字段 |
-| 80448 | [`忍城`](https://bgm.tv/character/80448) | 删除重复字段 |
-| 80447 | [`名胡桃城`](https://bgm.tv/character/80447) | 删除重复字段 |
-| 80446 | [`岩櫃城`](https://bgm.tv/character/80446) | 删除重复字段 |
-| 80445 | [`新田金山城`](https://bgm.tv/character/80445) | 删除重复字段 |
-| 80444 | [`沼田城`](https://bgm.tv/character/80444) | 删除重复字段 |
-| 80443 | [`箕輪城`](https://bgm.tv/character/80443) | 删除重复字段 |
 | 80442 | [`唐沢山城`](https://bgm.tv/character/80442) | 删除重复字段 |
 | 80441 | [`足利氏館`](https://bgm.tv/character/80441) | 删除重复字段 |
 | 80440 | [`宇都宮城`](https://bgm.tv/character/80440) | 删除重复字段 |
