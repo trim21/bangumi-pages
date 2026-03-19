@@ -1,13 +1,11 @@
 # 待处理的角色修改
 
-total 304
+total 280
 
 | id | 角色 | 修改类型 |
 | --- | --- | --- |
 | 156429 | [`　`](https://bgm.tv/character/156429) | 删除不可见 Unicode 字符 |
 | 90105 | [`贺黛`](https://bgm.tv/character/90105) | 删除不可见 Unicode 字符 |
-| 110948 | [`リルル`](https://bgm.tv/character/110948) | 删除重复字段 |
-| 105786 | [`アルフレッド＝アルシュジャー`](https://bgm.tv/character/105786) | 删除重复字段 |
 | 80638 | [`座喜味城`](https://bgm.tv/character/80638) | 删除重复字段 |
 | 80637 | [`勝連城`](https://bgm.tv/character/80637) | 删除重复字段 |
 | 80636 | [`中城城`](https://bgm.tv/character/80636) | 删除重复字段 |
@@ -32,28 +30,6 @@ total 304
 | 80617 | [`吉野ヶ里`](https://bgm.tv/character/80617) | 删除重复字段 |
 | 80616 | [`佐賀城`](https://bgm.tv/character/80616) | 删除重复字段 |
 | 80615 | [`小倉城［祭］`](https://bgm.tv/character/80615) | 删除重复字段 |
-| 80614 | [`久留米城`](https://bgm.tv/character/80614) | 删除重复字段 |
-| 80613 | [`柳川城`](https://bgm.tv/character/80613) | 删除重复字段 |
-| 80612 | [`小倉城`](https://bgm.tv/character/80612) | 删除重复字段 |
-| 80611 | [`大野城`](https://bgm.tv/character/80611) | 删除重复字段 |
-| 80610 | [`福岡城`](https://bgm.tv/character/80610) | 删除重复字段 |
-| 80609 | [`岡豊城`](https://bgm.tv/character/80609) | 删除重复字段 |
-| 80608 | [`高知城`](https://bgm.tv/character/80608) | 删除重复字段 |
-| 80607 | [`能島城`](https://bgm.tv/character/80607) | 删除重复字段 |
-| 80606 | [`今治城`](https://bgm.tv/character/80606) | 删除重复字段 |
-| 80605 | [`湯築城`](https://bgm.tv/character/80605) | 删除重复字段 |
-| 80603 | [`大洲城`](https://bgm.tv/character/80603) | 删除重复字段 |
-| 80602 | [`松山城`](https://bgm.tv/character/80602) | 删除重复字段 |
-| 80599 | [`徳島城`](https://bgm.tv/character/80599) | 删除重复字段 |
-| 80598 | [`勝瑞城`](https://bgm.tv/character/80598) | 删除重复字段 |
-| 80597 | [`山口城`](https://bgm.tv/character/80597) | 删除重复字段 |
-| 80596 | [`富田若山城`](https://bgm.tv/character/80596) | 删除重复字段 |
-| 80595 | [`岩国城`](https://bgm.tv/character/80595) | 删除重复字段 |
-| 80594 | [`萩城`](https://bgm.tv/character/80594) | 删除重复字段 |
-| 80593 | [`新高山城`](https://bgm.tv/character/80593) | 删除重复字段 |
-| 80592 | [`宮尾城`](https://bgm.tv/character/80592) | 删除重复字段 |
-| 80591 | [`三原城`](https://bgm.tv/character/80591) | 删除重复字段 |
-| 80590 | [`福山城`](https://bgm.tv/character/80590) | 删除重复字段 |
 | 80589 | [`広島城`](https://bgm.tv/character/80589) | 删除重复字段 |
 | 80588 | [`吉田郡山城`](https://bgm.tv/character/80588) | 删除重复字段 |
 | 80587 | [`備中松山城`](https://bgm.tv/character/80587) | 删除重复字段 |
