@@ -1,6 +1,6 @@
 # 待处理的角色修改
 
-total 519
+total 507
 
 | id | 角色 | 修改类型 |
 | --- | --- | --- |
@@ -42,18 +42,6 @@ total 519
 | 151544 | [`ジェイド`](https://bgm.tv/character/151544) | 删除不可见 Unicode 字符 |
 | 151543 | [`アリアナ`](https://bgm.tv/character/151543) | 删除不可见 Unicode 字符 |
 | 151542 | [`ルイス`](https://bgm.tv/character/151542) | 删除不可见 Unicode 字符 |
-| 151541 | [`バーンズ`](https://bgm.tv/character/151541) | 删除不可见 Unicode 字符 |
-| 151539 | [`ダニー`](https://bgm.tv/character/151539) | 删除不可见 Unicode 字符 |
-| 151538 | [`ジェニファー`](https://bgm.tv/character/151538) | 删除不可见 Unicode 字符 |
-| 150377 | [`​成海ナナミ`](https://bgm.tv/character/150377) | 删除不可见 Unicode 字符 |
-| 150375 | [`成海ミナミ`](https://bgm.tv/character/150375) | 删除不可见 Unicode 字符 |
-| 150374 | [`風間リン`](https://bgm.tv/character/150374) | 删除不可见 Unicode 字符 |
-| 150373 | [`​潮見ヒヨリ`](https://bgm.tv/character/150373) | 删除不可见 Unicode 字符 |
-| 149101 | [`真木晶`](https://bgm.tv/character/149101) | 删除不可见 Unicode 字符 |
-| 148736 | [`恵比須檜垣`](https://bgm.tv/character/148736) | 删除不可见 Unicode 字符 |
-| 148005 | [`メーシィ`](https://bgm.tv/character/148005) | 删除不可见 Unicode 字符 |
-| 148004 | [`ヨミ`](https://bgm.tv/character/148004) | 删除不可见 Unicode 字符 |
-| 146933 | [`桂華院瑠奈`](https://bgm.tv/character/146933) | 删除不可见 Unicode 字符 |
 | 144375 | [`岳川啓太`](https://bgm.tv/character/144375) | 删除不可见 Unicode 字符 |
 | 139859 | [`津田まこと　`](https://bgm.tv/character/139859) | 删除不可见 Unicode 字符 |
 | 138732 | [`沖野美津子`](https://bgm.tv/character/138732) | 删除不可见 Unicode 字符 |
