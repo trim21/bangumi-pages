@@ -1,59 +1,11 @@
 # 待处理的角色修改
 
-total 497
+total 449
 
 | id | 角色 | 修改类型 |
 | --- | --- | --- |
-| 160993 | [`招かれざる客`](https://bgm.tv/character/160993) | 删除不可见 Unicode 字符 |
-| 160991 | [`うっかりハチベー`](https://bgm.tv/character/160991) | 删除不可见 Unicode 字符 |
-| 160128 | [`幽蘭`](https://bgm.tv/character/160128) | 删除不可见 Unicode 字符 |
-| 160127 | [`蜂矢夢久`](https://bgm.tv/character/160127) | 删除不可见 Unicode 字符 |
-| 158493 | [`​？ ？ ？`](https://bgm.tv/character/158493) | 删除不可见 Unicode 字符 |
-| 158402 | [`議長`](https://bgm.tv/character/158402) | 删除不可见 Unicode 字符 |
-| 158401 | [`荻野克彰`](https://bgm.tv/character/158401) | 删除不可见 Unicode 字符 |
-| 158400 | [`宝田一成`](https://bgm.tv/character/158400) | 删除不可见 Unicode 字符 |
-| 158398 | [`三浦太郎`](https://bgm.tv/character/158398) | 删除不可见 Unicode 字符 |
-| 158395 | [`須丸光`](https://bgm.tv/character/158395) | 删除不可见 Unicode 字符 |
-| 158392 | [`尾城先辈`](https://bgm.tv/character/158392) | 删除不可见 Unicode 字符 |
-| 156753 | [`安谷屋円`](https://bgm.tv/character/156753) | 删除不可见 Unicode 字符 |
 | 156709 | [`Sua`](https://bgm.tv/character/156709) | 删除不可见 Unicode 字符 |
-| 156454 | [`ササラ`](https://bgm.tv/character/156454) | 删除不可见 Unicode 字符 |
-| 156452 | [`飴屋`](https://bgm.tv/character/156452) | 删除不可见 Unicode 字符 |
-| 156451 | [`シイナ`](https://bgm.tv/character/156451) | 删除不可见 Unicode 字符 |
-| 156450 | [`栄和島`](https://bgm.tv/character/156450) | 删除不可见 Unicode 字符 |
-| 156449 | [`伊勢屋`](https://bgm.tv/character/156449) | 删除不可见 Unicode 字符 |
-| 156448 | [`ユウヤ`](https://bgm.tv/character/156448) | 删除不可见 Unicode 字符 |
-| 156447 | [`御多福`](https://bgm.tv/character/156447) | 删除不可见 Unicode 字符 |
-| 156446 | [`トメオミ`](https://bgm.tv/character/156446) | 删除不可见 Unicode 字符 |
 | 156429 | [`　`](https://bgm.tv/character/156429) | 删除不可见 Unicode 字符 |
-| 155132 | [`쌈닭 / 闘鶏`](https://bgm.tv/character/155132) | 删除不可见 Unicode 字符 |
-| 155126 | [`가을 / 八潮秋`](https://bgm.tv/character/155126) | 删除不可见 Unicode 字符 |
-| 154863 | [`水野サチ`](https://bgm.tv/character/154863) | 删除不可见 Unicode 字符 |
-| 154862 | [`古賀萌香`](https://bgm.tv/character/154862) | 删除不可见 Unicode 字符 |
-| 151855 | [`大井とんぼ`](https://bgm.tv/character/151855) | 删除不可见 Unicode 字符 |
-| 151552 | [`警察官`](https://bgm.tv/character/151552) | 删除不可见 Unicode 字符 |
-| 151551 | [`保安官`](https://bgm.tv/character/151551) | 删除不可见 Unicode 字符 |
-| 151550 | [`女性客`](https://bgm.tv/character/151550) | 删除不可见 Unicode 字符 |
-| 151549 | [`サム`](https://bgm.tv/character/151549) | 删除不可见 Unicode 字符 |
-| 151548 | [`ティモシーの父`](https://bgm.tv/character/151548) | 删除不可见 Unicode 字符 |
-| 151547 | [`ティモシー`](https://bgm.tv/character/151547) | 删除不可见 Unicode 字符 |
-| 151546 | [`神父`](https://bgm.tv/character/151546) | 删除不可见 Unicode 字符 |
-| 151545 | [`ウォーカー神父`](https://bgm.tv/character/151545) | 删除不可见 Unicode 字符 |
-| 151544 | [`ジェイド`](https://bgm.tv/character/151544) | 删除不可见 Unicode 字符 |
-| 151543 | [`アリアナ`](https://bgm.tv/character/151543) | 删除不可见 Unicode 字符 |
-| 151542 | [`ルイス`](https://bgm.tv/character/151542) | 删除不可见 Unicode 字符 |
-| 144375 | [`岳川啓太`](https://bgm.tv/character/144375) | 删除不可见 Unicode 字符 |
-| 139859 | [`津田まこと　`](https://bgm.tv/character/139859) | 删除不可见 Unicode 字符 |
-| 138732 | [`沖野美津子`](https://bgm.tv/character/138732) | 删除不可见 Unicode 字符 |
-| 138730 | [`天昂輝`](https://bgm.tv/character/138730) | 删除不可见 Unicode 字符 |
-| 138729 | [`能島千歌`](https://bgm.tv/character/138729) | 删除不可见 Unicode 字符 |
-| 138728 | [`秋津豊`](https://bgm.tv/character/138728) | 删除不可见 Unicode 字符 |
-| 138727 | [`佐和穂花`](https://bgm.tv/character/138727) | 删除不可见 Unicode 字符 |
-| 126746 | [`石神のぞみ`](https://bgm.tv/character/126746) | 删除不可见 Unicode 字符 |
-| 126745 | [`五十嵐梨花`](https://bgm.tv/character/126745) | 删除不可见 Unicode 字符 |
-| 126744 | [`小清水透`](https://bgm.tv/character/126744) | 删除不可见 Unicode 字符 |
-| 119109 | [`角谷巌雄`](https://bgm.tv/character/119109) | 删除不可见 Unicode 字符 |
-| 119108 | [`秋山博史`](https://bgm.tv/character/119108) | 删除不可见 Unicode 字符 |
 | 118955 | [`​カシキン`](https://bgm.tv/character/118955) | 删除不可见 Unicode 字符 |
 | 117556 | [`カイナ`](https://bgm.tv/character/117556) | 删除不可见 Unicode 字符 |
 | 117555 | [`僕`](https://bgm.tv/character/117555) | 删除不可见 Unicode 字符 |
