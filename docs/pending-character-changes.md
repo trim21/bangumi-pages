@@ -1,6 +1,6 @@
 # 待处理的角色修改
 
-total 507
+total 502
 
 | id | 角色 | 修改类型 |
 | --- | --- | --- |
@@ -49,11 +49,6 @@ total 507
 | 138729 | [`能島千歌`](https://bgm.tv/character/138729) | 删除不可见 Unicode 字符 |
 | 138728 | [`秋津豊`](https://bgm.tv/character/138728) | 删除不可见 Unicode 字符 |
 | 138727 | [`佐和穂花`](https://bgm.tv/character/138727) | 删除不可见 Unicode 字符 |
-| 138726 | [`ラル`](https://bgm.tv/character/138726) | 删除不可见 Unicode 字符 |
-| 138345 | [`沙花叉クロヱ`](https://bgm.tv/character/138345) | 删除不可见 Unicode 字符 |
-| 134583 | [`久世 あいり　`](https://bgm.tv/character/134583) | 删除不可见 Unicode 字符 |
-| 129730 | [`不死鳥の怨霊`](https://bgm.tv/character/129730) | 删除不可见 Unicode 字符 |
-| 129728 | [`カグヤの亡骸`](https://bgm.tv/character/129728) | 删除不可见 Unicode 字符 |
 | 129726 | [`ミオ`](https://bgm.tv/character/129726) | 删除不可见 Unicode 字符 |
 | 129725 | [`奴隷くん`](https://bgm.tv/character/129725) | 删除不可见 Unicode 字符 |
 | 127789 | [`バルド`](https://bgm.tv/character/127789) | 删除不可见 Unicode 字符 |
