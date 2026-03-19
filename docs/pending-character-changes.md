@@ -1,6 +1,6 @@
 # 待处理的角色修改
 
-total 502
+total 497
 
 | id | 角色 | 修改类型 |
 | --- | --- | --- |
@@ -49,11 +49,6 @@ total 502
 | 138729 | [`能島千歌`](https://bgm.tv/character/138729) | 删除不可见 Unicode 字符 |
 | 138728 | [`秋津豊`](https://bgm.tv/character/138728) | 删除不可见 Unicode 字符 |
 | 138727 | [`佐和穂花`](https://bgm.tv/character/138727) | 删除不可见 Unicode 字符 |
-| 129726 | [`ミオ`](https://bgm.tv/character/129726) | 删除不可见 Unicode 字符 |
-| 129725 | [`奴隷くん`](https://bgm.tv/character/129725) | 删除不可见 Unicode 字符 |
-| 127789 | [`バルド`](https://bgm.tv/character/127789) | 删除不可见 Unicode 字符 |
-| 127788 | [`ヒロイン`](https://bgm.tv/character/127788) | 删除不可见 Unicode 字符 |
-| 127787 | [`オリヴァー`](https://bgm.tv/character/127787) | 删除不可见 Unicode 字符 |
 | 126746 | [`石神のぞみ`](https://bgm.tv/character/126746) | 删除不可见 Unicode 字符 |
 | 126745 | [`五十嵐梨花`](https://bgm.tv/character/126745) | 删除不可见 Unicode 字符 |
 | 126744 | [`小清水透`](https://bgm.tv/character/126744) | 删除不可见 Unicode 字符 |
