@@ -1,59 +1,10 @@
 # 待处理的角色修改
 
-total 401
+total 352
 
 | id | 角色 | 修改类型 |
 | --- | --- | --- |
-| 156709 | [`Sua`](https://bgm.tv/character/156709) | 删除不可见 Unicode 字符 |
 | 156429 | [`　`](https://bgm.tv/character/156429) | 删除不可见 Unicode 字符 |
-| 106132 | [`⁡海凪ひなた`](https://bgm.tv/character/106132) | 删除不可见 Unicode 字符 |
-| 104652 | [`天童アリス`](https://bgm.tv/character/104652) | 删除不可见 Unicode 字符 |
-| 104651 | [`アロナ`](https://bgm.tv/character/104651) | 删除不可见 Unicode 字符 |
-| 104489 | [`屋島あさか`](https://bgm.tv/character/104489) | 删除不可见 Unicode 字符 |
-| 104487 | [`善明提鳴`](https://bgm.tv/character/104487) | 删除不可见 Unicode 字符 |
-| 103140 | [`般若`](https://bgm.tv/character/103140) | 删除不可见 Unicode 字符 |
-| 102043 | [`可露希尔`](https://bgm.tv/character/102043) | 删除不可见 Unicode 字符 |
-| 100501 | [`ビルト`](https://bgm.tv/character/100501) | 删除不可见 Unicode 字符 |
-| 99727 | [`崔希丝·哈丽`](https://bgm.tv/character/99727) | 删除不可见 Unicode 字符 |
-| 98657 | [`ヤヨイ`](https://bgm.tv/character/98657) | 删除不可见 Unicode 字符 |
-| 98656 | [`スズ`](https://bgm.tv/character/98656) | 删除不可见 Unicode 字符 |
-| 98655 | [`ハヤト`](https://bgm.tv/character/98655) | 删除不可见 Unicode 字符 |
-| 98654 | [`ミカ`](https://bgm.tv/character/98654) | 删除不可见 Unicode 字符 |
-| 98652 | [`サツキ`](https://bgm.tv/character/98652) | 删除不可见 Unicode 字符 |
-| 98022 | [`日朎`](https://bgm.tv/character/98022) | 删除不可见 Unicode 字符 |
-| 98021 | [`月晞`](https://bgm.tv/character/98021) | 删除不可见 Unicode 字符 |
-| 98020 | [`茯苓`](https://bgm.tv/character/98020) | 删除不可见 Unicode 字符 |
-| 98019 | [`玉响`](https://bgm.tv/character/98019) | 删除不可见 Unicode 字符 |
-| 98016 | [`璃`](https://bgm.tv/character/98016) | 删除不可见 Unicode 字符 |
-| 97593 | [`​花村園香`](https://bgm.tv/character/97593) | 删除不可见 Unicode 字符 |
-| 97592 | [`​坂下荘矢`](https://bgm.tv/character/97592) | 删除不可见 Unicode 字符 |
-| 97591 | [`​小野寺真人`](https://bgm.tv/character/97591) | 删除不可见 Unicode 字符 |
-| 97523 | [`執事`](https://bgm.tv/character/97523) | 删除不可见 Unicode 字符 |
-| 97259 | [`金逝ベル`](https://bgm.tv/character/97259) | 删除不可见 Unicode 字符 |
-| 97258 | [`金逝カイ`](https://bgm.tv/character/97258) | 删除不可见 Unicode 字符 |
-| 97093 | [`アングラス`](https://bgm.tv/character/97093) | 删除不可见 Unicode 字符 |
-| 97092 | [`パール`](https://bgm.tv/character/97092) | 删除不可见 Unicode 字符 |
-| 97091 | [`ツァイト`](https://bgm.tv/character/97091) | 删除不可见 Unicode 字符 |
-| 97090 | [`オニキス`](https://bgm.tv/character/97090) | 删除不可见 Unicode 字符 |
-| 97089 | [`ルーア`](https://bgm.tv/character/97089) | 删除不可见 Unicode 字符 |
-| 97088 | [`シトリン`](https://bgm.tv/character/97088) | 删除不可见 Unicode 字符 |
-| 97087 | [`マリアラ`](https://bgm.tv/character/97087) | 删除不可见 Unicode 字符 |
-| 97086 | [`レムリア`](https://bgm.tv/character/97086) | 删除不可见 Unicode 字符 |
-| 97085 | [`シャッタカ`](https://bgm.tv/character/97085) | 删除不可见 Unicode 字符 |
-| 97084 | [`ラズ`](https://bgm.tv/character/97084) | 删除不可见 Unicode 字符 |
-| 97083 | [`セヴン`](https://bgm.tv/character/97083) | 删除不可见 Unicode 字符 |
-| 97082 | [`クロス`](https://bgm.tv/character/97082) | 删除不可见 Unicode 字符 |
-| 97081 | [`キャスト`](https://bgm.tv/character/97081) | 删除不可见 Unicode 字符 |
-| 97080 | [`シュン`](https://bgm.tv/character/97080) | 删除不可见 Unicode 字符 |
-| 97079 | [`セラフィ`](https://bgm.tv/character/97079) | 删除不可见 Unicode 字符 |
-| 97078 | [`ロベル`](https://bgm.tv/character/97078) | 删除不可见 Unicode 字符 |
-| 97077 | [`ジェード`](https://bgm.tv/character/97077) | 删除不可见 Unicode 字符 |
-| 97076 | [`ディア`](https://bgm.tv/character/97076) | 删除不可见 Unicode 字符 |
-| 96986 | [`月詠`](https://bgm.tv/character/96986) | 删除不可见 Unicode 字符 |
-| 96985 | [`竹雅`](https://bgm.tv/character/96985) | 删除不可见 Unicode 字符 |
-| 96984 | [`輝夜`](https://bgm.tv/character/96984) | 删除不可见 Unicode 字符 |
-| 95667 | [`​帕特里克`](https://bgm.tv/character/95667) | 删除不可见 Unicode 字符 |
-| 95040 | [`萩原ソーマ`](https://bgm.tv/character/95040) | 删除不可见 Unicode 字符 |
 | 95039 | [`萩原ノア`](https://bgm.tv/character/95039) | 删除不可见 Unicode 字符 |
 | 95038 | [`与謝野レンゲ`](https://bgm.tv/character/95038) | 删除不可见 Unicode 字符 |
 | 95037 | [`萩原イデア`](https://bgm.tv/character/95037) | 删除不可见 Unicode 字符 |
