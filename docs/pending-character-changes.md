@@ -1,6 +1,6 @@
 # 待处理的角色修改
 
-total 100
+total 91
 
 | id | 角色 | 修改类型 |
 | --- | --- | --- |
@@ -45,15 +45,6 @@ total 100
 | 78811 | [`ロストスペル`](https://bgm.tv/character/78811) | 删除重复字段 |
 | 78810 | [`ダークペイン`](https://bgm.tv/character/78810) | 删除重复字段 |
 | 78809 | [`エレメンタラー`](https://bgm.tv/character/78809) | 删除重复字段 |
-| 78808 | [`ウィザード`](https://bgm.tv/character/78808) | 删除重复字段 |
-| 78807 | [`ヴァイキング`](https://bgm.tv/character/78807) | 删除重复字段 |
-| 78806 | [`バトルフォース`](https://bgm.tv/character/78806) | 删除重复字段 |
-| 78805 | [`プランター`](https://bgm.tv/character/78805) | 删除重复字段 |
-| 78804 | [`クラフター`](https://bgm.tv/character/78804) | 删除重复字段 |
-| 78803 | [`エンチャンター`](https://bgm.tv/character/78803) | 删除重复字段 |
-| 78802 | [`バトルクラッカー`](https://bgm.tv/character/78802) | 删除重复字段 |
-| 78801 | [`アルケミスト`](https://bgm.tv/character/78801) | 删除重复字段 |
-| 78800 | [`ブラックスミス`](https://bgm.tv/character/78800) | 删除重复字段 |
 | 78799 | [`アズサヨイチ`](https://bgm.tv/character/78799) | 删除重复字段 |
 | 78798 | [`フォートレス`](https://bgm.tv/character/78798) | 删除重复字段 |
 | 78797 | [`ダブルバレット`](https://bgm.tv/character/78797) | 删除重复字段 |
