@@ -1,6 +1,6 @@
 # 待处理的角色修改
 
-total 297
+total 278
 
 | id | 角色 | 修改类型 |
 | --- | --- | --- |
@@ -35,25 +35,6 @@ total 297
 | 80654 | [`羽柴秀長`](https://bgm.tv/character/80654) | 删除重复字段 |
 | 80653 | [`井伊直政`](https://bgm.tv/character/80653) | 删除重复字段 |
 | 80652 | [`朝倉孝景`](https://bgm.tv/character/80652) | 删除重复字段 |
-| 80651 | [`馬場信房`](https://bgm.tv/character/80651) | 删除重复字段 |
-| 80650 | [`長野業正`](https://bgm.tv/character/80650) | 删除重复字段 |
-| 80649 | [`毛利元就`](https://bgm.tv/character/80649) | 删除重复字段 |
-| 80648 | [`織田信長`](https://bgm.tv/character/80648) | 删除重复字段 |
-| 80647 | [`蒲生氏郷`](https://bgm.tv/character/80647) | 删除重复字段 |
-| 80646 | [`島津義弘`](https://bgm.tv/character/80646) | 删除重复字段 |
-| 80638 | [`座喜味城`](https://bgm.tv/character/80638) | 删除重复字段 |
-| 80637 | [`勝連城`](https://bgm.tv/character/80637) | 删除重复字段 |
-| 80636 | [`中城城`](https://bgm.tv/character/80636) | 删除重复字段 |
-| 80635 | [`今帰仁城`](https://bgm.tv/character/80635) | 删除重复字段 |
-| 80634 | [`首里城`](https://bgm.tv/character/80634) | 删除重复字段 |
-| 80633 | [`鹿児島城`](https://bgm.tv/character/80633) | 删除重复字段 |
-| 80632 | [`内城`](https://bgm.tv/character/80632) | 删除重复字段 |
-| 80631 | [`延岡城`](https://bgm.tv/character/80631) | 删除重复字段 |
-| 80630 | [`飫肥城`](https://bgm.tv/character/80630) | 删除重复字段 |
-| 80629 | [`臼杵城`](https://bgm.tv/character/80629) | 删除重复字段 |
-| 80628 | [`岡城`](https://bgm.tv/character/80628) | 删除重复字段 |
-| 80627 | [`中津城`](https://bgm.tv/character/80627) | 删除重复字段 |
-| 80626 | [`大分府内城`](https://bgm.tv/character/80626) | 删除重复字段 |
 | 80625 | [`宇土城`](https://bgm.tv/character/80625) | 删除重复字段 |
 | 80624 | [`人吉城`](https://bgm.tv/character/80624) | 删除重复字段 |
 | 80623 | [`熊本城`](https://bgm.tv/character/80623) | 删除重复字段 |
