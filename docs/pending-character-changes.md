@@ -1,17 +1,10 @@
 # 待处理的角色修改
 
-total 365
+total 355
 
 | id | 角色 | 修改类型 |
 | --- | --- | --- |
 | 156429 | [`　`](https://bgm.tv/character/156429) | 删除不可见 Unicode 字符 |
-| 80748 | [`保科正之`](https://bgm.tv/character/80748) | 删除重复字段 |
-| 80747 | [`空海`](https://bgm.tv/character/80747) | 删除重复字段 |
-| 80746 | [`ファフニール`](https://bgm.tv/character/80746) | 删除重复字段 |
-| 80745 | [`キングアーサー`](https://bgm.tv/character/80745) | 删除重复字段 |
-| 80744 | [`イシュタル`](https://bgm.tv/character/80744) | 删除重复字段 |
-| 80743 | [`ロキ`](https://bgm.tv/character/80743) | 删除重复字段 |
-| 80742 | [`池田輝政`](https://bgm.tv/character/80742) | 删除重复字段 |
 | 80741 | [`豊臣秀吉`](https://bgm.tv/character/80741) | 删除重复字段 |
 | 80740 | [`怕尼芝`](https://bgm.tv/character/80740) | 删除重复字段 |
 | 80739 | [`風魔小太郎`](https://bgm.tv/character/80739) | 删除重复字段 |
@@ -325,9 +318,6 @@ total 365
 | 78812 | [`ソウルブレイド`](https://bgm.tv/character/78812) | 删除重复字段 |
 | 78811 | [`ロストスペル`](https://bgm.tv/character/78811) | 删除重复字段 |
 | 78810 | [`ダークペイン`](https://bgm.tv/character/78810) | 删除重复字段 |
-| 78809 | [`エレメンタラー`](https://bgm.tv/character/78809) | 删除重复字段 |
-| 78799 | [`アズサヨイチ`](https://bgm.tv/character/78799) | 删除重复字段 |
-| 78798 | [`フォートレス`](https://bgm.tv/character/78798) | 删除重复字段 |
 | 78790 | [`クラウン`](https://bgm.tv/character/78790) | 删除重复字段 |
 | 78789 | [`ライデン`](https://bgm.tv/character/78789) | 删除重复字段 |
 | 78788 | [`シノビ`](https://bgm.tv/character/78788) | 删除重复字段 |
