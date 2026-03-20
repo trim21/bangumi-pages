@@ -1,6 +1,6 @@
 # 待处理的角色修改
 
-total 145
+total 139
 
 | id | 角色 | 修改类型 |
 | --- | --- | --- |
@@ -51,12 +51,6 @@ total 145
 | 80426 | [`横手城`](https://bgm.tv/character/80426) | 删除重复字段 |
 | 80425 | [`秋田城`](https://bgm.tv/character/80425) | 删除重复字段 |
 | 80424 | [`久保田城`](https://bgm.tv/character/80424) | 删除重复字段 |
-| 80423 | [`白石城`](https://bgm.tv/character/80423) | 删除重复字段 |
-| 80422 | [`多賀城`](https://bgm.tv/character/80422) | 删除重复字段 |
-| 80421 | [`仙台城`](https://bgm.tv/character/80421) | 删除重复字段 |
-| 80420 | [`九戸城`](https://bgm.tv/character/80420) | 删除重复字段 |
-| 79150 | [`ソンゴクウ`](https://bgm.tv/character/79150) | 删除重复字段 |
-| 79120 | [`ガオ`](https://bgm.tv/character/79120) | 删除重复字段 |
 | 79088 | [`ヴァリアント`](https://bgm.tv/character/79088) | 删除重复字段 |
 | 79042 | [`クレヴィス`](https://bgm.tv/character/79042) | 删除重复字段 |
 | 78839 | [`グリムリーパー`](https://bgm.tv/character/78839) | 删除重复字段 |
