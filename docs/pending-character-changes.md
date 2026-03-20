@@ -1,6 +1,6 @@
 # 待处理的角色修改
 
-total 335
+total 297
 
 | id | 角色 | 修改类型 |
 | --- | --- | --- |
@@ -14,44 +14,6 @@ total 335
 | 80723 | [`蒲生氏郷［聖夜］`](https://bgm.tv/character/80723) | 删除重复字段 |
 | 80722 | [`大友宗麟［聖夜］`](https://bgm.tv/character/80722) | 删除重复字段 |
 | 80721 | [`高山右近［聖夜］`](https://bgm.tv/character/80721) | 删除重复字段 |
-| 80720 | [`大石内蔵助［討ち入り］`](https://bgm.tv/character/80720) | 删除重复字段 |
-| 80719 | [`黒田孝高［聖夜］`](https://bgm.tv/character/80719) | 删除重复字段 |
-| 80718 | [`天草時貞［聖夜］`](https://bgm.tv/character/80718) | 删除重复字段 |
-| 80709 | [`森蘭丸`](https://bgm.tv/character/80709) | 删除重复字段 |
-| 80708 | [`戸沢盛安`](https://bgm.tv/character/80708) | 删除重复字段 |
-| 80707 | [`細川忠興`](https://bgm.tv/character/80707) | 删除重复字段 |
-| 80706 | [`細川幽斎`](https://bgm.tv/character/80706) | 删除重复字段 |
-| 80705 | [`山本晴幸`](https://bgm.tv/character/80705) | 删除重复字段 |
-| 80704 | [`小早川秀秋`](https://bgm.tv/character/80704) | 删除重复字段 |
-| 80703 | [`浅井亮政`](https://bgm.tv/character/80703) | 删除重复字段 |
-| 80702 | [`佐竹義重`](https://bgm.tv/character/80702) | 删除重复字段 |
-| 80701 | [`片倉景綱`](https://bgm.tv/character/80701) | 删除重复字段 |
-| 80700 | [`太田道灌`](https://bgm.tv/character/80700) | 删除重复字段 |
-| 80699 | [`佐々木小次郎`](https://bgm.tv/character/80699) | 删除重复字段 |
-| 80698 | [`宮本武蔵`](https://bgm.tv/character/80698) | 删除重复字段 |
-| 80697 | [`梵天丸 (伊達政宗 幼少)`](https://bgm.tv/character/80697) | 删除重复字段 |
-| 80696 | [`松寿丸 (毛利元就 幼少)`](https://bgm.tv/character/80696) | 删除重复字段 |
-| 80695 | [`吉法師 (織田信長 幼少)`](https://bgm.tv/character/80695) | 删除重复字段 |
-| 80694 | [`上杉謙信 龍虎相克Ver.`](https://bgm.tv/character/80694) | 删除重复字段 |
-| 80693 | [`武田信玄 龍虎相克Ver.`](https://bgm.tv/character/80693) | 删除重复字段 |
-| 80692 | [`毛利隆元`](https://bgm.tv/character/80692) | 删除重复字段 |
-| 80691 | [`又四郎 (島津義弘 幼少)`](https://bgm.tv/character/80691) | 删除重复字段 |
-| 80690 | [`成田長親`](https://bgm.tv/character/80690) | 删除重复字段 |
-| 80689 | [`石川五右衛門`](https://bgm.tv/character/80689) | 删除重复字段 |
-| 80688 | [`安国寺恵瓊`](https://bgm.tv/character/80688) | 删除重复字段 |
-| 80687 | [`尚寧`](https://bgm.tv/character/80687) | 删除重复字段 |
-| 80686 | [`今川義元`](https://bgm.tv/character/80686) | 删除重复字段 |
-| 80685 | [`足利義昭`](https://bgm.tv/character/80685) | 删除重复字段 |
-| 80684 | [`福島正則`](https://bgm.tv/character/80684) | 删除重复字段 |
-| 80683 | [`服部半蔵`](https://bgm.tv/character/80683) | 删除重复字段 |
-| 80682 | [`足利義輝`](https://bgm.tv/character/80682) | 删除重复字段 |
-| 80681 | [`卯鶴丸 (蠣崎季広 幼少)`](https://bgm.tv/character/80681) | 删除重复字段 |
-| 80680 | [`加藤嘉明`](https://bgm.tv/character/80680) | 删除重复字段 |
-| 80679 | [`毛利輝元`](https://bgm.tv/character/80679) | 删除重复字段 |
-| 80678 | [`吉川経家`](https://bgm.tv/character/80678) | 删除重复字段 |
-| 80677 | [`高山右近`](https://bgm.tv/character/80677) | 删除重复字段 |
-| 80676 | [`吉川広家`](https://bgm.tv/character/80676) | 删除重复字段 |
-| 80675 | [`鈴木重秀`](https://bgm.tv/character/80675) | 删除重复字段 |
 | 80672 | [`黒田長政`](https://bgm.tv/character/80672) | 删除重复字段 |
 | 80671 | [`前田利常`](https://bgm.tv/character/80671) | 删除重复字段 |
 | 80670 | [`茶々 (本願寺顕如 幼少)`](https://bgm.tv/character/80670) | 删除重复字段 |
