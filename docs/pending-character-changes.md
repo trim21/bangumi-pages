@@ -1,10 +1,9 @@
 # 待处理的角色修改
 
-total 278
+total 277
 
 | id | 角色 | 修改类型 |
 | --- | --- | --- |
-| 156429 | [`　`](https://bgm.tv/character/156429) | 删除不可见 Unicode 字符 |
 | 80729 | [`丹羽長秀`](https://bgm.tv/character/80729) | 删除重复字段 |
 | 80728 | [`織田有楽斎［聖夜］`](https://bgm.tv/character/80728) | 删除重复字段 |
 | 80727 | [`大星由良助`](https://bgm.tv/character/80727) | 删除重复字段 |
