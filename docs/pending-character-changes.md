@@ -1,6 +1,6 @@
 # 待处理的角色修改
 
-total 337
+total 335
 
 | id | 角色 | 修改类型 |
 | --- | --- | --- |
@@ -52,8 +52,6 @@ total 337
 | 80677 | [`高山右近`](https://bgm.tv/character/80677) | 删除重复字段 |
 | 80676 | [`吉川広家`](https://bgm.tv/character/80676) | 删除重复字段 |
 | 80675 | [`鈴木重秀`](https://bgm.tv/character/80675) | 删除重复字段 |
-| 80674 | [`蘆名盛氏`](https://bgm.tv/character/80674) | 删除重复字段 |
-| 80673 | [`佐竹義宣`](https://bgm.tv/character/80673) | 删除重复字段 |
 | 80672 | [`黒田長政`](https://bgm.tv/character/80672) | 删除重复字段 |
 | 80671 | [`前田利常`](https://bgm.tv/character/80671) | 删除重复字段 |
 | 80670 | [`茶々 (本願寺顕如 幼少)`](https://bgm.tv/character/80670) | 删除重复字段 |
