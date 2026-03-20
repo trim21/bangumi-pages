@@ -1,6 +1,6 @@
 # 待处理的角色修改
 
-total 116
+total 100
 
 | id | 角色 | 修改类型 |
 | --- | --- | --- |
@@ -38,22 +38,6 @@ total 116
 | 80439 | [`小田城`](https://bgm.tv/character/80439) | 删除重复字段 |
 | 80438 | [`土浦城`](https://bgm.tv/character/80438) | 删除重复字段 |
 | 80437 | [`水戸城`](https://bgm.tv/character/80437) | 删除重复字段 |
-| 80436 | [`結城城`](https://bgm.tv/character/80436) | 删除重复字段 |
-| 80435 | [`三春城`](https://bgm.tv/character/80435) | 删除重复字段 |
-| 80434 | [`向羽黒山城`](https://bgm.tv/character/80434) | 删除重复字段 |
-| 78828 | [`ウィンディーネ`](https://bgm.tv/character/78828) | 删除重复字段 |
-| 78827 | [`バトルステップ`](https://bgm.tv/character/78827) | 删除重复字段 |
-| 78826 | [`ナチュレ`](https://bgm.tv/character/78826) | 删除重复字段 |
-| 78825 | [`スパイカー`](https://bgm.tv/character/78825) | 删除重复字段 |
-| 78824 | [`バード`](https://bgm.tv/character/78824) | 删除重复字段 |
-| 78823 | [`陰陽術師`](https://bgm.tv/character/78823) | 删除重复字段 |
-| 78822 | [`グラディア`](https://bgm.tv/character/78822) | 删除重复字段 |
-| 78821 | [`エンジェラス`](https://bgm.tv/character/78821) | 删除重复字段 |
-| 78820 | [`レッグソル`](https://bgm.tv/character/78820) | 删除重复字段 |
-| 78819 | [`モンク`](https://bgm.tv/character/78819) | 删除重复字段 |
-| 78818 | [`エクソシスト`](https://bgm.tv/character/78818) | 删除重复字段 |
-| 78817 | [`リンカー`](https://bgm.tv/character/78817) | 删除重复字段 |
-| 78816 | [`プリースト`](https://bgm.tv/character/78816) | 删除重复字段 |
 | 78815 | [`シルウィンダー`](https://bgm.tv/character/78815) | 删除重复字段 |
 | 78814 | [`グレイシャル`](https://bgm.tv/character/78814) | 删除重复字段 |
 | 78813 | [`イグナイト`](https://bgm.tv/character/78813) | 删除重复字段 |
