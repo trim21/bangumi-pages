@@ -1,6 +1,6 @@
 # 待处理的角色修改
 
-total 139
+total 129
 
 | id | 角色 | 修改类型 |
 | --- | --- | --- |
@@ -44,16 +44,6 @@ total 139
 | 80433 | [`白河小峰城`](https://bgm.tv/character/80433) | 删除重复字段 |
 | 80432 | [`二本松城`](https://bgm.tv/character/80432) | 删除重复字段 |
 | 80431 | [`会津若松城`](https://bgm.tv/character/80431) | 删除重复字段 |
-| 80430 | [`亀ヶ崎城`](https://bgm.tv/character/80430) | 删除重复字段 |
-| 80429 | [`鶴ヶ岡城`](https://bgm.tv/character/80429) | 删除重复字段 |
-| 80428 | [`米沢城`](https://bgm.tv/character/80428) | 删除重复字段 |
-| 80427 | [`山形城`](https://bgm.tv/character/80427) | 删除重复字段 |
-| 80426 | [`横手城`](https://bgm.tv/character/80426) | 删除重复字段 |
-| 80425 | [`秋田城`](https://bgm.tv/character/80425) | 删除重复字段 |
-| 80424 | [`久保田城`](https://bgm.tv/character/80424) | 删除重复字段 |
-| 79088 | [`ヴァリアント`](https://bgm.tv/character/79088) | 删除重复字段 |
-| 79042 | [`クレヴィス`](https://bgm.tv/character/79042) | 删除重复字段 |
-| 78839 | [`グリムリーパー`](https://bgm.tv/character/78839) | 删除重复字段 |
 | 78838 | [`マリオネスト`](https://bgm.tv/character/78838) | 删除重复字段 |
 | 78837 | [`エクスキューショナー`](https://bgm.tv/character/78837) | 删除重复字段 |
 | 78836 | [`デスポート`](https://bgm.tv/character/78836) | 删除重复字段 |
