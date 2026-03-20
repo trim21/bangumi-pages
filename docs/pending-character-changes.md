@@ -1,59 +1,9 @@
 # 待处理的角色修改
 
-total 178
+total 128
 
 | id | 角色 | 修改类型 |
 | --- | --- | --- |
-| 80556 | [`徳川大坂城`](https://bgm.tv/character/80556) | 删除重复字段 |
-| 80555 | [`茶臼山陣城`](https://bgm.tv/character/80555) | 删除重复字段 |
-| 80554 | [`芥川山城`](https://bgm.tv/character/80554) | 删除重复字段 |
-| 80553 | [`飯盛城`](https://bgm.tv/character/80553) | 删除重复字段 |
-| 80552 | [`千早城`](https://bgm.tv/character/80552) | 删除重复字段 |
-| 80551 | [`岸和田城`](https://bgm.tv/character/80551) | 删除重复字段 |
-| 80550 | [`大坂城`](https://bgm.tv/character/80550) | 删除重复字段 |
-| 80549 | [`平安城`](https://bgm.tv/character/80549) | 删除重复字段 |
-| 80548 | [`勝龍寺城`](https://bgm.tv/character/80548) | 删除重复字段 |
-| 80547 | [`二条古城`](https://bgm.tv/character/80547) | 删除重复字段 |
-| 80546 | [`亀山城`](https://bgm.tv/character/80546) | 删除重复字段 |
-| 80545 | [`伏見城`](https://bgm.tv/character/80545) | 删除重复字段 |
-| 80544 | [`淀城`](https://bgm.tv/character/80544) | 删除重复字段 |
-| 80543 | [`本能寺`](https://bgm.tv/character/80543) | 删除重复字段 |
-| 80542 | [`福知山城`](https://bgm.tv/character/80542) | 删除重复字段 |
-| 80541 | [`聚楽第`](https://bgm.tv/character/80541) | 删除重复字段 |
-| 80540 | [`二条城`](https://bgm.tv/character/80540) | 删除重复字段 |
-| 80539 | [`膳所城`](https://bgm.tv/character/80539) | 删除重复字段 |
-| 80538 | [`玄蕃尾城`](https://bgm.tv/character/80538) | 删除重复字段 |
-| 80537 | [`八幡山城`](https://bgm.tv/character/80537) | 删除重复字段 |
-| 80536 | [`大津城`](https://bgm.tv/character/80536) | 删除重复字段 |
-| 80535 | [`長浜城`](https://bgm.tv/character/80535) | 删除重复字段 |
-| 80534 | [`佐和山城`](https://bgm.tv/character/80534) | 删除重复字段 |
-| 80533 | [`坂本城`](https://bgm.tv/character/80533) | 删除重复字段 |
-| 80532 | [`彦根城`](https://bgm.tv/character/80532) | 删除重复字段 |
-| 80531 | [`小谷城`](https://bgm.tv/character/80531) | 删除重复字段 |
-| 80530 | [`メカタ城`](https://bgm.tv/character/80530) | 删除重复字段 |
-| 80529 | [`長島城`](https://bgm.tv/character/80529) | 删除重复字段 |
-| 80528 | [`鳥羽城`](https://bgm.tv/character/80528) | 删除重复字段 |
-| 80527 | [`桑名城`](https://bgm.tv/character/80527) | 删除重复字段 |
-| 80526 | [`津城`](https://bgm.tv/character/80526) | 删除重复字段 |
-| 80525 | [`松坂城`](https://bgm.tv/character/80525) | 删除重复字段 |
-| 80524 | [`伊賀上野城`](https://bgm.tv/character/80524) | 删除重复字段 |
-| 80523 | [`吉田城`](https://bgm.tv/character/80523) | 删除重复字段 |
-| 80522 | [`新名古屋城`](https://bgm.tv/character/80522) | 删除重复字段 |
-| 80521 | [`勝幡城`](https://bgm.tv/character/80521) | 删除重复字段 |
-| 80520 | [`長篠城`](https://bgm.tv/character/80520) | 删除重复字段 |
-| 80519 | [`犬山城`](https://bgm.tv/character/80519) | 删除重复字段 |
-| 80518 | [`岡崎城`](https://bgm.tv/character/80518) | 删除重复字段 |
-| 80517 | [`小牧山城`](https://bgm.tv/character/80517) | 删除重复字段 |
-| 80516 | [`名古屋城`](https://bgm.tv/character/80516) | 删除重复字段 |
-| 80515 | [`清洲城`](https://bgm.tv/character/80515) | 删除重复字段 |
-| 80514 | [`韮山城`](https://bgm.tv/character/80514) | 删除重复字段 |
-| 80513 | [`興国寺城`](https://bgm.tv/character/80513) | 删除重复字段 |
-| 80512 | [`井伊谷城`](https://bgm.tv/character/80512) | 删除重复字段 |
-| 80511 | [`今川館`](https://bgm.tv/character/80511) | 删除重复字段 |
-| 80510 | [`諏訪原城`](https://bgm.tv/character/80510) | 删除重复字段 |
-| 80509 | [`高天神城`](https://bgm.tv/character/80509) | 删除重复字段 |
-| 80508 | [`山中城`](https://bgm.tv/character/80508) | 删除重复字段 |
-| 80507 | [`二俣城`](https://bgm.tv/character/80507) | 删除重复字段 |
 | 80506 | [`浜松城`](https://bgm.tv/character/80506) | 删除重复字段 |
 | 80505 | [`掛川城`](https://bgm.tv/character/80505) | 删除重复字段 |
 | 80504 | [`駿府城`](https://bgm.tv/character/80504) | 删除重复字段 |
