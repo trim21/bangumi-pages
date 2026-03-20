@@ -1,6 +1,6 @@
 # 待处理的角色修改
 
-total 372
+total 365
 
 | id | 角色 | 修改类型 |
 | --- | --- | --- |
@@ -328,13 +328,6 @@ total 372
 | 78809 | [`エレメンタラー`](https://bgm.tv/character/78809) | 删除重复字段 |
 | 78799 | [`アズサヨイチ`](https://bgm.tv/character/78799) | 删除重复字段 |
 | 78798 | [`フォートレス`](https://bgm.tv/character/78798) | 删除重复字段 |
-| 78797 | [`ダブルバレット`](https://bgm.tv/character/78797) | 删除重复字段 |
-| 78796 | [`ガンビット`](https://bgm.tv/character/78796) | 删除重复字段 |
-| 78795 | [`トラップガンナー`](https://bgm.tv/character/78795) | 删除重复字段 |
-| 78794 | [`エルフィーン`](https://bgm.tv/character/78794) | 删除重复字段 |
-| 78793 | [`ガンスリンガー`](https://bgm.tv/character/78793) | 删除重复字段 |
-| 78792 | [`スナイパー`](https://bgm.tv/character/78792) | 删除重复字段 |
-| 78791 | [`ソウルブレイカー`](https://bgm.tv/character/78791) | 删除重复字段 |
 | 78790 | [`クラウン`](https://bgm.tv/character/78790) | 删除重复字段 |
 | 78789 | [`ライデン`](https://bgm.tv/character/78789) | 删除重复字段 |
 | 78788 | [`シノビ`](https://bgm.tv/character/78788) | 删除重复字段 |
