@@ -1,6 +1,6 @@
 # 待处理的角色修改
 
-total 129
+total 116
 
 | id | 角色 | 修改类型 |
 | --- | --- | --- |
@@ -41,19 +41,6 @@ total 129
 | 80436 | [`結城城`](https://bgm.tv/character/80436) | 删除重复字段 |
 | 80435 | [`三春城`](https://bgm.tv/character/80435) | 删除重复字段 |
 | 80434 | [`向羽黒山城`](https://bgm.tv/character/80434) | 删除重复字段 |
-| 80433 | [`白河小峰城`](https://bgm.tv/character/80433) | 删除重复字段 |
-| 80432 | [`二本松城`](https://bgm.tv/character/80432) | 删除重复字段 |
-| 80431 | [`会津若松城`](https://bgm.tv/character/80431) | 删除重复字段 |
-| 78838 | [`マリオネスト`](https://bgm.tv/character/78838) | 删除重复字段 |
-| 78837 | [`エクスキューショナー`](https://bgm.tv/character/78837) | 删除重复字段 |
-| 78836 | [`デスポート`](https://bgm.tv/character/78836) | 删除重复字段 |
-| 78835 | [`ファントムガンナー`](https://bgm.tv/character/78835) | 删除重复字段 |
-| 78834 | [`ヴァンパイア`](https://bgm.tv/character/78834) | 删除重复字段 |
-| 78833 | [`クリーバー`](https://bgm.tv/character/78833) | 删除重复字段 |
-| 78832 | [`ナイトメア`](https://bgm.tv/character/78832) | 删除重复字段 |
-| 78831 | [`エンシェント`](https://bgm.tv/character/78831) | 删除重复字段 |
-| 78830 | [`ハーミット`](https://bgm.tv/character/78830) | 删除重复字段 |
-| 78829 | [`ペインター`](https://bgm.tv/character/78829) | 删除重复字段 |
 | 78828 | [`ウィンディーネ`](https://bgm.tv/character/78828) | 删除重复字段 |
 | 78827 | [`バトルステップ`](https://bgm.tv/character/78827) | 删除重复字段 |
 | 78826 | [`ナチュレ`](https://bgm.tv/character/78826) | 删除重复字段 |
