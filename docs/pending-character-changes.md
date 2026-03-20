@@ -1,58 +1,9 @@
 # 待处理的角色修改
 
-total 277
+total 228
 
 | id | 角色 | 修改类型 |
 | --- | --- | --- |
-| 80729 | [`丹羽長秀`](https://bgm.tv/character/80729) | 删除重复字段 |
-| 80728 | [`織田有楽斎［聖夜］`](https://bgm.tv/character/80728) | 删除重复字段 |
-| 80727 | [`大星由良助`](https://bgm.tv/character/80727) | 删除重复字段 |
-| 80726 | [`大石内蔵助`](https://bgm.tv/character/80726) | 删除重复字段 |
-| 80725 | [`小西行長［聖夜］`](https://bgm.tv/character/80725) | 删除重复字段 |
-| 80724 | [`黒田長政［聖夜］`](https://bgm.tv/character/80724) | 删除重复字段 |
-| 80723 | [`蒲生氏郷［聖夜］`](https://bgm.tv/character/80723) | 删除重复字段 |
-| 80722 | [`大友宗麟［聖夜］`](https://bgm.tv/character/80722) | 删除重复字段 |
-| 80721 | [`高山右近［聖夜］`](https://bgm.tv/character/80721) | 删除重复字段 |
-| 80672 | [`黒田長政`](https://bgm.tv/character/80672) | 删除重复字段 |
-| 80671 | [`前田利常`](https://bgm.tv/character/80671) | 删除重复字段 |
-| 80670 | [`茶々 (本願寺顕如 幼少)`](https://bgm.tv/character/80670) | 删除重复字段 |
-| 80669 | [`竹中重治`](https://bgm.tv/character/80669) | 删除重复字段 |
-| 80668 | [`徳川家光`](https://bgm.tv/character/80668) | 删除重复字段 |
-| 80667 | [`最上義光`](https://bgm.tv/character/80667) | 删除重复字段 |
-| 80666 | [`尼子経久`](https://bgm.tv/character/80666) | 删除重复字段 |
-| 80665 | [`羽柴秀吉`](https://bgm.tv/character/80665) | 删除重复字段 |
-| 80664 | [`加藤清正`](https://bgm.tv/character/80664) | 删除重复字段 |
-| 80663 | [`武田信玄`](https://bgm.tv/character/80663) | 删除重复字段 |
-| 80662 | [`藤堂高虎`](https://bgm.tv/character/80662) | 删除重复字段 |
-| 80661 | [`津軽為信`](https://bgm.tv/character/80661) | 删除重复字段 |
-| 80660 | [`斎藤道三`](https://bgm.tv/character/80660) | 删除重复字段 |
-| 80659 | [`弥三郎 (長宗我部元親 幼少)`](https://bgm.tv/character/80659) | 删除重复字段 |
-| 80658 | [`黒田孝高`](https://bgm.tv/character/80658) | 删除重复字段 |
-| 80657 | [`天草時貞`](https://bgm.tv/character/80657) | 删除重复字段 |
-| 80656 | [`伊達政宗`](https://bgm.tv/character/80656) | 删除重复字段 |
-| 80655 | [`鍋島直茂`](https://bgm.tv/character/80655) | 删除重复字段 |
-| 80654 | [`羽柴秀長`](https://bgm.tv/character/80654) | 删除重复字段 |
-| 80653 | [`井伊直政`](https://bgm.tv/character/80653) | 删除重复字段 |
-| 80652 | [`朝倉孝景`](https://bgm.tv/character/80652) | 删除重复字段 |
-| 80625 | [`宇土城`](https://bgm.tv/character/80625) | 删除重复字段 |
-| 80624 | [`人吉城`](https://bgm.tv/character/80624) | 删除重复字段 |
-| 80623 | [`熊本城`](https://bgm.tv/character/80623) | 删除重复字段 |
-| 80622 | [`島原城`](https://bgm.tv/character/80622) | 删除重复字段 |
-| 80621 | [`平戸城`](https://bgm.tv/character/80621) | 删除重复字段 |
-| 80620 | [`原城`](https://bgm.tv/character/80620) | 删除重复字段 |
-| 80619 | [`唐津城`](https://bgm.tv/character/80619) | 删除重复字段 |
-| 80618 | [`名護屋城`](https://bgm.tv/character/80618) | 删除重复字段 |
-| 80617 | [`吉野ヶ里`](https://bgm.tv/character/80617) | 删除重复字段 |
-| 80616 | [`佐賀城`](https://bgm.tv/character/80616) | 删除重复字段 |
-| 80615 | [`小倉城［祭］`](https://bgm.tv/character/80615) | 删除重复字段 |
-| 80614 | [`久留米城`](https://bgm.tv/character/80614) | 删除重复字段 |
-| 80613 | [`柳川城`](https://bgm.tv/character/80613) | 删除重复字段 |
-| 80612 | [`小倉城`](https://bgm.tv/character/80612) | 删除重复字段 |
-| 80611 | [`大野城`](https://bgm.tv/character/80611) | 删除重复字段 |
-| 80610 | [`福岡城`](https://bgm.tv/character/80610) | 删除重复字段 |
-| 80609 | [`岡豊城`](https://bgm.tv/character/80609) | 删除重复字段 |
-| 80608 | [`高知城`](https://bgm.tv/character/80608) | 删除重复字段 |
-| 80607 | [`能島城`](https://bgm.tv/character/80607) | 删除重复字段 |
 | 80606 | [`今治城`](https://bgm.tv/character/80606) | 删除重复字段 |
 | 80605 | [`湯築城`](https://bgm.tv/character/80605) | 删除重复字段 |
 | 80604 | [`宇和島城`](https://bgm.tv/character/80604) | 删除重复字段 |
