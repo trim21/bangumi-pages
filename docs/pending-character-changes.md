@@ -1,22 +1,10 @@
 # 待处理的角色修改
 
-total 355
+total 337
 
 | id | 角色 | 修改类型 |
 | --- | --- | --- |
 | 156429 | [`　`](https://bgm.tv/character/156429) | 删除不可见 Unicode 字符 |
-| 80741 | [`豊臣秀吉`](https://bgm.tv/character/80741) | 删除重复字段 |
-| 80740 | [`怕尼芝`](https://bgm.tv/character/80740) | 删除重复字段 |
-| 80739 | [`風魔小太郎`](https://bgm.tv/character/80739) | 删除重复字段 |
-| 80738 | [`小早川隆景`](https://bgm.tv/character/80738) | 删除重复字段 |
-| 80737 | [`南光坊天海`](https://bgm.tv/character/80737) | 删除重复字段 |
-| 80736 | [`蠣崎季広`](https://bgm.tv/character/80736) | 删除重复字段 |
-| 80735 | [`蒲生氏郷［葵］`](https://bgm.tv/character/80735) | 删除重复字段 |
-| 80734 | [`淀川茶々丸`](https://bgm.tv/character/80734) | 删除重复字段 |
-| 80733 | [`円城寺ケイト`](https://bgm.tv/character/80733) | 删除重复字段 |
-| 80732 | [`直江兼続`](https://bgm.tv/character/80732) | 删除重复字段 |
-| 80731 | [`堀部安兵衛`](https://bgm.tv/character/80731) | 删除重复字段 |
-| 80730 | [`大石主税良金`](https://bgm.tv/character/80730) | 删除重复字段 |
 | 80729 | [`丹羽長秀`](https://bgm.tv/character/80729) | 删除重复字段 |
 | 80728 | [`織田有楽斎［聖夜］`](https://bgm.tv/character/80728) | 删除重复字段 |
 | 80727 | [`大星由良助`](https://bgm.tv/character/80727) | 删除重复字段 |
@@ -312,12 +300,6 @@ total 355
 | 80421 | [`仙台城`](https://bgm.tv/character/80421) | 删除重复字段 |
 | 80420 | [`九戸城`](https://bgm.tv/character/80420) | 删除重复字段 |
 | 80419 | [`胆沢城`](https://bgm.tv/character/80419) | 删除重复字段 |
-| 78815 | [`シルウィンダー`](https://bgm.tv/character/78815) | 删除重复字段 |
-| 78814 | [`グレイシャル`](https://bgm.tv/character/78814) | 删除重复字段 |
-| 78813 | [`イグナイト`](https://bgm.tv/character/78813) | 删除重复字段 |
-| 78812 | [`ソウルブレイド`](https://bgm.tv/character/78812) | 删除重复字段 |
-| 78811 | [`ロストスペル`](https://bgm.tv/character/78811) | 删除重复字段 |
-| 78810 | [`ダークペイン`](https://bgm.tv/character/78810) | 删除重复字段 |
 | 78790 | [`クラウン`](https://bgm.tv/character/78790) | 删除重复字段 |
 | 78789 | [`ライデン`](https://bgm.tv/character/78789) | 删除重复字段 |
 | 78788 | [`シノビ`](https://bgm.tv/character/78788) | 删除重复字段 |
