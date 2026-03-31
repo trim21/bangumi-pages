@@ -1,7 +1,7 @@
 # ISBN 错误
 ## <https://bgm.tv/group/topic/404801>
 
-total 227
+total 228
 
 | url | error |
 | --- |  ---  |
@@ -232,3 +232,4 @@ total 227
 | <https://bgm.tv/subject/636192> | 不是合法的 isbn13 <code>9784087821293</code> |
 | <https://bgm.tv/subject/636213> | 不是合法的 isbn13 <code>9784087821315</code> |
 | <https://bgm.tv/subject/636214> | 不是合法的 isbn13 <code>9784087821323</code> |
+| <https://bgm.tv/subject/638804> | 包含多个 ISBN, 请手动拆分 '4334746756/978-4334746759（文庫本）' |
