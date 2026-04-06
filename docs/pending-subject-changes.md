@@ -4,4 +4,4 @@ total 1
 
 | id | 条目 | 修改类型 |
 | --- | --- | --- |
-| 639942 | [`Wolfsbane`](https://bgm.tv/subject/639942) | 统一 ISBN 写法 |
+| 176007 | [`スノーホワイト 名探偵三途川理と少女の鏡は千の目を持つ`](https://bgm.tv/subject/176007) | 统一 ISBN 写法 |
