@@ -1,6 +1,6 @@
 # 待处理的条目修改
 
-total 9
+total 5
 
 | id | 条目 | 修改类型 |
 | --- | --- | --- |
@@ -9,7 +9,3 @@ total 9
 | 641238 | [`ラフ ワイド版（1）`](https://bgm.tv/subject/641238) | 统一 ISBN 写法 |
 | 641248 | [`ラフ ワイド版（7）`](https://bgm.tv/subject/641248) | 统一 ISBN 写法 |
 | 641247 | [`ラフ ワイド版（6）`](https://bgm.tv/subject/641247) | 统一 ISBN 写法 |
-| 641246 | [`ラフ ワイド版（5）`](https://bgm.tv/subject/641246) | 统一 ISBN 写法 |
-| 641244 | [`ラフ ワイド版（3）`](https://bgm.tv/subject/641244) | 统一 ISBN 写法 |
-| 641245 | [`ラフ ワイド版（4）`](https://bgm.tv/subject/641245) | 统一 ISBN 写法 |
-| 641236 | [`Château de sable`](https://bgm.tv/subject/641236) | 统一 ISBN 写法 |
