@@ -4,4 +4,4 @@ total 1
 
 | id | 条目 | 修改类型 |
 | --- | --- | --- |
-| 632388 | [`The Incredible Tide`](https://bgm.tv/subject/632388) | 统一 ISBN 写法 |
+| 648186 | [`TEMPLE of RUBBO`](https://bgm.tv/subject/648186) | 删除不可见 Unicode 字符 |
