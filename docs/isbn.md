@@ -1,7 +1,7 @@
 # ISBN 错误
 ## <https://bgm.tv/group/topic/404801>
 
-total 241
+total 242
 
 | url | error |
 | --- |  ---  |
@@ -246,3 +246,4 @@ total 241
 | <https://bgm.tv/subject/650724> | 预期之外的 ISBN 格式 `978785111030` |
 | <https://bgm.tv/subject/653672> | 不是合法的 isbn13 <code>9789887013803</code> |
 | <https://bgm.tv/subject/655978> | 预期之外的 ISBN 格式 `2026-02-04(2026年最強ジャンプ3月号)` |
+| <https://bgm.tv/subject/656168> | 预期之外的 ISBN 格式 `ISBN 978-1-4165-5083-9` |
