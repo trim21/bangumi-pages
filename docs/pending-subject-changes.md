@@ -1,7 +1,8 @@
 # 待处理的条目修改
 
-total 1
+total 2
 
 | id | 条目 | 修改类型 |
 | --- | --- | --- |
-| 581927 | [`恋する警護24時 season2`](https://bgm.tv/subject/581927) | 删除重复字段 |
+| 657806 | [`BYAKKO ～四神部隊炎恋記～ 公式ビジュアルファンブック`](https://bgm.tv/subject/657806) | 统一 ISBN 写法 |
+| 657811 | [`drastic Killer 公式ビジュアルファンブック`](https://bgm.tv/subject/657811) | 统一 ISBN 写法 |
