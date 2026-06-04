@@ -1,7 +1,8 @@
 # 待处理的条目修改
 
-total 1
+total 2
 
 | id | 条目 | 修改类型 |
 | --- | --- | --- |
-| 657918 | [`魔法少女と活字2`](https://bgm.tv/subject/657918) | 删除不可见 Unicode 字符 |
+| 657941 | [`Warcraft Legends Volume 2`](https://bgm.tv/subject/657941) | 统一 ISBN 写法 |
+| 657937 | [`StarCraft Book 1`](https://bgm.tv/subject/657937) | 统一 ISBN 写法 |
