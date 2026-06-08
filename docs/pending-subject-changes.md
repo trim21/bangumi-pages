@@ -4,4 +4,4 @@ total 1
 
 | id | 条目 | 修改类型 |
 | --- | --- | --- |
-| 658818 | [`Alternate Train`](https://bgm.tv/subject/658818) | 删除不可见 Unicode 字符 |
+| 658830 | [`三食昼寝付き生活を約束してください、公爵様​`](https://bgm.tv/subject/658830) | 删除不可见 Unicode 字符 |
