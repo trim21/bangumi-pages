@@ -1,39 +1,24 @@
 # 待处理的条目修改
 
-total 33
+total 18
 
 | id | 条目 | 修改类型 |
 | --- | --- | --- |
-| 659184 | [`Mary Anning, chasseuse de fossiles`](https://bgm.tv/subject/659184) | 删除不可见 Unicode 字符 |
-| 659127 | [`ハイスクールゴアガール 軽音部`](https://bgm.tv/subject/659127) | 删除不可见 Unicode 字符 |
-| 659143 | [`In Waves`](https://bgm.tv/subject/659143) | 删除不可见 Unicode 字符 |
-| 659093 | [`はっぴぃセブン FINALシーズン 1 命みじかし恋せよ福娘`](https://bgm.tv/subject/659093) | 统一 ISBN 写法 |
-| 658903 | [`バトル・ホームズ 1 誰がために名探偵は戦う`](https://bgm.tv/subject/658903) | 统一 ISBN 写法 |
-| 658993 | [`D/dレスキュー フロイライン・ヴァルキリー`](https://bgm.tv/subject/658993) | 统一 ISBN 写法 |
-| 659098 | [`新・はっぴぃセブン 1 毎日がカーニバル!`](https://bgm.tv/subject/659098) | 统一 ISBN 写法 |
-| 659081 | [`はっぴぃセブン 七福娘夏祭 ~真夏の福袋~`](https://bgm.tv/subject/659081) | 统一 ISBN 写法 |
-| 659090 | [`学園はっぴぃセブン 2 福娘たちの放課後`](https://bgm.tv/subject/659090) | 统一 ISBN 写法 |
-| 659088 | [`学園はっぴぃセブン 1 われら開運研究会`](https://bgm.tv/subject/659088) | 统一 ISBN 写法 |
-| 659085 | [`はっぴぃセブン 福娘厄神転生 ~光之巻~`](https://bgm.tv/subject/659085) | 统一 ISBN 写法 |
-| 659083 | [`はっぴぃセブン 福娘厄神転生 ~闇之巻~`](https://bgm.tv/subject/659083) | 统一 ISBN 写法 |
-| 659079 | [`はっぴぃセブン 福娘七変化 ~地の巻~`](https://bgm.tv/subject/659079) | 统一 ISBN 写法 |
-| 659078 | [`はっぴぃセブン 福娘七変化 ~天の巻~`](https://bgm.tv/subject/659078) | 统一 ISBN 写法 |
-| 658994 | [`D/dレスキュー ラスト・ミッション`](https://bgm.tv/subject/658994) | 统一 ISBN 写法 |
-| 659092 | [`学園はっぴぃセブン 3 赤き星の力`](https://bgm.tv/subject/659092) | 统一 ISBN 写法 |
-| 659065 | [`Kishin-姫神- 1 邪馬台王朝秘史`](https://bgm.tv/subject/659065) | 统一 ISBN 写法 |
-| 659069 | [`Kishin-姫神- 4 邪馬台王朝秘史`](https://bgm.tv/subject/659069) | 统一 ISBN 写法 |
-| 659068 | [`Kishin-姫神- 3 邪馬台王朝秘史`](https://bgm.tv/subject/659068) | 统一 ISBN 写法 |
-| 659070 | [`Kishin-姫神- 5 邪馬台王朝秘史`](https://bgm.tv/subject/659070) | 统一 ISBN 写法 |
-| 659067 | [`Kishin-姫神- 2 邪馬台王朝秘史`](https://bgm.tv/subject/659067) | 统一 ISBN 写法 |
-| 659076 | [`はっぴぃセブン 召しませ福を`](https://bgm.tv/subject/659076) | 统一 ISBN 写法 |
-| 659064 | [`くるりくる! でする来襲`](https://bgm.tv/subject/659064) | 统一 ISBN 写法 |
-| 658983 | [`Tokyoゼロ・ハンター S2`](https://bgm.tv/subject/658983) | 统一 ISBN 写法 |
-| 658981 | [`Tokyoゼロ・ハンター S`](https://bgm.tv/subject/658981) | 统一 ISBN 写法 |
-| 658978 | [`Tokyoゼロ・ハンター 2`](https://bgm.tv/subject/658978) | 统一 ISBN 写法 |
-| 658980 | [`Tokyoゼロ・ハンター 3`](https://bgm.tv/subject/658980) | 统一 ISBN 写法 |
-| 658976 | [`Tokyoゼロ・ハンター 1`](https://bgm.tv/subject/658976) | 统一 ISBN 写法 |
-| 658905 | [`バトル・ホームズ 2`](https://bgm.tv/subject/658905) | 统一 ISBN 写法 |
-| 659063 | [`ネコノメノヨウニ…`](https://bgm.tv/subject/659063) | 统一 ISBN 写法 |
-| 658990 | [`ゴールデンドーン`](https://bgm.tv/subject/658990) | 统一 ISBN 写法 |
-| 658991 | [`D/dレスキュー`](https://bgm.tv/subject/658991) | 统一 ISBN 写法 |
-| 658996 | [`メタルウルフ`](https://bgm.tv/subject/658996) | 统一 ISBN 写法 |
+| 659415 | [`ナツイロリテイク`](https://bgm.tv/subject/659415) | 删除不可见 Unicode 字符 |
+| 659203 | [`恋爱观测记录​`](https://bgm.tv/subject/659203) | 删除不可见 Unicode 字符 |
+| 659228 | [`新・はっぴぃセブン 9 ハッピー・クリスマスをあなたに`](https://bgm.tv/subject/659228) | 统一 ISBN 写法 |
+| 659226 | [`新・はっぴぃセブン 8 サザンクロスに願いをこめて`](https://bgm.tv/subject/659226) | 统一 ISBN 写法 |
+| 659223 | [`新・はっぴぃセブン 6 スィート気分で春らんまん!`](https://bgm.tv/subject/659223) | 统一 ISBN 写法 |
+| 659225 | [`新・はっぴぃセブン 7 リセットできない夏だから`](https://bgm.tv/subject/659225) | 统一 ISBN 写法 |
+| 659219 | [`新・はっぴぃセブン 4 秋の夜はハードボイルド`](https://bgm.tv/subject/659219) | 统一 ISBN 写法 |
+| 659245 | [`オーパーツ♥ラブ ~さようなら!? ファラオさま~`](https://bgm.tv/subject/659245) | 统一 ISBN 写法 |
+| 659216 | [`新・はっぴぃセブン 2 雨の日でもサンシャイン`](https://bgm.tv/subject/659216) | 统一 ISBN 写法 |
+| 659242 | [`オーパーツ♥ラブ ~いけません! ファラオさま~`](https://bgm.tv/subject/659242) | 统一 ISBN 写法 |
+| 659244 | [`オーパーツ♥ラブ ~おいでやす! ファラオさま~`](https://bgm.tv/subject/659244) | 统一 ISBN 写法 |
+| 659220 | [`新・はっぴぃセブン 5 聖なる夜はダークネス`](https://bgm.tv/subject/659220) | 统一 ISBN 写法 |
+| 659217 | [`新・はっぴぃセブン 3 夏だものバケーション`](https://bgm.tv/subject/659217) | 统一 ISBN 写法 |
+| 659240 | [`ヴァージン・ブラッディ 妖しの女教師`](https://bgm.tv/subject/659240) | 统一 ISBN 写法 |
+| 659246 | [`サンプル家族 乙女ゴコロとエイリアン`](https://bgm.tv/subject/659246) | 统一 ISBN 写法 |
+| 659237 | [`新きまぐれオレンジ・ロード2002 2`](https://bgm.tv/subject/659237) | 统一 ISBN 写法 |
+| 659235 | [`新きまぐれオレンジ・ロード2002 1`](https://bgm.tv/subject/659235) | 统一 ISBN 写法 |
+| 659648 | [`玉碎`](https://bgm.tv/subject/659648) | 统一 ISBN 写法 |
