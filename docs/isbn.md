@@ -1,7 +1,7 @@
 # ISBN 错误
 ## <https://bgm.tv/group/topic/404801>
 
-total 242
+total 245
 
 | url | error |
 | --- |  ---  |
@@ -124,6 +124,9 @@ total 242
 | <https://bgm.tv/subject/477474> | 预期之外的 ISBN 格式 `-` |
 | <https://bgm.tv/subject/484276> | 预期之外的 ISBN 格式 `-` |
 | <https://bgm.tv/subject/494273> | 预期之外的 ISBN 格式 `4942330254912` |
+| <https://bgm.tv/subject/508720> | 预期之外的 ISBN 格式 `待考` |
+| <https://bgm.tv/subject/508730> | 预期之外的 ISBN 格式 `4910512116000（转换自雑誌コード51211-60，原书未实际标注ISBN）` |
+| <https://bgm.tv/subject/508778> | 预期之外的 ISBN 格式 `待考` |
 | <https://bgm.tv/subject/508834> | 预期之外的 ISBN 格式 `-` |
 | <https://bgm.tv/subject/509615> | 预期之外的 ISBN 格式 `-` |
 | <https://bgm.tv/subject/509626> | 预期之外的 ISBN 格式 `-` |
