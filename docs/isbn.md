@@ -1,7 +1,7 @@
 # ISBN 错误
 ## <https://bgm.tv/group/topic/404801>
 
-total 245
+total 248
 
 | url | error |
 | --- |  ---  |
@@ -70,6 +70,7 @@ total 245
 | <https://bgm.tv/subject/210748> | 不是合法的 isbn13 <code>9780785189440</code> |
 | <https://bgm.tv/subject/255084> | 不是合法的 isbn10 <code>6000043278</code> |
 | <https://bgm.tv/subject/280930> | 不是合法的 isbn13 <code>9784757507054</code> |
+| <https://bgm.tv/subject/360116> | 预期之外的 ISBN 格式 `待考` |
 | <https://bgm.tv/subject/360618> | 预期之外的 ISBN 格式 `A000219082` |
 | <https://bgm.tv/subject/376035> | 预期之外的 ISBN 格式 `9771671722133` |
 | <https://bgm.tv/subject/376036> | 预期之外的 ISBN 格式 `9771671722119` |
@@ -250,3 +251,5 @@ total 245
 | <https://bgm.tv/subject/650724> | 预期之外的 ISBN 格式 `978785111030` |
 | <https://bgm.tv/subject/653672> | 不是合法的 isbn13 <code>9789887013803</code> |
 | <https://bgm.tv/subject/655978> | 预期之外的 ISBN 格式 `2026-02-04(2026年最強ジャンプ3月号)` |
+| <https://bgm.tv/subject/660765> | 预期之外的 ISBN 格式 `待考` |
+| <https://bgm.tv/subject/660766> | 预期之外的 ISBN 格式 `待考` |
