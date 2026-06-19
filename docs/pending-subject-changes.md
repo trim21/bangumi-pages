@@ -4,12 +4,12 @@ total 9
 
 | id | 条目 | 修改类型 |
 | --- | --- | --- |
-| 76790 | [`陽気なギャングが地球を回す`](https://bgm.tv/subject/76790) | 删除重复字段 |
-| 118777 | [`西遊記 (2007)`](https://bgm.tv/subject/118777) | 删除重复字段 |
-| 118558 | [`十三人の刺客`](https://bgm.tv/subject/118558) | 删除重复字段 |
-| 576941 | [`李小龙传奇`](https://bgm.tv/subject/576941) | 删除重复字段 |
-| 96824 | [`Klondike`](https://bgm.tv/subject/96824) | 删除重复字段 |
-| 660770 | [`ニューゲームにチートはいらない！`](https://bgm.tv/subject/660770) | 统一 ISBN 写法 |
-| 660776 | [`ウェディング・ドレスに紅いバラ`](https://bgm.tv/subject/660776) | 统一 ISBN 写法 |
-| 660775 | [`蒼き星のメリクリウス 2`](https://bgm.tv/subject/660775) | 统一 ISBN 写法 |
-| 660773 | [`蒼き星のメリクリウス 1`](https://bgm.tv/subject/660773) | 统一 ISBN 写法 |
+| 23628 | [`悪魔城ドラキュラ ハーモニー オブ ディスペアー`](https://bgm.tv/subject/23628) | 删除不可见 Unicode 字符 |
+| 6212 | [`Command & Conquer: The Covert Operations`](https://bgm.tv/subject/6212) | 删除不可见 Unicode 字符 |
+| 7757 | [`METAL GEAR SOLID PORTABLE OPS`](https://bgm.tv/subject/7757) | 删除不可见 Unicode 字符 |
+| 194932 | [`Pokémon Showdown!`](https://bgm.tv/subject/194932) | 删除不可见 Unicode 字符 |
+| 35862 | [`Fate/EXTRA CCC`](https://bgm.tv/subject/35862) | 删除不可见 Unicode 字符 |
+| 192068 | [`コック警部の晩餐会`](https://bgm.tv/subject/192068) | 删除重复字段 |
+| 661851 | [`機動戦士ガンダムZZ〈第1部 ジュドー・アーシタ〉`](https://bgm.tv/subject/661851) | 统一 ISBN 写法 |
+| 661854 | [`機動戦士ガンダムZZ〈第2部 ニュータイプ〉`](https://bgm.tv/subject/661854) | 统一 ISBN 写法 |
+| 661807 | [`花園とエゴイスト`](https://bgm.tv/subject/661807) | 统一 ISBN 写法 |
