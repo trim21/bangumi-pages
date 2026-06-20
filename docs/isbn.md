@@ -1,7 +1,7 @@
 # ISBN 错误
 ## <https://bgm.tv/group/topic/404801>
 
-total 248
+total 249
 
 | url | error |
 | --- |  ---  |
@@ -253,3 +253,4 @@ total 248
 | <https://bgm.tv/subject/655978> | 预期之外的 ISBN 格式 `2026-02-04(2026年最強ジャンプ3月号)` |
 | <https://bgm.tv/subject/660765> | 预期之外的 ISBN 格式 `待考` |
 | <https://bgm.tv/subject/660766> | 预期之外的 ISBN 格式 `待考` |
+| <https://bgm.tv/subject/662224> | 预期之外的 ISBN 格式 `4717702300593` |
