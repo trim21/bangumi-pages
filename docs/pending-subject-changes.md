@@ -1,6 +1,6 @@
 # 待处理的条目修改
 
-total 17
+total 22
 
 | id | 条目 | 修改类型 |
 | --- | --- | --- |
@@ -20,4 +20,9 @@ total 17
 | 162670 | [`ひぐらしのなく頃に 語咄し編 コミックアンソロジーEX.第一集`](https://bgm.tv/subject/162670) | 统一 ISBN 写法 |
 | 162664 | [`ひぐらしのなく頃に 語咄し編 コミックアンソロジーEX.第七集`](https://bgm.tv/subject/162664) | 统一 ISBN 写法 |
 | 33111 | [`さようなら、と君は手を振った`](https://bgm.tv/subject/33111) | 统一 ISBN 写法 |
+| 662907 | [`イレギュラー 血まみれの女神`](https://bgm.tv/subject/662907) | 统一 ISBN 写法 |
+| 662923 | [`うぃーくえんど☆ラビリンス`](https://bgm.tv/subject/662923) | 统一 ISBN 写法 |
+| 662910 | [`イレギュラー 偽りの聖者`](https://bgm.tv/subject/662910) | 统一 ISBN 写法 |
+| 662908 | [`イレギュラー 銀の創造主`](https://bgm.tv/subject/662908) | 统一 ISBN 写法 |
+| 662911 | [`イレギュラー 黒の王`](https://bgm.tv/subject/662911) | 统一 ISBN 写法 |
 | 9453 | [`B.L.T`](https://bgm.tv/subject/9453) | 统一 ISBN 写法 |
