@@ -1,6 +1,6 @@
 # 待处理的条目修改
 
-total 9
+total 10
 
 | id | 条目 | 修改类型 |
 | --- | --- | --- |
@@ -8,6 +8,7 @@ total 9
 | 662849 | [`Hulk (2014)`](https://bgm.tv/subject/662849) | 删除不可见 Unicode 字符 |
 | 94519 | [`翔ぶが如く`](https://bgm.tv/subject/94519) | 删除重复字段 |
 | 114211 | [`八日目の蟬`](https://bgm.tv/subject/114211) | 删除重复字段 |
+| 591208 | [`禍禍女`](https://bgm.tv/subject/591208) | 删除重复字段 |
 | 662907 | [`イレギュラー 血まみれの女神`](https://bgm.tv/subject/662907) | 统一 ISBN 写法 |
 | 662923 | [`うぃーくえんど☆ラビリンス`](https://bgm.tv/subject/662923) | 统一 ISBN 写法 |
 | 662910 | [`イレギュラー 偽りの聖者`](https://bgm.tv/subject/662910) | 统一 ISBN 写法 |
