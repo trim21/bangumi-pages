@@ -1,11 +1,12 @@
 # 待处理的条目修改
 
-total 8
+total 9
 
 | id | 条目 | 修改类型 |
 | --- | --- | --- |
 | 662682 | [`顾长歌：我！天命大反派​`](https://bgm.tv/subject/662682) | 删除不可见 Unicode 字符 |
 | 662849 | [`Hulk (2014)`](https://bgm.tv/subject/662849) | 删除不可见 Unicode 字符 |
+| 94519 | [`翔ぶが如く`](https://bgm.tv/subject/94519) | 删除重复字段 |
 | 114211 | [`八日目の蟬`](https://bgm.tv/subject/114211) | 删除重复字段 |
 | 662907 | [`イレギュラー 血まみれの女神`](https://bgm.tv/subject/662907) | 统一 ISBN 写法 |
 | 662923 | [`うぃーくえんど☆ラビリンス`](https://bgm.tv/subject/662923) | 统一 ISBN 写法 |
