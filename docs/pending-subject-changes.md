@@ -1,12 +1,13 @@
 # 待处理的条目修改
 
-total 14
+total 15
 
 | id | 条目 | 修改类型 |
 | --- | --- | --- |
 | 325727 | [`探偵はもう、死んでいる。`](https://bgm.tv/subject/325727) | 删除不可见 Unicode 字符 |
 | 662682 | [`顾长歌：我！天命大反派​`](https://bgm.tv/subject/662682) | 删除不可见 Unicode 字符 |
 | 663322 | [`墓場から地獄まで。`](https://bgm.tv/subject/663322) | 删除不可见 Unicode 字符 |
+| 663792 | [`我的同学都很奇怪​`](https://bgm.tv/subject/663792) | 删除不可见 Unicode 字符 |
 | 662849 | [`Hulk (2014)`](https://bgm.tv/subject/662849) | 删除不可见 Unicode 字符 |
 | 94519 | [`翔ぶが如く`](https://bgm.tv/subject/94519) | 删除重复字段 |
 | 114211 | [`八日目の蟬`](https://bgm.tv/subject/114211) | 删除重复字段 |
