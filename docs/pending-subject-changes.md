@@ -1,6 +1,6 @@
 # 待处理的条目修改
 
-total 20
+total 21
 
 | id | 条目 | 修改类型 |
 | --- | --- | --- |
@@ -15,6 +15,7 @@ total 20
 | 114211 | [`八日目の蟬`](https://bgm.tv/subject/114211) | 删除重复字段 |
 | 663149 | [`超时空怪盗`](https://bgm.tv/subject/663149) | 删除重复字段 |
 | 482340 | [`トニー滝谷`](https://bgm.tv/subject/482340) | 删除重复字段 |
+| 93350 | [`Enlisted`](https://bgm.tv/subject/93350) | 删除重复字段 |
 | 456085 | [`乾いた花`](https://bgm.tv/subject/456085) | 删除重复字段 |
 | 591208 | [`禍禍女`](https://bgm.tv/subject/591208) | 删除重复字段 |
 | 663809 | [`オルガナー ~さよなら、もう二人の麻理子~`](https://bgm.tv/subject/663809) | 统一 ISBN 写法 |
