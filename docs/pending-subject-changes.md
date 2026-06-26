@@ -1,6 +1,6 @@
 # 待处理的条目修改
 
-total 15
+total 17
 
 | id | 条目 | 修改类型 |
 | --- | --- | --- |
@@ -14,8 +14,10 @@ total 15
 | 663149 | [`超时空怪盗`](https://bgm.tv/subject/663149) | 删除重复字段 |
 | 482340 | [`トニー滝谷`](https://bgm.tv/subject/482340) | 删除重复字段 |
 | 591208 | [`禍禍女`](https://bgm.tv/subject/591208) | 删除重复字段 |
+| 663809 | [`オルガナー ~さよなら、もう二人の麻理子~`](https://bgm.tv/subject/663809) | 统一 ISBN 写法 |
 | 662907 | [`イレギュラー 血まみれの女神`](https://bgm.tv/subject/662907) | 统一 ISBN 写法 |
 | 662923 | [`うぃーくえんど☆ラビリンス`](https://bgm.tv/subject/662923) | 统一 ISBN 写法 |
 | 662910 | [`イレギュラー 偽りの聖者`](https://bgm.tv/subject/662910) | 统一 ISBN 写法 |
 | 662908 | [`イレギュラー 銀の創造主`](https://bgm.tv/subject/662908) | 统一 ISBN 写法 |
 | 662911 | [`イレギュラー 黒の王`](https://bgm.tv/subject/662911) | 统一 ISBN 写法 |
+| 663806 | [`オービタル・レディ`](https://bgm.tv/subject/663806) | 统一 ISBN 写法 |
