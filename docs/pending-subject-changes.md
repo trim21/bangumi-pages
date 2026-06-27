@@ -1,6 +1,6 @@
 # 待处理的条目修改
 
-total 23
+total 24
 
 | id | 条目 | 修改类型 |
 | --- | --- | --- |
@@ -9,6 +9,7 @@ total 23
 | 663322 | [`墓場から地獄まで。`](https://bgm.tv/subject/663322) | 删除不可见 Unicode 字符 |
 | 663792 | [`我的同学都很奇怪​`](https://bgm.tv/subject/663792) | 删除不可见 Unicode 字符 |
 | 605643 | [`Dynamix Universe`](https://bgm.tv/subject/605643) | 删除不可见 Unicode 字符 |
+| 664094 | [`Stamp Collector`](https://bgm.tv/subject/664094) | 删除不可见 Unicode 字符 |
 | 662849 | [`Hulk (2014)`](https://bgm.tv/subject/662849) | 删除不可见 Unicode 字符 |
 | 663883 | [`文五捕物絵図 男坂界隈`](https://bgm.tv/subject/663883) | 删除重复字段 |
 | 663887 | [`文吾捕物絵図 張り込み`](https://bgm.tv/subject/663887) | 删除重复字段 |
