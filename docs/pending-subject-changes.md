@@ -1,6 +1,6 @@
 # 待处理的条目修改
 
-total 26
+total 25
 
 | id | 条目 | 修改类型 |
 | --- | --- | --- |
@@ -21,7 +21,6 @@ total 26
 | 93350 | [`Enlisted`](https://bgm.tv/subject/93350) | 删除重复字段 |
 | 456085 | [`乾いた花`](https://bgm.tv/subject/456085) | 删除重复字段 |
 | 52536 | [`春の坂道`](https://bgm.tv/subject/52536) | 删除重复字段 |
-| 591208 | [`禍禍女`](https://bgm.tv/subject/591208) | 删除重复字段 |
 | 663809 | [`オルガナー ~さよなら、もう二人の麻理子~`](https://bgm.tv/subject/663809) | 统一 ISBN 写法 |
 | 662907 | [`イレギュラー 血まみれの女神`](https://bgm.tv/subject/662907) | 统一 ISBN 写法 |
 | 662923 | [`うぃーくえんど☆ラビリンス`](https://bgm.tv/subject/662923) | 统一 ISBN 写法 |
