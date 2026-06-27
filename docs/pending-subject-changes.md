@@ -1,9 +1,10 @@
 # 待处理的条目修改
 
-total 30
+total 32
 
 | id | 条目 | 修改类型 |
 | --- | --- | --- |
+| 664302 | [`華アワセ 公式ビジュアルファンブック`](https://bgm.tv/subject/664302) | 删除不可见 Unicode 字符 |
 | 325727 | [`探偵はもう、死んでいる。`](https://bgm.tv/subject/325727) | 删除不可见 Unicode 字符 |
 | 662682 | [`顾长歌：我！天命大反派​`](https://bgm.tv/subject/662682) | 删除不可见 Unicode 字符 |
 | 663322 | [`墓場から地獄まで。`](https://bgm.tv/subject/663322) | 删除不可见 Unicode 字符 |
@@ -24,6 +25,7 @@ total 30
 | 664266 | [`影の新撰組・紫苑 花の噂・土方だけが知っている!?`](https://bgm.tv/subject/664266) | 统一 ISBN 写法 |
 | 663809 | [`オルガナー ~さよなら、もう二人の麻理子~`](https://bgm.tv/subject/663809) | 统一 ISBN 写法 |
 | 664265 | [`鏡よカガミ!? ぼくとこりんと夏の影 2`](https://bgm.tv/subject/664265) | 统一 ISBN 写法 |
+| 664302 | [`華アワセ 公式ビジュアルファンブック`](https://bgm.tv/subject/664302) | 统一 ISBN 写法 |
 | 664264 | [`鏡よカガミ!? ぼくとこりんと夏の影`](https://bgm.tv/subject/664264) | 统一 ISBN 写法 |
 | 662907 | [`イレギュラー 血まみれの女神`](https://bgm.tv/subject/662907) | 统一 ISBN 写法 |
 | 662923 | [`うぃーくえんど☆ラビリンス`](https://bgm.tv/subject/662923) | 统一 ISBN 写法 |
