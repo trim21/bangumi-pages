@@ -1,12 +1,13 @@
 # 待处理的条目修改
 
-total 24
+total 26
 
 | id | 条目 | 修改类型 |
 | --- | --- | --- |
 | 325727 | [`探偵はもう、死んでいる。`](https://bgm.tv/subject/325727) | 删除不可见 Unicode 字符 |
 | 662682 | [`顾长歌：我！天命大反派​`](https://bgm.tv/subject/662682) | 删除不可见 Unicode 字符 |
 | 663322 | [`墓場から地獄まで。`](https://bgm.tv/subject/663322) | 删除不可见 Unicode 字符 |
+| 664174 | [`Notebook Workshop`](https://bgm.tv/subject/664174) | 删除不可见 Unicode 字符 |
 | 663792 | [`我的同学都很奇怪​`](https://bgm.tv/subject/663792) | 删除不可见 Unicode 字符 |
 | 605643 | [`Dynamix Universe`](https://bgm.tv/subject/605643) | 删除不可见 Unicode 字符 |
 | 664094 | [`Stamp Collector`](https://bgm.tv/subject/664094) | 删除不可见 Unicode 字符 |
@@ -24,6 +25,7 @@ total 24
 | 663809 | [`オルガナー ~さよなら、もう二人の麻理子~`](https://bgm.tv/subject/663809) | 统一 ISBN 写法 |
 | 662907 | [`イレギュラー 血まみれの女神`](https://bgm.tv/subject/662907) | 统一 ISBN 写法 |
 | 662923 | [`うぃーくえんど☆ラビリンス`](https://bgm.tv/subject/662923) | 统一 ISBN 写法 |
+| 664203 | [`Dark Nights: Death Metal`](https://bgm.tv/subject/664203) | 统一 ISBN 写法 |
 | 662910 | [`イレギュラー 偽りの聖者`](https://bgm.tv/subject/662910) | 统一 ISBN 写法 |
 | 662908 | [`イレギュラー 銀の創造主`](https://bgm.tv/subject/662908) | 统一 ISBN 写法 |
 | 662911 | [`イレギュラー 黒の王`](https://bgm.tv/subject/662911) | 统一 ISBN 写法 |
