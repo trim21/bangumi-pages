@@ -1,6 +1,6 @@
 # 待处理的条目修改
 
-total 32
+total 33
 
 | id | 条目 | 修改类型 |
 | --- | --- | --- |
@@ -13,6 +13,7 @@ total 32
 | 605643 | [`Dynamix Universe`](https://bgm.tv/subject/605643) | 删除不可见 Unicode 字符 |
 | 664094 | [`Stamp Collector`](https://bgm.tv/subject/664094) | 删除不可见 Unicode 字符 |
 | 662849 | [`Hulk (2014)`](https://bgm.tv/subject/662849) | 删除不可见 Unicode 字符 |
+| 574475 | [`万事快調＜オール・グリーンズ＞`](https://bgm.tv/subject/574475) | 删除重复字段 |
 | 663883 | [`文五捕物絵図 男坂界隈`](https://bgm.tv/subject/663883) | 删除重复字段 |
 | 663887 | [`文吾捕物絵図 張り込み`](https://bgm.tv/subject/663887) | 删除重复字段 |
 | 94519 | [`翔ぶが如く`](https://bgm.tv/subject/94519) | 删除重复字段 |
