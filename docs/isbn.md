@@ -1,7 +1,7 @@
 # ISBN 错误
 ## <https://bgm.tv/group/topic/404801>
 
-total 250
+total 248
 
 | url | error |
 | --- |  ---  |
@@ -152,10 +152,8 @@ total 250
 | <https://bgm.tv/subject/538034> | 重复出现的 ISBN '9784829127520' |
 | <https://bgm.tv/subject/538035> | 重复出现的 ISBN '9784829128077' |
 | <https://bgm.tv/subject/538036> | 重复出现的 ISBN '9784041211243' |
-| <https://bgm.tv/subject/539065> | 预期之外的 ISBN 格式 `デジタル写真集` |
 | <https://bgm.tv/subject/542257> | 不是合法的 isbn13 <code>9784484912228</code> |
 | <https://bgm.tv/subject/542449> | 预期之外的 ISBN 格式 `4934569977830` |
-| <https://bgm.tv/subject/544067> | 预期之外的 ISBN 格式 `2018年6月20日` |
 | <https://bgm.tv/subject/546875> | 预期之外的 ISBN 格式 `18` |
 | <https://bgm.tv/subject/547854> | 不是合法的 isbn13 <code>9781964163368</code> |
 | <https://bgm.tv/subject/551431> | 不是合法的 isbn13 <code>9784757716842</code> |
