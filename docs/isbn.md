@@ -1,7 +1,7 @@
 # ISBN 错误
 ## <https://bgm.tv/group/topic/404801>
 
-total 248
+total 263
 
 | url | error |
 | --- |  ---  |
@@ -253,3 +253,18 @@ total 248
 | <https://bgm.tv/subject/662224> | 预期之外的 ISBN 格式 `4717702300593` |
 | <https://bgm.tv/subject/662790> | 预期之外的 ISBN 格式 `ISBN4-09-199511-x` |
 | <https://bgm.tv/subject/664263> | 预期之外的 ISBN 格式 `2012-03-14` |
+| <https://bgm.tv/subject/665258> | 不是合法的 isbn13 <code>9784088592338</code> |
+| <https://bgm.tv/subject/665259> | 不是合法的 isbn13 <code>9784088592772</code> |
+| <https://bgm.tv/subject/665260> | 不是合法的 isbn13 <code>9784088593076</code> |
+| <https://bgm.tv/subject/665261> | 不是合法的 isbn13 <code>9784088593274</code> |
+| <https://bgm.tv/subject/665262> | 不是合法的 isbn13 <code>9784088593465</code> |
+| <https://bgm.tv/subject/665263> | 不是合法的 isbn13 <code>9784088593663</code> |
+| <https://bgm.tv/subject/665265> | 不是合法的 isbn13 <code>9784088593939</code> |
+| <https://bgm.tv/subject/665266> | 不是合法的 isbn13 <code>9784088594158</code> |
+| <https://bgm.tv/subject/665267> | 不是合法的 isbn13 <code>9784088594332</code> |
+| <https://bgm.tv/subject/665268> | 不是合法的 isbn13 <code>9784088594509</code> |
+| <https://bgm.tv/subject/665269> | 不是合法的 isbn13 <code>9784088594943</code> |
+| <https://bgm.tv/subject/665270> | 不是合法的 isbn13 <code>9784088595193</code> |
+| <https://bgm.tv/subject/665271> | 不是合法的 isbn13 <code>9784088595513</code> |
+| <https://bgm.tv/subject/665272> | 不是合法的 isbn13 <code>9784088595728</code> |
+| <https://bgm.tv/subject/665273> | 不是合法的 isbn13 <code>9784088596015</code> |
