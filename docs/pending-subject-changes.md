@@ -1,6 +1,6 @@
 # 待处理的条目修改
 
-total 11
+total 12
 
 | id | 条目 | 修改类型 |
 | --- | --- | --- |
@@ -11,6 +11,7 @@ total 11
 | 675871 | [`Elderwood Online`](https://bgm.tv/subject/675871) | 删除不可见 Unicode 字符 |
 | 675594 | [`Netcode Warriors`](https://bgm.tv/subject/675594) | 删除不可见 Unicode 字符 |
 | 675562 | [`Aquapark Tycoon`](https://bgm.tv/subject/675562) | 删除不可见 Unicode 字符 |
+| 676001 | [`Hateful Days`](https://bgm.tv/subject/676001) | 删除不可见 Unicode 字符 |
 | 675759 | [`Greenhouse`](https://bgm.tv/subject/675759) | 删除不可见 Unicode 字符 |
 | 675857 | [`星渊龙契`](https://bgm.tv/subject/675857) | 删除不可见 Unicode 字符 |
 | 675378 | [`怒り(上)`](https://bgm.tv/subject/675378) | 统一 ISBN 写法 |
