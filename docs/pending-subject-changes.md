@@ -1,6 +1,6 @@
 # 待处理的条目修改
 
-total 7
+total 8
 
 | id | 条目 | 修改类型 |
 | --- | --- | --- |
@@ -11,3 +11,4 @@ total 7
 | 676605 | [`Cygnus 13`](https://bgm.tv/subject/676605) | 删除不可见 Unicode 字符 |
 | 246612 | [`僕らの世界で。`](https://bgm.tv/subject/246612) | 统一 ISBN 写法 |
 | 246610 | [`セツナユキ`](https://bgm.tv/subject/246610) | 统一 ISBN 写法 |
+| 677259 | [`官能教師`](https://bgm.tv/subject/677259) | 统一 ISBN 写法 |
