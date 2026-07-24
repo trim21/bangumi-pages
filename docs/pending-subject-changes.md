@@ -1,14 +1,17 @@
 # 待处理的条目修改
 
-total 16
+total 19
 
 | id | 条目 | 修改类型 |
 | --- | --- | --- |
+| 679333 | [`The Mushroom Adventrue:Call of Distant Realms`](https://bgm.tv/subject/679333) | 删除不可见 Unicode 字符 |
 | 678701 | [`二维的心 2D Hearts: AI Sandbox Adventure`](https://bgm.tv/subject/678701) | 删除不可见 Unicode 字符 |
 | 678488 | [`The Mansion Of Whispering Desires`](https://bgm.tv/subject/678488) | 删除不可见 Unicode 字符 |
+| 679209 | [`Poppy Seed Pets: Capture the Flag`](https://bgm.tv/subject/679209) | 删除不可见 Unicode 字符 |
 | 678448 | [`Raveren: The Legend Of Etheria`](https://bgm.tv/subject/678448) | 删除不可见 Unicode 字符 |
 | 677934 | [`Manos The Hands Of Choice`](https://bgm.tv/subject/677934) | 删除不可见 Unicode 字符 |
 | 678385 | [`Rise of the Settlement`](https://bgm.tv/subject/678385) | 删除不可见 Unicode 字符 |
+| 679319 | [`Ethan's Flag Quiz Game`](https://bgm.tv/subject/679319) | 删除不可见 Unicode 字符 |
 | 677983 | [`Drunk Dad vs Family`](https://bgm.tv/subject/677983) | 删除不可见 Unicode 字符 |
 | 678933 | [`boyfriend or cake??`](https://bgm.tv/subject/678933) | 删除不可见 Unicode 字符 |
 | 678949 | [`Mushroom Survivors`](https://bgm.tv/subject/678949) | 删除不可见 Unicode 字符 |
