@@ -1,6 +1,6 @@
 # 待处理的条目修改
 
-total 13
+total 16
 
 | id | 条目 | 修改类型 |
 | --- | --- | --- |
@@ -10,6 +10,8 @@ total 13
 | 677934 | [`Manos The Hands Of Choice`](https://bgm.tv/subject/677934) | 删除不可见 Unicode 字符 |
 | 678385 | [`Rise of the Settlement`](https://bgm.tv/subject/678385) | 删除不可见 Unicode 字符 |
 | 677983 | [`Drunk Dad vs Family`](https://bgm.tv/subject/677983) | 删除不可见 Unicode 字符 |
+| 678933 | [`boyfriend or cake??`](https://bgm.tv/subject/678933) | 删除不可见 Unicode 字符 |
+| 678949 | [`Mushroom Survivors`](https://bgm.tv/subject/678949) | 删除不可见 Unicode 字符 |
 | 678250 | [`Fish and Chill`](https://bgm.tv/subject/678250) | 删除不可见 Unicode 字符 |
 | 677910 | [`God's League`](https://bgm.tv/subject/677910) | 删除不可见 Unicode 字符 |
 | 678603 | [`Jail College`](https://bgm.tv/subject/678603) | 删除不可见 Unicode 字符 |
@@ -17,3 +19,4 @@ total 13
 | 677991 | [`Copperfell`](https://bgm.tv/subject/677991) | 删除不可见 Unicode 字符 |
 | 678192 | [`Who Fart ?`](https://bgm.tv/subject/678192) | 删除不可见 Unicode 字符 |
 | 678389 | [`Star Tower`](https://bgm.tv/subject/678389) | 删除不可见 Unicode 字符 |
+| 678999 | [`marktopia`](https://bgm.tv/subject/678999) | 删除不可见 Unicode 字符 |
