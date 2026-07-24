@@ -1,45 +1,9 @@
 # 待处理的条目修改
 
-total 136
+total 100
 
 | id | 条目 | 修改类型 |
 | --- | --- | --- |
-| 653955 | [`モノごころ、モノむすめ。`](https://bgm.tv/subject/653955) | 统一 ISBN 写法 |
-| 653404 | [`かこい 絶望の処女監獄島`](https://bgm.tv/subject/653404) | 统一 ISBN 写法 |
-| 653629 | [`あなたと見た桜 ~姉妹妻~`](https://bgm.tv/subject/653629) | 统一 ISBN 写法 |
-| 653640 | [`ふたなり♪ミルクセーぇキ`](https://bgm.tv/subject/653640) | 统一 ISBN 写法 |
-| 653343 | [`new ~メイドさんの学校~`](https://bgm.tv/subject/653343) | 统一 ISBN 写法 |
-| 653351 | [`忘レナ草 Forget-me-Not`](https://bgm.tv/subject/653351) | 统一 ISBN 写法 |
-| 653357 | [`はじめてのおいしゃさん`](https://bgm.tv/subject/653357) | 统一 ISBN 写法 |
-| 653383 | [`DEVOTE2 いけない放課後`](https://bgm.tv/subject/653383) | 统一 ISBN 写法 |
-| 653564 | [`愛 cute!キミに恋してる`](https://bgm.tv/subject/653564) | 统一 ISBN 写法 |
-| 653646 | [`お姉さん中出し痴漢列車`](https://bgm.tv/subject/653646) | 统一 ISBN 写法 |
-| 653934 | [`THE GOD OF DEATH 第1章`](https://bgm.tv/subject/653934) | 统一 ISBN 写法 |
-| 653941 | [`THE GOD OF DEATH 第2章`](https://bgm.tv/subject/653941) | 统一 ISBN 写法 |
-| 653960 | [`すくみず2 香恵・ヒナ編`](https://bgm.tv/subject/653960) | 统一 ISBN 写法 |
-| 653963 | [`AR ~忘れられた夏~ 上巻`](https://bgm.tv/subject/653963) | 统一 ISBN 写法 |
-| 653971 | [`AR ~忘れられた夏~ 中巻`](https://bgm.tv/subject/653971) | 统一 ISBN 写法 |
-| 654199 | [`AR ~忘れられた夏~ 下巻`](https://bgm.tv/subject/654199) | 统一 ISBN 写法 |
-| 653321 | [`Princess Knights 上巻`](https://bgm.tv/subject/653321) | 统一 ISBN 写法 |
-| 653353 | [`Princess Knights 下巻`](https://bgm.tv/subject/653353) | 统一 ISBN 写法 |
-| 653549 | [`クリスマス★プレゼント`](https://bgm.tv/subject/653549) | 统一 ISBN 写法 |
-| 653928 | [`MAID iN HEAVEN SuperS`](https://bgm.tv/subject/653928) | 统一 ISBN 写法 |
-| 653943 | [`つよきす 椰子なごみ編`](https://bgm.tv/subject/653943) | 统一 ISBN 写法 |
-| 653959 | [`つよきす 霧夜エリカ編`](https://bgm.tv/subject/653959) | 统一 ISBN 写法 |
-| 653029 | [`尽くしてあげちゃう 2`](https://bgm.tv/subject/653029) | 统一 ISBN 写法 |
-| 653344 | [`はじめてのおるすばん`](https://bgm.tv/subject/653344) | 统一 ISBN 写法 |
-| 653349 | [`Sacrifice ~制服狩り~`](https://bgm.tv/subject/653349) | 统一 ISBN 写法 |
-| 653399 | [`復讐の女神 -Nemesis-`](https://bgm.tv/subject/653399) | 统一 ISBN 写法 |
-| 653542 | [`魔女っ娘ア･ラ･モード`](https://bgm.tv/subject/653542) | 统一 ISBN 写法 |
-| 653554 | [`こなたよりかなたまで`](https://bgm.tv/subject/653554) | 统一 ISBN 写法 |
-| 653942 | [`はじめてのおてつだい`](https://bgm.tv/subject/653942) | 统一 ISBN 写法 |
-| 653976 | [`メイドさんと大きな剣`](https://bgm.tv/subject/653976) | 统一 ISBN 写法 |
-| 653136 | [`懲らしめ 狂育的指導`](https://bgm.tv/subject/653136) | 统一 ISBN 写法 |
-| 653550 | [`SNOW ~空の揺りかご~`](https://bgm.tv/subject/653550) | 统一 ISBN 写法 |
-| 653558 | [`放課後 ~濡れた制服~`](https://bgm.tv/subject/653558) | 统一 ISBN 写法 |
-| 653561 | [`アンサンブル 桜子編`](https://bgm.tv/subject/653561) | 统一 ISBN 写法 |
-| 653633 | [`アンサンブル 若葉編`](https://bgm.tv/subject/653633) | 统一 ISBN 写法 |
-| 653641 | [`最終試験くじら 上巻`](https://bgm.tv/subject/653641) | 统一 ISBN 写法 |
 | 653648 | [`最終試験くじら 下巻`](https://bgm.tv/subject/653648) | 统一 ISBN 写法 |
 | 653966 | [`つよきす 蟹沢きぬ編`](https://bgm.tv/subject/653966) | 统一 ISBN 写法 |
 | 653969 | [`PRINCESS WALTZ 上巻`](https://bgm.tv/subject/653969) | 统一 ISBN 写法 |
