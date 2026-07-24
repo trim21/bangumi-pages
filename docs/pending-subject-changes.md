@@ -1,27 +1,9 @@
 # 待处理的条目修改
 
-total 227
+total 209
 
 | id | 条目 | 修改类型 |
 | --- | --- | --- |
-| 653253 | [`ギャル勇者ちゃんは攻略したい`](https://bgm.tv/subject/653253) | 删除不可见 Unicode 字符 |
-| 653311 | [`ローグウィズデッド`](https://bgm.tv/subject/653311) | 删除不可见 Unicode 字符 |
-| 653886 | [`Cooking Crew`](https://bgm.tv/subject/653886) | 删除不可见 Unicode 字符 |
-| 653866 | [`Pax Augusta`](https://bgm.tv/subject/653866) | 删除不可见 Unicode 字符 |
-| 661081 | [`Don't Crash`](https://bgm.tv/subject/661081) | 删除不可见 Unicode 字符 |
-| 666115 | [`고독방송:심`](https://bgm.tv/subject/666115) | 删除不可见 Unicode 字符 |
-| 652425 | [`リリリアン`](https://bgm.tv/subject/652425) | 删除不可见 Unicode 字符 |
-| 652624 | [`Alienstein`](https://bgm.tv/subject/652624) | 删除不可见 Unicode 字符 |
-| 653738 | [`Disco Tomb`](https://bgm.tv/subject/653738) | 删除不可见 Unicode 字符 |
-| 654118 | [`夢魅の窓`](https://bgm.tv/subject/654118) | 删除不可见 Unicode 字符 |
-| 666413 | [`Inhuman`](https://bgm.tv/subject/666413) | 删除不可见 Unicode 字符 |
-| 652803 | [`맥거핀`](https://bgm.tv/subject/652803) | 删除不可见 Unicode 字符 |
-| 229888 | [`空飛ぶタイヤ`](https://bgm.tv/subject/229888) | 删除重复字段 |
-| 635213 | [`Coraroc`](https://bgm.tv/subject/635213) | 删除重复字段 |
-| 653563 | [`大好きな先生にHなおねだりしちゃう おませなボクの/私のぷにぷに`](https://bgm.tv/subject/653563) | 统一 ISBN 写法 |
-| 653170 | [`When Magoo Flew: The Rise and Fall of Animation Studio UPA`](https://bgm.tv/subject/653170) | 统一 ISBN 写法 |
-| 653540 | [`恋する妹はせつなくて お兄ちゃんを想うとすぐHしちゃうの`](https://bgm.tv/subject/653540) | 统一 ISBN 写法 |
-| 666331 | [`キン肉マンII世 ~伝説の序章~ ヘラクレス・ファクトリー編`](https://bgm.tv/subject/666331) | 统一 ISBN 写法 |
 | 653923 | [`処女はお姉さまに恋してる とまどうジュリエット~貴子編~`](https://bgm.tv/subject/653923) | 统一 ISBN 写法 |
 | 653085 | [`桑田次郎アダルト短編集 サングラスをはずさないで`](https://bgm.tv/subject/653085) | 统一 ISBN 写法 |
 | 653938 | [`オシオキSweetie ~恋するお姉さんはウラハラです~`](https://bgm.tv/subject/653938) | 统一 ISBN 写法 |
