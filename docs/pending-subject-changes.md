@@ -1,41 +1,9 @@
 # 待处理的条目修改
 
-total 168
+total 136
 
 | id | 条目 | 修改类型 |
 | --- | --- | --- |
-| 653130 | [`Natural2-DUO- お兄ちゃんとの絆`](https://bgm.tv/subject/653130) | 统一 ISBN 写法 |
-| 653294 | [`夜勤病棟 ~特別盤 裏カルテ閲覧~`](https://bgm.tv/subject/653294) | 统一 ISBN 写法 |
-| 373490 | [`誰にも言えない㊙ 18 Hしたい男`](https://bgm.tv/subject/373490) | 统一 ISBN 写法 |
-| 653293 | [`Infantaria ~インファンタリア~`](https://bgm.tv/subject/653293) | 统一 ISBN 写法 |
-| 653553 | [`ななみとこのみのおしえてA･B･C`](https://bgm.tv/subject/653553) | 统一 ISBN 写法 |
-| 653932 | [`ふたりでマーヴルしちゃいます!`](https://bgm.tv/subject/653932) | 统一 ISBN 写法 |
-| 373493 | [`誰にも言えない㊙ 21 究極のH2`](https://bgm.tv/subject/373493) | 统一 ISBN 写法 |
-| 373512 | [`誰にも言えない㊙ 40 絶頂体験`](https://bgm.tv/subject/373512) | 统一 ISBN 写法 |
-| 653022 | [`Lovely Angels ぺろぺろCandy2`](https://bgm.tv/subject/653022) | 统一 ISBN 写法 |
-| 653940 | [`ないしょのティンティンたいむ`](https://bgm.tv/subject/653940) | 统一 ISBN 写法 |
-| 653320 | [`SPOT LIGHT 羨望と欲望の狭間`](https://bgm.tv/subject/653320) | 统一 ISBN 写法 |
-| 653384 | [`超昂天使エスカレイヤー 上巻`](https://bgm.tv/subject/653384) | 统一 ISBN 写法 |
-| 653391 | [`超昂天使エスカレイヤー 中巻`](https://bgm.tv/subject/653391) | 统一 ISBN 写法 |
-| 653398 | [`超昂天使エスカレイヤー 下巻`](https://bgm.tv/subject/653398) | 统一 ISBN 写法 |
-| 653652 | [`脅迫2 ~傷に咲く花 鮮血の紅~`](https://bgm.tv/subject/653652) | 统一 ISBN 写法 |
-| 373487 | [`誰にも言えない㊙ 15 略奪愛`](https://bgm.tv/subject/373487) | 统一 ISBN 写法 |
-| 653346 | [`Only you -リ・クルス- 上巻`](https://bgm.tv/subject/653346) | 统一 ISBN 写法 |
-| 653352 | [`Silvern ~銀の月、迷いの森~`](https://bgm.tv/subject/653352) | 统一 ISBN 写法 |
-| 653360 | [`新体操(仮)淫装のレオタード`](https://bgm.tv/subject/653360) | 统一 ISBN 写法 |
-| 653380 | [`今宵も召しませアリステイル`](https://bgm.tv/subject/653380) | 统一 ISBN 写法 |
-| 653402 | [`懲らしめ2 狂育的デパガ指導`](https://bgm.tv/subject/653402) | 统一 ISBN 写法 |
-| 653944 | [`ちょっと素直にどんぶり感情`](https://bgm.tv/subject/653944) | 统一 ISBN 写法 |
-| 653970 | [`ツグナヒ2 もうひとりの奈々`](https://bgm.tv/subject/653970) | 统一 ISBN 写法 |
-| 35247 | [`朱-Aka-上巻～ルタの眷属～`](https://bgm.tv/subject/35247) | 统一 ISBN 写法 |
-| 373507 | [`誰にも言えない㊙ 35 調教H`](https://bgm.tv/subject/373507) | 统一 ISBN 写法 |
-| 653300 | [`エッチなバニーさんは嫌い?`](https://bgm.tv/subject/653300) | 统一 ISBN 写法 |
-| 653345 | [`Beside ~幸せはかたわらに~`](https://bgm.tv/subject/653345) | 统一 ISBN 写法 |
-| 653355 | [`Only you -リ･クルス- 下巻`](https://bgm.tv/subject/653355) | 统一 ISBN 写法 |
-| 653379 | [`エルフィーナ ~奉仕国家編~`](https://bgm.tv/subject/653379) | 统一 ISBN 写法 |
-| 653135 | [`淫内感染 午前3時の手術室`](https://bgm.tv/subject/653135) | 统一 ISBN 写法 |
-| 653312 | [`Lingeries ランジェリーズ`](https://bgm.tv/subject/653312) | 统一 ISBN 写法 |
-| 653921 | [`ウソツキは天使のはじまり`](https://bgm.tv/subject/653921) | 统一 ISBN 写法 |
 | 653955 | [`モノごころ、モノむすめ。`](https://bgm.tv/subject/653955) | 统一 ISBN 写法 |
 | 653404 | [`かこい 絶望の処女監獄島`](https://bgm.tv/subject/653404) | 统一 ISBN 写法 |
 | 653629 | [`あなたと見た桜 ~姉妹妻~`](https://bgm.tv/subject/653629) | 统一 ISBN 写法 |
