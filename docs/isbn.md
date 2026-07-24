@@ -1,7 +1,7 @@
 # ISBN 错误
 ## <https://bgm.tv/group/topic/404801>
 
-total 266
+total 263
 
 | url | error |
 | --- |  ---  |
@@ -69,7 +69,6 @@ total 266
 | <https://bgm.tv/subject/179826> | 预期之外的 ISBN 格式 `单行本` |
 | <https://bgm.tv/subject/210748> | 不是合法的 isbn13 <code>9780785189440</code> |
 | <https://bgm.tv/subject/255084> | 不是合法的 isbn10 <code>6000043278</code> |
-| <https://bgm.tv/subject/280930> | 不是合法的 isbn13 <code>9784757507054</code> |
 | <https://bgm.tv/subject/360116> | 预期之外的 ISBN 格式 `待考` |
 | <https://bgm.tv/subject/360618> | 预期之外的 ISBN 格式 `A000219082` |
 | <https://bgm.tv/subject/376035> | 预期之外的 ISBN 格式 `9771671722133` |
@@ -92,7 +91,6 @@ total 266
 | <https://bgm.tv/subject/440783> | 预期之外的 ISBN 格式 `-` |
 | <https://bgm.tv/subject/440784> | 预期之外的 ISBN 格式 `-` |
 | <https://bgm.tv/subject/440785> | 预期之外的 ISBN 格式 `-` |
-| <https://bgm.tv/subject/441533> | 预期之外的 ISBN 格式 `200021752829` |
 | <https://bgm.tv/subject/442772> | 不是合法的 isbn13 <code>9784047304182</code> |
 | <https://bgm.tv/subject/452917> | 重复出现的 ISBN '9784758018265' |
 | <https://bgm.tv/subject/458249> | 预期之外的 ISBN 格式 `-` |
@@ -204,8 +202,6 @@ total 266
 | <https://bgm.tv/subject/600667> | 不是合法的 isbn13 <code>9791163980482</code> |
 | <https://bgm.tv/subject/601483> | 预期之外的 ISBN 格式 `978986690943` |
 | <https://bgm.tv/subject/601499> | 不是合法的 isbn13 <code>9789862062832</code> |
-| <https://bgm.tv/subject/601727> | 不是合法的 isbn13 <code>9784757509537</code> |
-| <https://bgm.tv/subject/601728> | 不是合法的 isbn13 <code>9784757511728</code> |
 | <https://bgm.tv/subject/603280> | 重复出现的 ISBN '9784091375483' |
 | <https://bgm.tv/subject/603281> | 预期之外的 ISBN 格式 `B01G3539F8` |
 | <https://bgm.tv/subject/603699> | 重复出现的 ISBN '9784757716001' |
@@ -248,6 +244,7 @@ total 266
 | <https://bgm.tv/subject/647147> | 包含多个 ISBN, 请手动拆分 '978-4-16-391772-6 / 978-4-16-391773-3' |
 | <https://bgm.tv/subject/649408> | 预期之外的 ISBN 格式 `EPUB|9784074602568` |
 | <https://bgm.tv/subject/650724> | 预期之外的 ISBN 格式 `978785111030` |
+| <https://bgm.tv/subject/653066> | 不是合法的 isbn13 <code>9789881840341</code> |
 | <https://bgm.tv/subject/653672> | 不是合法的 isbn13 <code>9789887013803</code> |
 | <https://bgm.tv/subject/660765> | 预期之外的 ISBN 格式 `待考` |
 | <https://bgm.tv/subject/660766> | 预期之外的 ISBN 格式 `待考` |
