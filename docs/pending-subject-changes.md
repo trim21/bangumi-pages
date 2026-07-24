@@ -1,40 +1,9 @@
 # 待处理的条目修改
 
-total 199
+total 168
 
 | id | 条目 | 修改类型 |
 | --- | --- | --- |
-| 653958 | [`Piaキャロットへようこそ!!G.O. あやのの絆`](https://bgm.tv/subject/653958) | 统一 ISBN 写法 |
-| 653965 | [`Piaキャロットへようこそ!!G.O. 小春びより`](https://bgm.tv/subject/653965) | 统一 ISBN 写法 |
-| 653939 | [`すくみず2 ~泳・げ・な・い~ 世弥・世那編`](https://bgm.tv/subject/653939) | 统一 ISBN 写法 |
-| 653972 | [`ドキドキ母娘レッスン ~教えて♪Hなお勉強~`](https://bgm.tv/subject/653972) | 统一 ISBN 写法 |
-| 660990 | [`アストロ!乙女塾! 僕は生徒会長に恋をする`](https://bgm.tv/subject/660990) | 统一 ISBN 写法 |
-| 653301 | [`もみじ 「ワタシ…人形じゃありません…」`](https://bgm.tv/subject/653301) | 统一 ISBN 写法 |
-| 653647 | [`揺れるバスガイド ~おっぱいがいっぱい~`](https://bgm.tv/subject/653647) | 统一 ISBN 写法 |
-| 653937 | [`七人のオンラインゲーマーズ オフライン`](https://bgm.tv/subject/653937) | 统一 ISBN 写法 |
-| 660991 | [`アストロ!乙女塾! 星のプリンキピア(上)`](https://bgm.tv/subject/660991) | 统一 ISBN 写法 |
-| 660992 | [`アストロ!乙女塾! 星のプリンキピア(下)`](https://bgm.tv/subject/660992) | 统一 ISBN 写法 |
-| 373482 | [`誰にも言えない㊙ 10 卒業-最後の告白-`](https://bgm.tv/subject/373482) | 统一 ISBN 写法 |
-| 653566 | [`姉、ちゃんとしようよっ!2 上巻 帰還編`](https://bgm.tv/subject/653566) | 统一 ISBN 写法 |
-| 653631 | [`姉、ちゃんとしようよっ!2 下巻 野望編`](https://bgm.tv/subject/653631) | 统一 ISBN 写法 |
-| 653954 | [`Natural Another One 2nd -Belladonna-`](https://bgm.tv/subject/653954) | 统一 ISBN 写法 |
-| 653544 | [`姉、ちゃんとしようよっ! 上巻 立志編`](https://bgm.tv/subject/653544) | 统一 ISBN 写法 |
-| 653551 | [`姉、ちゃんとしようよっ! 下巻 奮闘編`](https://bgm.tv/subject/653551) | 统一 ISBN 写法 |
-| 653945 | [`すくみず2 ~泳･げ･な･い~ ミカ･ピコ編`](https://bgm.tv/subject/653945) | 统一 ISBN 写法 |
-| 653097 | [`天才月澪彩葉の精神病質学研究ノート`](https://bgm.tv/subject/653097) | 统一 ISBN 写法 |
-| 653925 | [`MAID iN HEAVEN ~愛という名の欲望~`](https://bgm.tv/subject/653925) | 统一 ISBN 写法 |
-| 373488 | [`誰にも言えない㊙ 16 いけない遊び`](https://bgm.tv/subject/373488) | 统一 ISBN 写法 |
-| 653299 | [`恋愛CHU! 彼女の秘密はオトコのコ?`](https://bgm.tv/subject/653299) | 统一 ISBN 写法 |
-| 653303 | [`恋愛CHU! ヒミツの恋愛しませんか?`](https://bgm.tv/subject/653303) | 统一 ISBN 写法 |
-| 653396 | [`カラフルキッス ~12コの胸キュン!~`](https://bgm.tv/subject/653396) | 统一 ISBN 写法 |
-| 653957 | [`もめっ!乳姉妹 かていきょうし11人`](https://bgm.tv/subject/653957) | 统一 ISBN 写法 |
-| 373491 | [`誰にも言えない㊙ 19 禁断の恋III`](https://bgm.tv/subject/373491) | 统一 ISBN 写法 |
-| 653330 | [`Piaキャロットへようこそ!!3 上巻`](https://bgm.tv/subject/653330) | 统一 ISBN 写法 |
-| 653350 | [`Piaキャロットへようこそ!!3 中巻`](https://bgm.tv/subject/653350) | 统一 ISBN 写法 |
-| 653359 | [`Piaキャロットへようこそ!!3 下巻`](https://bgm.tv/subject/653359) | 统一 ISBN 写法 |
-| 373484 | [`誰にも言えない㊙ 12 禁断の恋II`](https://bgm.tv/subject/373484) | 统一 ISBN 写法 |
-| 373489 | [`誰にも言えない㊙ 17 男が選ぶ女`](https://bgm.tv/subject/373489) | 统一 ISBN 写法 |
-| 373496 | [`誰にも言えない㊙ 24 淫らな欲望`](https://bgm.tv/subject/373496) | 统一 ISBN 写法 |
 | 653130 | [`Natural2-DUO- お兄ちゃんとの絆`](https://bgm.tv/subject/653130) | 统一 ISBN 写法 |
 | 653294 | [`夜勤病棟 ~特別盤 裏カルテ閲覧~`](https://bgm.tv/subject/653294) | 统一 ISBN 写法 |
 | 373490 | [`誰にも言えない㊙ 18 Hしたい男`](https://bgm.tv/subject/373490) | 统一 ISBN 写法 |
