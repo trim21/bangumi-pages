@@ -1,10 +1,12 @@
 # 待处理的条目修改
 
-total 49
+total 48
 
 | id | 条目 | 修改类型 |
 | --- | --- | --- |
+| 680162 | [`Glenmara: Still Life Artist`](https://bgm.tv/subject/680162) | 删除不可见 Unicode 字符 |
 | 680070 | [`Starship Warbeasts`](https://bgm.tv/subject/680070) | 删除不可见 Unicode 字符 |
+| 680456 | [`Bucket Tag`](https://bgm.tv/subject/680456) | 删除不可见 Unicode 字符 |
 | 653922 | [`幼なじみな彼女`](https://bgm.tv/subject/653922) | 统一 ISBN 写法 |
 | 653967 | [`炎の孕ませ人生`](https://bgm.tv/subject/653967) | 统一 ISBN 写法 |
 | 679635 | [`TO THE CASTLE`](https://bgm.tv/subject/679635) | 统一 ISBN 写法 |
@@ -35,9 +37,6 @@ total 49
 | 653314 | [`-スガタ-`](https://bgm.tv/subject/653314) | 统一 ISBN 写法 |
 | 653323 | [`家族計画`](https://bgm.tv/subject/653323) | 统一 ISBN 写法 |
 | 653348 | [`Milkyway`](https://bgm.tv/subject/653348) | 统一 ISBN 写法 |
-| 653381 | [`はじらひ`](https://bgm.tv/subject/653381) | 统一 ISBN 写法 |
-| 653400 | [`催眠学園`](https://bgm.tv/subject/653400) | 统一 ISBN 写法 |
-| 653565 | [`Xchange3`](https://bgm.tv/subject/653565) | 统一 ISBN 写法 |
 | 653918 | [`ゆのはな`](https://bgm.tv/subject/653918) | 统一 ISBN 写法 |
 | 653927 | [`サナララ`](https://bgm.tv/subject/653927) | 统一 ISBN 写法 |
 | 661228 | [`The Raid`](https://bgm.tv/subject/661228) | 统一 ISBN 写法 |
