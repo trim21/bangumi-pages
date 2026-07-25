@@ -1,6 +1,6 @@
 # 待处理的条目修改
 
-total 81
+total 77
 
 | id | 条目 | 修改类型 |
 | --- | --- | --- |
@@ -29,10 +29,6 @@ total 81
 | 653296 | [`ナチュラルZero+`](https://bgm.tv/subject/653296) | 统一 ISBN 写法 |
 | 653347 | [`性裁 ~白濁の禊~`](https://bgm.tv/subject/653347) | 统一 ISBN 写法 |
 | 653543 | [`SNOW ~記憶の棘~`](https://bgm.tv/subject/653543) | 统一 ISBN 写法 |
-| 654201 | [`ボインにかけろ!`](https://bgm.tv/subject/654201) | 统一 ISBN 写法 |
-| 653133 | [`星空ぷらねっと`](https://bgm.tv/subject/653133) | 统一 ISBN 写法 |
-| 653297 | [`看護しちゃうぞ`](https://bgm.tv/subject/653297) | 统一 ISBN 写法 |
-| 653324 | [`魔女狩りの夜に`](https://bgm.tv/subject/653324) | 统一 ISBN 写法 |
 | 653557 | [`ラストオーダー`](https://bgm.tv/subject/653557) | 统一 ISBN 写法 |
 | 653627 | [`お願いお星さま`](https://bgm.tv/subject/653627) | 统一 ISBN 写法 |
 | 653632 | [`ホワイトブレス`](https://bgm.tv/subject/653632) | 统一 ISBN 写法 |
