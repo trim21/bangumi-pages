@@ -1,6 +1,6 @@
 # 待处理的条目修改
 
-total 117
+total 81
 
 | id | 条目 | 修改类型 |
 | --- | --- | --- |
@@ -17,43 +17,7 @@ total 117
 | 679655 | [`殿がくる! 京都は燃えているか`](https://bgm.tv/subject/679655) | 统一 ISBN 写法 |
 | 679656 | [`殿がくる! ニッポン最後の日!?`](https://bgm.tv/subject/679656) | 统一 ISBN 写法 |
 | 679619 | [`テールエンド 紙風船の王女`](https://bgm.tv/subject/679619) | 统一 ISBN 写法 |
-| 653648 | [`最終試験くじら 下巻`](https://bgm.tv/subject/653648) | 统一 ISBN 写法 |
-| 653966 | [`つよきす 蟹沢きぬ編`](https://bgm.tv/subject/653966) | 统一 ISBN 写法 |
-| 653969 | [`PRINCESS WALTZ 上巻`](https://bgm.tv/subject/653969) | 统一 ISBN 写法 |
-| 653977 | [`PRINCESS WALTZ 下巻`](https://bgm.tv/subject/653977) | 统一 ISBN 写法 |
-| 654198 | [`牝教師 ~淫辱の教室~`](https://bgm.tv/subject/654198) | 统一 ISBN 写法 |
-| 653298 | [`椿色のプリジオーネ`](https://bgm.tv/subject/653298) | 统一 ISBN 写法 |
-| 653313 | [`贖罪の教室 BAD END`](https://bgm.tv/subject/653313) | 统一 ISBN 写法 |
-| 653319 | [`とってもフェロモン`](https://bgm.tv/subject/653319) | 统一 ISBN 写法 |
-| 653358 | [`ひまわりの咲くまち`](https://bgm.tv/subject/653358) | 统一 ISBN 写法 |
-| 653546 | [`Natural Anoter One`](https://bgm.tv/subject/653546) | 统一 ISBN 写法 |
-| 653547 | [`プリンセスブライド`](https://bgm.tv/subject/653547) | 统一 ISBN 写法 |
-| 653567 | [`IMMORAL インモラル`](https://bgm.tv/subject/653567) | 统一 ISBN 写法 |
-| 653625 | [`MILK・ジャンキー 2`](https://bgm.tv/subject/653625) | 统一 ISBN 写法 |
-| 653639 | [`ミセス・ジャンキー`](https://bgm.tv/subject/653639) | 统一 ISBN 写法 |
-| 653926 | [`学園2 ~淫逆の図式~`](https://bgm.tv/subject/653926) | 统一 ISBN 写法 |
-| 653935 | [`MILK・ジャンキー 3`](https://bgm.tv/subject/653935) | 统一 ISBN 写法 |
-| 653956 | [`しすたー・すきーむ`](https://bgm.tv/subject/653956) | 统一 ISBN 写法 |
-| 660993 | [`アッシュ 魔王復活!`](https://bgm.tv/subject/660993) | 统一 ISBN 写法 |
-| 653316 | [`君が望む永遠 上巻`](https://bgm.tv/subject/653316) | 统一 ISBN 写法 |
-| 653317 | [`学園 ~恥辱の図式~`](https://bgm.tv/subject/653317) | 统一 ISBN 写法 |
-| 653318 | [`蒐集者 コレクター`](https://bgm.tv/subject/653318) | 统一 ISBN 写法 |
-| 653322 | [`君が望む永遠 下巻`](https://bgm.tv/subject/653322) | 统一 ISBN 写法 |
-| 653328 | [`このはちゃれんじ!`](https://bgm.tv/subject/653328) | 统一 ISBN 写法 |
-| 653388 | [`あいかぎ ~彩音編~`](https://bgm.tv/subject/653388) | 统一 ISBN 写法 |
-| 653395 | [`SNOW ~小さき祈り~`](https://bgm.tv/subject/653395) | 统一 ISBN 写法 |
-| 653397 | [`あいかぎ ~千香編~`](https://bgm.tv/subject/653397) | 统一 ISBN 写法 |
-| 653401 | [`SNOW ~古の夕焼け~`](https://bgm.tv/subject/653401) | 统一 ISBN 写法 |
-| 653626 | [`アンサンブル 淳編`](https://bgm.tv/subject/653626) | 统一 ISBN 写法 |
-| 653634 | [`ラムネ 近衛七海編`](https://bgm.tv/subject/653634) | 统一 ISBN 写法 |
-| 653642 | [`ラムネ 石和多恵編`](https://bgm.tv/subject/653642) | 统一 ISBN 写法 |
-| 653643 | [`ホームメイド 上巻`](https://bgm.tv/subject/653643) | 统一 ISBN 写法 |
-| 653650 | [`ホームメイド 下巻`](https://bgm.tv/subject/653650) | 统一 ISBN 写法 |
-| 653936 | [`つよきす 鉄乙女編`](https://bgm.tv/subject/653936) | 统一 ISBN 写法 |
-| 653964 | [`スカーレット 上巻`](https://bgm.tv/subject/653964) | 统一 ISBN 写法 |
-| 653974 | [`スカーレット 下巻`](https://bgm.tv/subject/653974) | 统一 ISBN 写法 |
 | 679641 | [`隣のドッペルさん`](https://bgm.tv/subject/679641) | 统一 ISBN 写法 |
-| 360763 | [`夢で逢いましょう`](https://bgm.tv/subject/360763) | 统一 ISBN 写法 |
 | 653403 | [`うちの妹のばあい`](https://bgm.tv/subject/653403) | 统一 ISBN 写法 |
 | 653560 | [`MILK・ジャンキー`](https://bgm.tv/subject/653560) | 统一 ISBN 写法 |
 | 653636 | [`友達以上恋人未満`](https://bgm.tv/subject/653636) | 统一 ISBN 写法 |
