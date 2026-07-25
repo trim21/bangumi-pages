@@ -1,9 +1,20 @@
 # 待处理的条目修改
 
-total 100
+total 114
 
 | id | 条目 | 修改类型 |
 | --- | --- | --- |
+| 679625 | [`テイルズ オブ ザ ワールド なりきりダンジョン2`](https://bgm.tv/subject/679625) | 统一 ISBN 写法 |
+| 679628 | [`テイルズ オブ リバース 2 聖なる王と二つの魂`](https://bgm.tv/subject/679628) | 统一 ISBN 写法 |
+| 679617 | [`テールエンド 海賊放送アプリコット通信`](https://bgm.tv/subject/679617) | 统一 ISBN 写法 |
+| 679626 | [`テイルズ オブ リバース 1 落日の世界`](https://bgm.tv/subject/679626) | 统一 ISBN 写法 |
+| 679638 | [`TO THE CASTLE DISCO UNDERGROUND`](https://bgm.tv/subject/679638) | 统一 ISBN 写法 |
+| 679620 | [`テールエンド 鉄とガラスの共和国`](https://bgm.tv/subject/679620) | 统一 ISBN 写法 |
+| 679646 | [`隣のドッペルさん 瞳の中の妖精`](https://bgm.tv/subject/679646) | 统一 ISBN 写法 |
+| 679632 | [`テルミナス なよ竹荘に月が降る`](https://bgm.tv/subject/679632) | 统一 ISBN 写法 |
+| 679629 | [`テイルズ オブ リバース 3 再誕`](https://bgm.tv/subject/679629) | 统一 ISBN 写法 |
+| 679655 | [`殿がくる! 京都は燃えているか`](https://bgm.tv/subject/679655) | 统一 ISBN 写法 |
+| 679619 | [`テールエンド 紙風船の王女`](https://bgm.tv/subject/679619) | 统一 ISBN 写法 |
 | 653648 | [`最終試験くじら 下巻`](https://bgm.tv/subject/653648) | 统一 ISBN 写法 |
 | 653966 | [`つよきす 蟹沢きぬ編`](https://bgm.tv/subject/653966) | 统一 ISBN 写法 |
 | 653969 | [`PRINCESS WALTZ 上巻`](https://bgm.tv/subject/653969) | 统一 ISBN 写法 |
@@ -39,6 +50,7 @@ total 100
 | 653936 | [`つよきす 鉄乙女編`](https://bgm.tv/subject/653936) | 统一 ISBN 写法 |
 | 653964 | [`スカーレット 上巻`](https://bgm.tv/subject/653964) | 统一 ISBN 写法 |
 | 653974 | [`スカーレット 下巻`](https://bgm.tv/subject/653974) | 统一 ISBN 写法 |
+| 679641 | [`隣のドッペルさん`](https://bgm.tv/subject/679641) | 统一 ISBN 写法 |
 | 360763 | [`夢で逢いましょう`](https://bgm.tv/subject/360763) | 统一 ISBN 写法 |
 | 653403 | [`うちの妹のばあい`](https://bgm.tv/subject/653403) | 统一 ISBN 写法 |
 | 653560 | [`MILK・ジャンキー`](https://bgm.tv/subject/653560) | 统一 ISBN 写法 |
@@ -61,6 +73,7 @@ total 100
 | 653654 | [`おやつのじかん`](https://bgm.tv/subject/653654) | 统一 ISBN 写法 |
 | 653922 | [`幼なじみな彼女`](https://bgm.tv/subject/653922) | 统一 ISBN 写法 |
 | 653967 | [`炎の孕ませ人生`](https://bgm.tv/subject/653967) | 统一 ISBN 写法 |
+| 679635 | [`TO THE CASTLE`](https://bgm.tv/subject/679635) | 统一 ISBN 写法 |
 | 653628 | [`終の館 第一章`](https://bgm.tv/subject/653628) | 统一 ISBN 写法 |
 | 653635 | [`終の館 第二章`](https://bgm.tv/subject/653635) | 统一 ISBN 写法 |
 | 653924 | [`夢みてナイト!`](https://bgm.tv/subject/653924) | 统一 ISBN 写法 |
@@ -72,6 +85,7 @@ total 100
 | 653387 | [`SNOW ~儚雪~`](https://bgm.tv/subject/653387) | 统一 ISBN 写法 |
 | 653393 | [`女医○っくす`](https://bgm.tv/subject/653393) | 统一 ISBN 写法 |
 | 653930 | [`すぱっちゅ!`](https://bgm.tv/subject/653930) | 统一 ISBN 写法 |
+| 679630 | [`悪魔捜査官`](https://bgm.tv/subject/679630) | 统一 ISBN 写法 |
 | 653292 | [`傀儡の教室`](https://bgm.tv/subject/653292) | 统一 ISBN 写法 |
 | 653329 | [`新体操(仮)`](https://bgm.tv/subject/653329) | 统一 ISBN 写法 |
 | 653354 | [`Realize Me`](https://bgm.tv/subject/653354) | 统一 ISBN 写法 |
