@@ -1,9 +1,10 @@
 # 待处理的条目修改
 
-total 48
+total 49
 
 | id | 条目 | 修改类型 |
 | --- | --- | --- |
+| 680070 | [`Starship Warbeasts`](https://bgm.tv/subject/680070) | 删除不可见 Unicode 字符 |
 | 653922 | [`幼なじみな彼女`](https://bgm.tv/subject/653922) | 统一 ISBN 写法 |
 | 653967 | [`炎の孕ませ人生`](https://bgm.tv/subject/653967) | 统一 ISBN 写法 |
 | 679635 | [`TO THE CASTLE`](https://bgm.tv/subject/679635) | 统一 ISBN 写法 |
