@@ -1,6 +1,6 @@
 # 待处理的条目修改
 
-total 114
+total 117
 
 | id | 条目 | 修改类型 |
 | --- | --- | --- |
@@ -10,10 +10,12 @@ total 114
 | 679626 | [`テイルズ オブ リバース 1 落日の世界`](https://bgm.tv/subject/679626) | 统一 ISBN 写法 |
 | 679638 | [`TO THE CASTLE DISCO UNDERGROUND`](https://bgm.tv/subject/679638) | 统一 ISBN 写法 |
 | 679620 | [`テールエンド 鉄とガラスの共和国`](https://bgm.tv/subject/679620) | 统一 ISBN 写法 |
+| 679678 | [`ナッツ・クラッカー リンゴの誘惑`](https://bgm.tv/subject/679678) | 统一 ISBN 写法 |
 | 679646 | [`隣のドッペルさん 瞳の中の妖精`](https://bgm.tv/subject/679646) | 统一 ISBN 写法 |
 | 679632 | [`テルミナス なよ竹荘に月が降る`](https://bgm.tv/subject/679632) | 统一 ISBN 写法 |
 | 679629 | [`テイルズ オブ リバース 3 再誕`](https://bgm.tv/subject/679629) | 统一 ISBN 写法 |
 | 679655 | [`殿がくる! 京都は燃えているか`](https://bgm.tv/subject/679655) | 统一 ISBN 写法 |
+| 679656 | [`殿がくる! ニッポン最後の日!?`](https://bgm.tv/subject/679656) | 统一 ISBN 写法 |
 | 679619 | [`テールエンド 紙風船の王女`](https://bgm.tv/subject/679619) | 统一 ISBN 写法 |
 | 653648 | [`最終試験くじら 下巻`](https://bgm.tv/subject/653648) | 统一 ISBN 写法 |
 | 653966 | [`つよきす 蟹沢きぬ編`](https://bgm.tv/subject/653966) | 统一 ISBN 写法 |
@@ -95,6 +97,7 @@ total 114
 | 653975 | [`聖奴隷学園`](https://bgm.tv/subject/653975) | 统一 ISBN 写法 |
 | 653326 | [`螺旋回廊2`](https://bgm.tv/subject/653326) | 统一 ISBN 写法 |
 | 653390 | [`SEXFRIEND`](https://bgm.tv/subject/653390) | 统一 ISBN 写法 |
+| 679676 | [`嘆きの館`](https://bgm.tv/subject/679676) | 统一 ISBN 写法 |
 | 653026 | [`夜勤病棟`](https://bgm.tv/subject/653026) | 统一 ISBN 写法 |
 | 653305 | [`みずいろ`](https://bgm.tv/subject/653305) | 统一 ISBN 写法 |
 | 653314 | [`-スガタ-`](https://bgm.tv/subject/653314) | 统一 ISBN 写法 |
