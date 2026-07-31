@@ -1,18 +1,9 @@
 # 待处理的条目修改
 
-total 129
+total 120
 
 | id | 条目 | 修改类型 |
 | --- | --- | --- |
-| 683463 | [`Billie Eternal and the Jetcats in... Escape from the Black Hole!`](https://bgm.tv/subject/683463) | 删除不可见 Unicode 字符 |
-| 683037 | [`Squirrel Legacy II: Children of the Nut`](https://bgm.tv/subject/683037) | 删除不可见 Unicode 字符 |
-| 683643 | [`Amazing Trip to Europe - Hidden Objects`](https://bgm.tv/subject/683643) | 删除不可见 Unicode 字符 |
-| 681831 | [`Afterclass: A High School Adventure`](https://bgm.tv/subject/681831) | 删除不可见 Unicode 字符 |
-| 687373 | [`Highlighters: Cosmic Puzzle Action`](https://bgm.tv/subject/687373) | 删除不可见 Unicode 字符 |
-| 686091 | [`Daring Detectives - A new life!`](https://bgm.tv/subject/686091) | 删除不可见 Unicode 字符 |
-| 683131 | [`Gunpowder Cocktail - Chapter 1`](https://bgm.tv/subject/683131) | 删除不可见 Unicode 字符 |
-| 682672 | [`Worker Simulator: The Village`](https://bgm.tv/subject/682672) | 删除不可见 Unicode 字符 |
-| 684216 | [`Red Ops: The First Infection`](https://bgm.tv/subject/684216) | 删除不可见 Unicode 字符 |
 | 684480 | [`Wizards Owl: Magic Delivery`](https://bgm.tv/subject/684480) | 删除不可见 Unicode 字符 |
 | 683402 | [`Lana and the Milking Table`](https://bgm.tv/subject/683402) | 删除不可见 Unicode 字符 |
 | 685275 | [`Mr Rex's Zealous Adventure`](https://bgm.tv/subject/685275) | 删除不可见 Unicode 字符 |
