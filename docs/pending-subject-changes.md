@@ -1,6 +1,6 @@
 # 待处理的条目修改
 
-total 128
+total 129
 
 | id | 条目 | 修改类型 |
 | --- | --- | --- |
@@ -33,13 +33,13 @@ total 128
 | 684635 | [`我就想蹭你的气运​`](https://bgm.tv/subject/684635) | 删除不可见 Unicode 字符 |
 | 686133 | [`Hacker's Restart`](https://bgm.tv/subject/686133) | 删除不可见 Unicode 字符 |
 | 681153 | [`Mars Base Alley`](https://bgm.tv/subject/681153) | 删除不可见 Unicode 字符 |
-| 687357 | [`Baking Success`](https://bgm.tv/subject/687357) | 删除不可见 Unicode 字符 |
 | 681172 | [`Meat is Murder`](https://bgm.tv/subject/681172) | 删除不可见 Unicode 字符 |
 | 682606 | [`Phantom Patrol`](https://bgm.tv/subject/682606) | 删除不可见 Unicode 字符 |
 | 682796 | [`Gemaboy Zero X`](https://bgm.tv/subject/682796) | 删除不可见 Unicode 字符 |
 | 683984 | [`六月的不可思议​`](https://bgm.tv/subject/683984) | 删除不可见 Unicode 字符 |
 | 684002 | [`六月的不期而遇​`](https://bgm.tv/subject/684002) | 删除不可见 Unicode 字符 |
 | 686073 | [`Pulse Codex EP`](https://bgm.tv/subject/686073) | 删除不可见 Unicode 字符 |
+| 687357 | [`Baking Success`](https://bgm.tv/subject/687357) | 删除不可见 Unicode 字符 |
 | 680657 | [`NTR & Zombies`](https://bgm.tv/subject/680657) | 删除不可见 Unicode 字符 |
 | 683444 | [`Crisis Island`](https://bgm.tv/subject/683444) | 删除不可见 Unicode 字符 |
 | 683689 | [`The Disasters​`](https://bgm.tv/subject/683689) | 删除不可见 Unicode 字符 |
@@ -56,10 +56,11 @@ total 128
 | 684850 | [`擅自心动​`](https://bgm.tv/subject/684850) | 删除不可见 Unicode 字符 |
 | 685491 | [`OrbHand`](https://bgm.tv/subject/685491) | 删除不可见 Unicode 字符 |
 | 681523 | [`Morvex`](https://bgm.tv/subject/681523) | 删除不可见 Unicode 字符 |
-| 687988 | [`刻痕​`](https://bgm.tv/subject/687988) | 删除不可见 Unicode 字符 |
 | 682328 | [`VADI`](https://bgm.tv/subject/682328) | 删除不可见 Unicode 字符 |
 | 685601 | [`Kiki`](https://bgm.tv/subject/685601) | 删除不可见 Unicode 字符 |
+| 687988 | [`刻痕​`](https://bgm.tv/subject/687988) | 删除不可见 Unicode 字符 |
 | 414696 | [`必殺仕事人2023`](https://bgm.tv/subject/414696) | 删除重复字段 |
+| 683342 | [`ひかり`](https://bgm.tv/subject/683342) | 删除重复字段 |
 | 684969 | [`魔王、始めました 7 世界の半分はメイドでできています`](https://bgm.tv/subject/684969) | 统一 ISBN 写法 |
 | 684989 | [`めぞんdeぎゃらくしぃ 2 禁断の大銀河スゴロクゲーム!`](https://bgm.tv/subject/684989) | 统一 ISBN 写法 |
 | 684990 | [`めぞんdeぎゃらくしぃ 3 超わがままお嬢様アスカ登場!`](https://bgm.tv/subject/684990) | 统一 ISBN 写法 |
