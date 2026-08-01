@@ -31,7 +31,7 @@ jobs:
           endpoint: ${{ secrets.MINIO_ENDPOINT }}
           access_key: ${{ secrets.MINIO_ACCESS_KEY }}
           secret_key: ${{ secrets.MINIO_SECRET_KEY }}
-          bucket: "bgm.tv"
+          bucket: "static"
           # Optional inputs with their defaults:
           source_dir: "public"
           target_dir: "/"
