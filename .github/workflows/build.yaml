@@ -25,13 +25,9 @@ jobs:
 
       - run: zensical build
 
-      - name: Minio Deploy
-        uses: lovellfelix/minio-deploy-action@v1.1.1
-        with:
-          endpoint: ${{ secrets.MINIO_ENDPOINT }}
-          access_key: ${{ secrets.MINIO_ACCESS_KEY }}
-          secret_key: ${{ secrets.MINIO_SECRET_KEY }}
-          bucket: "static"
-          # Optional inputs with their defaults:
-          source_dir: "public"
-          target_dir: "/"
+      - name: Deploy to Minio
+        run: aws s3 cp public/ s3://static/ --recursive --endpoint-url "${{ secrets.MINIO_ENDPOINT }}"
+        env:
+          AWS_ACCESS_KEY_ID: ${{ secrets.MINIO_ACCESS_KEY }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.MINIO_SECRET_KEY }}
+          AWS_DEFAULT_REGION: us-east-1
