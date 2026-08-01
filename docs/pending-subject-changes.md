@@ -1,28 +1,9 @@
 # 待处理的条目修改
 
-total 105
+total 86
 
 | id | 条目 | 修改类型 |
 | --- | --- | --- |
-| 688522 | [`All-New Invaders`](https://bgm.tv/subject/688522) | 删除不可见 Unicode 字符 |
-| 681153 | [`Mars Base Alley`](https://bgm.tv/subject/681153) | 删除不可见 Unicode 字符 |
-| 681172 | [`Meat is Murder`](https://bgm.tv/subject/681172) | 删除不可见 Unicode 字符 |
-| 682606 | [`Phantom Patrol`](https://bgm.tv/subject/682606) | 删除不可见 Unicode 字符 |
-| 682796 | [`Gemaboy Zero X`](https://bgm.tv/subject/682796) | 删除不可见 Unicode 字符 |
-| 683984 | [`六月的不可思议​`](https://bgm.tv/subject/683984) | 删除不可见 Unicode 字符 |
-| 684002 | [`六月的不期而遇​`](https://bgm.tv/subject/684002) | 删除不可见 Unicode 字符 |
-| 686073 | [`Pulse Codex EP`](https://bgm.tv/subject/686073) | 删除不可见 Unicode 字符 |
-| 688493 | [`夢色スプラウト`](https://bgm.tv/subject/688493) | 删除不可见 Unicode 字符 |
-| 687357 | [`Baking Success`](https://bgm.tv/subject/687357) | 删除不可见 Unicode 字符 |
-| 680657 | [`NTR & Zombies`](https://bgm.tv/subject/680657) | 删除不可见 Unicode 字符 |
-| 683444 | [`Crisis Island`](https://bgm.tv/subject/683444) | 删除不可见 Unicode 字符 |
-| 683689 | [`The Disasters​`](https://bgm.tv/subject/683689) | 删除不可见 Unicode 字符 |
-| 688494 | [`Senti Metrica`](https://bgm.tv/subject/688494) | 删除不可见 Unicode 字符 |
-| 683519 | [`DOLO命运胶囊​`](https://bgm.tv/subject/683519) | 删除不可见 Unicode 字符 |
-| 683939 | [`嗨，树洞同学​`](https://bgm.tv/subject/683939) | 删除不可见 Unicode 字符 |
-| 685344 | [`Snow Problem`](https://bgm.tv/subject/685344) | 删除不可见 Unicode 字符 |
-| 683272 | [`Climb Jump`](https://bgm.tv/subject/683272) | 删除不可见 Unicode 字符 |
-| 685805 | [`Rocket Inc`](https://bgm.tv/subject/685805) | 删除不可见 Unicode 字符 |
 | 681266 | [`SlimyLeap`](https://bgm.tv/subject/681266) | 删除不可见 Unicode 字符 |
 | 684340 | [`Communite`](https://bgm.tv/subject/684340) | 删除不可见 Unicode 字符 |
 | 686199 | [`Instarion`](https://bgm.tv/subject/686199) | 删除不可见 Unicode 字符 |
