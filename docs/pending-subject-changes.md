@@ -1,28 +1,9 @@
 # 待处理的条目修改
 
-total 124
+total 105
 
 | id | 条目 | 修改类型 |
 | --- | --- | --- |
-| 684480 | [`Wizards Owl: Magic Delivery`](https://bgm.tv/subject/684480) | 删除不可见 Unicode 字符 |
-| 683402 | [`Lana and the Milking Table`](https://bgm.tv/subject/683402) | 删除不可见 Unicode 字符 |
-| 685275 | [`Mr Rex's Zealous Adventure`](https://bgm.tv/subject/685275) | 删除不可见 Unicode 字符 |
-| 685533 | [`Matrix Hearts - Season 1`](https://bgm.tv/subject/685533) | 删除不可见 Unicode 字符 |
-| 683437 | [`Tales of: Sena (Legacy)`](https://bgm.tv/subject/683437) | 删除不可见 Unicode 字符 |
-| 688195 | [`烬世书Ashes of Dynasty`](https://bgm.tv/subject/688195) | 删除不可见 Unicode 字符 |
-| 682240 | [`Historia Realis: Rome`](https://bgm.tv/subject/682240) | 删除不可见 Unicode 字符 |
-| 682837 | [`The Mouse The Merrier`](https://bgm.tv/subject/682837) | 删除不可见 Unicode 字符 |
-| 684853 | [`Possibly Endless Golf`](https://bgm.tv/subject/684853) | 删除不可见 Unicode 字符 |
-| 685731 | [`Dicknosaurus Prologue`](https://bgm.tv/subject/685731) | 删除不可见 Unicode 字符 |
-| 393438 | [`Avengers: Doomsday`](https://bgm.tv/subject/393438) | 删除不可见 Unicode 字符 |
-| 683758 | [`A Night With Neil`](https://bgm.tv/subject/683758) | 删除不可见 Unicode 字符 |
-| 684717 | [`Salaryman RESCUE!`](https://bgm.tv/subject/684717) | 删除不可见 Unicode 字符 |
-| 685208 | [`Tommy Gun Carnage`](https://bgm.tv/subject/685208) | 删除不可见 Unicode 字符 |
-| 685359 | [`Home Deco Puzzles`](https://bgm.tv/subject/685359) | 删除不可见 Unicode 字符 |
-| 685872 | [`Blazing War World`](https://bgm.tv/subject/685872) | 删除不可见 Unicode 字符 |
-| 684317 | [`Engaging Destiny`](https://bgm.tv/subject/684317) | 删除不可见 Unicode 字符 |
-| 684635 | [`我就想蹭你的气运​`](https://bgm.tv/subject/684635) | 删除不可见 Unicode 字符 |
-| 686133 | [`Hacker's Restart`](https://bgm.tv/subject/686133) | 删除不可见 Unicode 字符 |
 | 688522 | [`All-New Invaders`](https://bgm.tv/subject/688522) | 删除不可见 Unicode 字符 |
 | 681153 | [`Mars Base Alley`](https://bgm.tv/subject/681153) | 删除不可见 Unicode 字符 |
 | 681172 | [`Meat is Murder`](https://bgm.tv/subject/681172) | 删除不可见 Unicode 字符 |
