@@ -1,6 +1,6 @@
 # 待处理的条目修改
 
-total 122
+total 123
 
 | id | 条目 | 修改类型 |
 | --- | --- | --- |
@@ -23,6 +23,7 @@ total 122
 | 684317 | [`Engaging Destiny`](https://bgm.tv/subject/684317) | 删除不可见 Unicode 字符 |
 | 684635 | [`我就想蹭你的气运​`](https://bgm.tv/subject/684635) | 删除不可见 Unicode 字符 |
 | 686133 | [`Hacker's Restart`](https://bgm.tv/subject/686133) | 删除不可见 Unicode 字符 |
+| 688522 | [`All-New Invaders`](https://bgm.tv/subject/688522) | 删除不可见 Unicode 字符 |
 | 681153 | [`Mars Base Alley`](https://bgm.tv/subject/681153) | 删除不可见 Unicode 字符 |
 | 681172 | [`Meat is Murder`](https://bgm.tv/subject/681172) | 删除不可见 Unicode 字符 |
 | 682606 | [`Phantom Patrol`](https://bgm.tv/subject/682606) | 删除不可见 Unicode 字符 |
