@@ -24,3 +24,9 @@ jobs:
       - run: uv sync --frozen
 
       - run: zensical build
+
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v4.1.0
+        with:
+          github_token: "${{ github.token }}"
+          publish_dir: ./public/
