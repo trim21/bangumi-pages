@@ -1,28 +1,9 @@
 # 待处理的条目修改
 
-total 86
+total 67
 
 | id | 条目 | 修改类型 |
 | --- | --- | --- |
-| 681266 | [`SlimyLeap`](https://bgm.tv/subject/681266) | 删除不可见 Unicode 字符 |
-| 684340 | [`Communite`](https://bgm.tv/subject/684340) | 删除不可见 Unicode 字符 |
-| 686199 | [`Instarion`](https://bgm.tv/subject/686199) | 删除不可见 Unicode 字符 |
-| 682466 | [`Editarrr`](https://bgm.tv/subject/682466) | 删除不可见 Unicode 字符 |
-| 684094 | [`BouleMan`](https://bgm.tv/subject/684094) | 删除不可见 Unicode 字符 |
-| 684850 | [`擅自心动​`](https://bgm.tv/subject/684850) | 删除不可见 Unicode 字符 |
-| 685491 | [`OrbHand`](https://bgm.tv/subject/685491) | 删除不可见 Unicode 字符 |
-| 681523 | [`Morvex`](https://bgm.tv/subject/681523) | 删除不可见 Unicode 字符 |
-| 682328 | [`VADI`](https://bgm.tv/subject/682328) | 删除不可见 Unicode 字符 |
-| 685601 | [`Kiki`](https://bgm.tv/subject/685601) | 删除不可见 Unicode 字符 |
-| 687988 | [`刻痕​`](https://bgm.tv/subject/687988) | 删除不可见 Unicode 字符 |
-| 414696 | [`必殺仕事人2023`](https://bgm.tv/subject/414696) | 删除重复字段 |
-| 683342 | [`ひかり`](https://bgm.tv/subject/683342) | 删除重复字段 |
-| 684969 | [`魔王、始めました 7 世界の半分はメイドでできています`](https://bgm.tv/subject/684969) | 统一 ISBN 写法 |
-| 684989 | [`めぞんdeぎゃらくしぃ 2 禁断の大銀河スゴロクゲーム!`](https://bgm.tv/subject/684989) | 统一 ISBN 写法 |
-| 684990 | [`めぞんdeぎゃらくしぃ 3 超わがままお嬢様アスカ登場!`](https://bgm.tv/subject/684990) | 统一 ISBN 写法 |
-| 684994 | [`めぞんdeぎゃらくしぃ 7 銀河系最大のロケットレース!`](https://bgm.tv/subject/684994) | 统一 ISBN 写法 |
-| 684962 | [`魔王、始めました 2 限りなくコスプレに近い理由`](https://bgm.tv/subject/684962) | 统一 ISBN 写法 |
-| 684708 | [`Holy☆Hearts! 夜明けをつげる、ほほえみです。`](https://bgm.tv/subject/684708) | 统一 ISBN 写法 |
 | 684966 | [`魔王、始めました 5 おまえはもう、植えている`](https://bgm.tv/subject/684966) | 统一 ISBN 写法 |
 | 684991 | [`めぞんdeぎゃらくしぃ 4 ノアの秘密のお買い物`](https://bgm.tv/subject/684991) | 统一 ISBN 写法 |
 | 683518 | [`パラレル・トラブラーズ 3 辺境の至宝 完結編`](https://bgm.tv/subject/683518) | 统一 ISBN 写法 |
