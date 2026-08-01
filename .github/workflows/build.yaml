@@ -24,10 +24,3 @@ jobs:
       - run: uv sync --frozen
 
       - run: zensical build
-
-      - name: Deploy to Minio
-        run: aws s3 cp public/ s3://static/ --recursive --endpoint-url "${{ secrets.MINIO_ENDPOINT }}"
-        env:
-          AWS_ACCESS_KEY_ID: ${{ secrets.MINIO_ACCESS_KEY }}
-          AWS_SECRET_ACCESS_KEY: ${{ secrets.MINIO_SECRET_KEY }}
-          AWS_DEFAULT_REGION: us-east-1
