@@ -1,28 +1,9 @@
 # 待处理的条目修改
 
-total 48
+total 29
 
 | id | 条目 | 修改类型 |
 | --- | --- | --- |
-| 685004 | [`竜の棲む湖 プロドローメス-天狼星の風`](https://bgm.tv/subject/685004) | 统一 ISBN 写法 |
-| 683362 | [`ばとる・おぶ・CHUCHU わたしのあなた`](https://bgm.tv/subject/683362) | 统一 ISBN 写法 |
-| 683506 | [`パラレル・トラブラーズ 2 辺境の至宝`](https://bgm.tv/subject/683506) | 统一 ISBN 写法 |
-| 683527 | [`パラレル・トラブラーズ 4 哀しき人形`](https://bgm.tv/subject/683527) | 统一 ISBN 写法 |
-| 684968 | [`魔王、始めました 6 棚からおのおの方`](https://bgm.tv/subject/684968) | 统一 ISBN 写法 |
-| 684971 | [`魔王、始めました 9 名実ともに最終巻`](https://bgm.tv/subject/684971) | 统一 ISBN 写法 |
-| 685015 | [`蘭堂家の人々 8 Goddess of Innocence`](https://bgm.tv/subject/685015) | 统一 ISBN 写法 |
-| 685017 | [`蘭堂家の人々 9 Goddess of the Earth`](https://bgm.tv/subject/685017) | 统一 ISBN 写法 |
-| 683357 | [`ばとる・おぶ・CHUCHU 吸血っ娘襲来!`](https://bgm.tv/subject/683357) | 统一 ISBN 写法 |
-| 685013 | [`蘭堂家の人々 7 Goddess of Darkness`](https://bgm.tv/subject/685013) | 统一 ISBN 写法 |
-| 373504 | [`誰にも言えない㊙ 32 ムリヤリH体験`](https://bgm.tv/subject/373504) | 统一 ISBN 写法 |
-| 682599 | [`ノルマルク戦記 2 異端者たちの軍旗`](https://bgm.tv/subject/682599) | 统一 ISBN 写法 |
-| 682605 | [`ノルマルク戦記 5 愛と哀しみの戦野`](https://bgm.tv/subject/682605) | 统一 ISBN 写法 |
-| 682610 | [`ノルマルク戦記 7 滅びの星輝くとき`](https://bgm.tv/subject/682610) | 统一 ISBN 写法 |
-| 685010 | [`蘭堂家の人々 4 Sweet Little Pain`](https://bgm.tv/subject/685010) | 统一 ISBN 写法 |
-| 682595 | [`ノルマルク戦記 1 滅びの星の皇子`](https://bgm.tv/subject/682595) | 统一 ISBN 写法 |
-| 683363 | [`ばとる・おぶ・CHUCHU 最後の戦い`](https://bgm.tv/subject/683363) | 统一 ISBN 写法 |
-| 685009 | [`蘭堂家の人々 3 Kiss From Heaven`](https://bgm.tv/subject/685009) | 统一 ISBN 写法 |
-| 685011 | [`蘭堂家の人々 5 Bittersweet Rain`](https://bgm.tv/subject/685011) | 统一 ISBN 写法 |
 | 685012 | [`蘭堂家の人々 6 Sweet Home Again`](https://bgm.tv/subject/685012) | 统一 ISBN 写法 |
 | 682600 | [`ノルマルク戦記 3 罪と罰の迷宮`](https://bgm.tv/subject/682600) | 统一 ISBN 写法 |
 | 682603 | [`ノルマルク戦記 4 寂寞たる栄光`](https://bgm.tv/subject/682603) | 统一 ISBN 写法 |
