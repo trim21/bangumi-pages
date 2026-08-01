@@ -1,0 +1,10 @@
+[project]
+site_name = "pages"
+site_dir = "public"
+repo_url = "https://github.com/trim21/bangumi-pages/"
+use_directory_urls = false
+extra_javascript = ["assets/newwindow.js"]
+
+[project.theme]
+variant = "classic"
+language = "zh"

@@ -22,7 +22,7 @@ jobs:
 
       - run: uv sync --frozen
 
-      - run: mkdocs build
+      - run: zensical build
 
       - name: Minio Deploy
         uses: lovellfelix/minio-deploy-action@v1.1.1
