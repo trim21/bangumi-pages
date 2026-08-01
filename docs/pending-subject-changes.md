@@ -1,6 +1,6 @@
 # 待处理的条目修改
 
-total 120
+total 122
 
 | id | 条目 | 修改类型 |
 | --- | --- | --- |
@@ -30,10 +30,12 @@ total 120
 | 683984 | [`六月的不可思议​`](https://bgm.tv/subject/683984) | 删除不可见 Unicode 字符 |
 | 684002 | [`六月的不期而遇​`](https://bgm.tv/subject/684002) | 删除不可见 Unicode 字符 |
 | 686073 | [`Pulse Codex EP`](https://bgm.tv/subject/686073) | 删除不可见 Unicode 字符 |
+| 688493 | [`夢色スプラウト`](https://bgm.tv/subject/688493) | 删除不可见 Unicode 字符 |
 | 687357 | [`Baking Success`](https://bgm.tv/subject/687357) | 删除不可见 Unicode 字符 |
 | 680657 | [`NTR & Zombies`](https://bgm.tv/subject/680657) | 删除不可见 Unicode 字符 |
 | 683444 | [`Crisis Island`](https://bgm.tv/subject/683444) | 删除不可见 Unicode 字符 |
 | 683689 | [`The Disasters​`](https://bgm.tv/subject/683689) | 删除不可见 Unicode 字符 |
+| 688494 | [`Senti Metrica`](https://bgm.tv/subject/688494) | 删除不可见 Unicode 字符 |
 | 683519 | [`DOLO命运胶囊​`](https://bgm.tv/subject/683519) | 删除不可见 Unicode 字符 |
 | 683939 | [`嗨，树洞同学​`](https://bgm.tv/subject/683939) | 删除不可见 Unicode 字符 |
 | 685344 | [`Snow Problem`](https://bgm.tv/subject/685344) | 删除不可见 Unicode 字符 |
