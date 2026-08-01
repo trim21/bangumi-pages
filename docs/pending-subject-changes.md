@@ -1,6 +1,6 @@
 # 待处理的条目修改
 
-total 123
+total 124
 
 | id | 条目 | 修改类型 |
 | --- | --- | --- |
@@ -93,6 +93,7 @@ total 123
 | 682599 | [`ノルマルク戦記 2 異端者たちの軍旗`](https://bgm.tv/subject/682599) | 统一 ISBN 写法 |
 | 682605 | [`ノルマルク戦記 5 愛と哀しみの戦野`](https://bgm.tv/subject/682605) | 统一 ISBN 写法 |
 | 682610 | [`ノルマルク戦記 7 滅びの星輝くとき`](https://bgm.tv/subject/682610) | 统一 ISBN 写法 |
+| 373504 | [`誰にも言えない㊙ 32 ムリヤリH体験`](https://bgm.tv/subject/373504) | 统一 ISBN 写法 |
 | 685010 | [`蘭堂家の人々 4 Sweet Little Pain`](https://bgm.tv/subject/685010) | 统一 ISBN 写法 |
 | 682595 | [`ノルマルク戦記 1 滅びの星の皇子`](https://bgm.tv/subject/682595) | 统一 ISBN 写法 |
 | 683363 | [`ばとる・おぶ・CHUCHU 最後の戦い`](https://bgm.tv/subject/683363) | 统一 ISBN 写法 |
