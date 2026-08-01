@@ -1,9 +1,10 @@
 # 待处理的条目修改
 
-total 29
+total 30
 
 | id | 条目 | 修改类型 |
 | --- | --- | --- |
+| 244334 | [`民调局异闻录`](https://bgm.tv/subject/244334) | 删除重复字段 |
 | 685012 | [`蘭堂家の人々 6 Sweet Home Again`](https://bgm.tv/subject/685012) | 统一 ISBN 写法 |
 | 682600 | [`ノルマルク戦記 3 罪と罰の迷宮`](https://bgm.tv/subject/682600) | 统一 ISBN 写法 |
 | 682603 | [`ノルマルク戦記 4 寂寞たる栄光`](https://bgm.tv/subject/682603) | 统一 ISBN 写法 |
