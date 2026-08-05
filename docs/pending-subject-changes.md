@@ -1,9 +1,10 @@
 # 待处理的条目修改
 
-total 9
+total 10
 
 | id | 条目 | 修改类型 |
 | --- | --- | --- |
+| 691095 | [`Hungry Piggy vs Chicken`](https://bgm.tv/subject/691095) | 删除不可见 Unicode 字符 |
 | 690774 | [`The Outbreak Story`](https://bgm.tv/subject/690774) | 删除不可见 Unicode 字符 |
 | 690766 | [`Color Cannons+`](https://bgm.tv/subject/690766) | 删除不可见 Unicode 字符 |
 | 690685 | [`Idle Earth`](https://bgm.tv/subject/690685) | 删除不可见 Unicode 字符 |
