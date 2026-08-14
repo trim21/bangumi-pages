@@ -1,10 +1,8 @@
 # 待处理的条目修改
 
-total 4
+total 2
 
 | id | 条目 | 修改类型 |
 | --- | --- | --- |
-| 695513 | [`Plants vs. Zombies: Timepocalypse`](https://bgm.tv/subject/695513) | 删除不可见 Unicode 字符 |
-| 695347 | [`『機動警察パトレイバー』 寿司屋の後藤`](https://bgm.tv/subject/695347) | 统一 ISBN 写法 |
-| 7202 | [`戦う司書と虚言者の宴`](https://bgm.tv/subject/7202) | 统一 ISBN 写法 |
-| 695336 | [`黑色回廊`](https://bgm.tv/subject/695336) | 统一 ISBN 写法 |
+| 695689 | [`贄巫女と朱雀の執愛婚 (1)`](https://bgm.tv/subject/695689) | 删除不可见 Unicode 字符 |
+| 695731 | [`벨루미아를 위하여`](https://bgm.tv/subject/695731) | 删除不可见 Unicode 字符 |
