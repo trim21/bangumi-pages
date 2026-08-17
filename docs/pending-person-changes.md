@@ -4,4 +4,4 @@ total 1
 
 | id | 人物 | 修改类型 |
 | --- | --- | --- |
-| 100670 | [`Shingo.S`](https://bgm.tv/person/100670) | 删除不可见 Unicode 字符 |
+| 100710 | [`卯月みか`](https://bgm.tv/person/100710) | 删除不可见 Unicode 字符 |
