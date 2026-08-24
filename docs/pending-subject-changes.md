@@ -1,10 +1,11 @@
 # 待处理的条目修改
 
-total 29
+total 24
 
 | id | 条目 | 修改类型 |
 | --- | --- | --- |
 | 697184 | [`桜華～常しえの牢獄～`](https://bgm.tv/subject/697184) | 删除不可见 Unicode 字符 |
+| 697417 | [`彼女は知らない`](https://bgm.tv/subject/697417) | 删除不可见 Unicode 字符 |
 | 117149 | [`熊出没之雪岭熊风`](https://bgm.tv/subject/117149) | 删除重复字段 |
 | 563204 | [`放課後マニア倶楽部 濃いの欲しいの`](https://bgm.tv/subject/563204) | 统一 ISBN 写法 |
 | 118454 | [`BASTARD!! 2 悪魔の褥に横たわりて`](https://bgm.tv/subject/118454) | 统一 ISBN 写法 |
@@ -27,9 +28,3 @@ total 29
 | 93552 | [`ラーメン発見伝 (2)`](https://bgm.tv/subject/93552) | 统一 ISBN 写法 |
 | 559246 | [`The Runaway Bunny`](https://bgm.tv/subject/559246) | 统一 ISBN 写法 |
 | 559971 | [`君からの逃げ道`](https://bgm.tv/subject/559971) | 统一 ISBN 写法 |
-| 559901 | [`恋敵に伝えて`](https://bgm.tv/subject/559901) | 统一 ISBN 写法 |
-| 340900 | [`私が見た未来`](https://bgm.tv/subject/340900) | 统一 ISBN 写法 |
-| 627527 | [`空の食欲魔人`](https://bgm.tv/subject/627527) | 统一 ISBN 写法 |
-| 627558 | [`フロイト1/2`](https://bgm.tv/subject/627558) | 统一 ISBN 写法 |
-| 563728 | [`肉弾時代`](https://bgm.tv/subject/563728) | 统一 ISBN 写法 |
-| 401688 | [`ボレロ`](https://bgm.tv/subject/401688) | 统一 ISBN 写法 |
