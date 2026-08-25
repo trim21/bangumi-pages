@@ -4,9 +4,9 @@ total 24
 
 | id | 条目 | 修改类型 |
 | --- | --- | --- |
-| 697184 | [`桜華～常しえの牢獄～`](https://bgm.tv/subject/697184) | 删除不可见 Unicode 字符 |
-| 697417 | [`彼女は知らない`](https://bgm.tv/subject/697417) | 删除不可见 Unicode 字符 |
+| 697496 | [`남자가 되기 싫어`](https://bgm.tv/subject/697496) | 删除不可见 Unicode 字符 |
 | 117149 | [`熊出没之雪岭熊风`](https://bgm.tv/subject/117149) | 删除重复字段 |
+| 697464 | [`十五年の石化から目覚めた元王女は、夫と娘から溺愛される (1)`](https://bgm.tv/subject/697464) | 统一 ISBN 写法 |
 | 563204 | [`放課後マニア倶楽部 濃いの欲しいの`](https://bgm.tv/subject/563204) | 统一 ISBN 写法 |
 | 118454 | [`BASTARD!! 2 悪魔の褥に横たわりて`](https://bgm.tv/subject/118454) | 统一 ISBN 写法 |
 | 660776 | [`ウェディング・ドレスに紅いバラ`](https://bgm.tv/subject/660776) | 统一 ISBN 写法 |
