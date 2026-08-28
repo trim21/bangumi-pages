@@ -1,7 +1,7 @@
 # ISBN 错误
 ## <https://bgm.tv/group/topic/404801>
 
-total 266
+total 267
 
 | url | error |
 | --- |  ---  |
@@ -271,3 +271,4 @@ total 266
 | <https://bgm.tv/subject/665640> | 预期之外的 ISBN 格式 `078511565` |
 | <https://bgm.tv/subject/666979> | 重复出现的 ISBN '9781857988079' |
 | <https://bgm.tv/subject/688173> | 预期之外的 ISBN 格式 `4981932088730` |
+| <https://bgm.tv/subject/697999> | 子版本 版本:ネクストF 中 ISBN-10 '4867150207' 对应的 ISBN-13 '9784867150207' 与已有的 ISBN-13 {'978-4867150207'} 不匹配 |
