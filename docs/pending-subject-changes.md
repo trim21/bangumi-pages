@@ -1,6 +1,6 @@
 # 待处理的条目修改
 
-total 10
+total 11
 
 | id | 条目 | 修改类型 |
 | --- | --- | --- |
@@ -13,4 +13,5 @@ total 10
 | 699010 | [`Transformers: Dark Prelude`](https://bgm.tv/subject/699010) | 统一 ISBN 写法 |
 | 699148 | [`Event Horizon: Inferno`](https://bgm.tv/subject/699148) | 统一 ISBN 写法 |
 | 699166 | [`Lost in Space`](https://bgm.tv/subject/699166) | 统一 ISBN 写法 |
+| 699428 | [`鬼葛島の殺人`](https://bgm.tv/subject/699428) | 统一 ISBN 写法 |
 | 699259 | [`天生麗質`](https://bgm.tv/subject/699259) | 统一 ISBN 写法 |
