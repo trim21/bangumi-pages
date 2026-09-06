@@ -1,9 +1,10 @@
 # 待处理的条目修改
 
-total 23
+total 24
 
 | id | 条目 | 修改类型 |
 | --- | --- | --- |
+| 699831 | [`Flash: The Fastest Man Alive: Lightning In A Bottle`](https://bgm.tv/subject/699831) | 删除不可见 Unicode 字符 |
 | 699164 | [`Lost in Space Season 3‎`](https://bgm.tv/subject/699164) | 删除不可见 Unicode 字符 |
 | 623665 | [`アギトー超能力戦争ー‎`](https://bgm.tv/subject/623665) | 删除不可见 Unicode 字符 |
 | 699716 | [`The Man Who Fell to Earth: The Official Movie Adaptation`](https://bgm.tv/subject/699716) | 统一 ISBN 写法 |
