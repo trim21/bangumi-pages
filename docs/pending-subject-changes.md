@@ -1,13 +1,15 @@
 # 待处理的条目修改
 
-total 24
+total 26
 
 | id | 条目 | 修改类型 |
 | --- | --- | --- |
 | 699831 | [`Flash: The Fastest Man Alive: Lightning In A Bottle`](https://bgm.tv/subject/699831) | 删除不可见 Unicode 字符 |
+| 699863 | [`ヴァルキリープロファイル　設定資料集`](https://bgm.tv/subject/699863) | 删除不可见 Unicode 字符 |
 | 699164 | [`Lost in Space Season 3‎`](https://bgm.tv/subject/699164) | 删除不可见 Unicode 字符 |
 | 623665 | [`アギトー超能力戦争ー‎`](https://bgm.tv/subject/623665) | 删除不可见 Unicode 字符 |
 | 699716 | [`The Man Who Fell to Earth: The Official Movie Adaptation`](https://bgm.tv/subject/699716) | 统一 ISBN 写法 |
+| 699862 | [`人物塗りが劇的にうまくなる　YURIKO式 影指定ワークブック`](https://bgm.tv/subject/699862) | 统一 ISBN 写法 |
 | 699165 | [`Lost In Space : Voyage To The Bottom Of The Soul`](https://bgm.tv/subject/699165) | 统一 ISBN 写法 |
 | 699704 | [`Blade Runner 2029: The Complete Series Omnibus`](https://bgm.tv/subject/699704) | 统一 ISBN 写法 |
 | 699703 | [`Blade Runner 2019: The Complete Series Omnibus`](https://bgm.tv/subject/699703) | 统一 ISBN 写法 |
