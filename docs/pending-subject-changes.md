@@ -1,6 +1,6 @@
 # 待处理的条目修改
 
-total 40
+total 41
 
 | id | 条目 | 修改类型 |
 | --- | --- | --- |
@@ -14,6 +14,8 @@ total 40
 | 699831 | [`Flash: The Fastest Man Alive: Lightning In A Bottle`](https://bgm.tv/subject/699831) | 删除不可见 Unicode 字符 |
 | 699164 | [`Lost in Space Season 3‎`](https://bgm.tv/subject/699164) | 删除不可见 Unicode 字符 |
 | 623665 | [`アギトー超能力戦争ー‎`](https://bgm.tv/subject/623665) | 删除不可见 Unicode 字符 |
+| 700984 | [`소꿉친구​`](https://bgm.tv/subject/700984) | 删除不可见 Unicode 字符 |
+| 190111 | [`全职法师`](https://bgm.tv/subject/190111) | 删除重复字段 |
 | 699716 | [`The Man Who Fell to Earth: The Official Movie Adaptation`](https://bgm.tv/subject/699716) | 统一 ISBN 写法 |
 | 699862 | [`人物塗りが劇的にうまくなる　YURIKO式 影指定ワークブック`](https://bgm.tv/subject/699862) | 统一 ISBN 写法 |
 | 699165 | [`Lost In Space : Voyage To The Bottom Of The Soul`](https://bgm.tv/subject/699165) | 统一 ISBN 写法 |
@@ -38,7 +40,6 @@ total 40
 | 700748 | [`野菜畑でつかまえて (1)`](https://bgm.tv/subject/700748) | 统一 ISBN 写法 |
 | 700744 | [`のうぎょうカレッジ (2)`](https://bgm.tv/subject/700744) | 统一 ISBN 写法 |
 | 699706 | [`Blade Runner Origins`](https://bgm.tv/subject/699706) | 统一 ISBN 写法 |
-| 700377 | [`五十嵐海ラクガキ画集`](https://bgm.tv/subject/700377) | 统一 ISBN 写法 |
 | 699714 | [`Tron: Betrayal`](https://bgm.tv/subject/699714) | 统一 ISBN 写法 |
 | 699166 | [`Lost in Space`](https://bgm.tv/subject/699166) | 统一 ISBN 写法 |
 | 699428 | [`鬼葛島の殺人`](https://bgm.tv/subject/699428) | 统一 ISBN 写法 |
