@@ -1,21 +1,17 @@
 # ISBN 错误
 ## <https://bgm.tv/group/topic/404801>
 
-total 269
+total 254
 
 | url | error |
 | --- |  ---  |
 | <https://bgm.tv/subject/1297> | 包含多个不匹配的 ISBN |
 | <https://bgm.tv/subject/1612> | 包含多个不匹配的 ISBN |
 | <https://bgm.tv/subject/15350> | 预期之外的 ISBN 格式 `761941249186` |
-| <https://bgm.tv/subject/17754> | 包含多个不匹配的 ISBN |
 | <https://bgm.tv/subject/47300> | 预期之外的 ISBN 格式 `97840471359` |
-| <https://bgm.tv/subject/88596> | 重复出现的 ISBN '9784840153423' |
 | <https://bgm.tv/subject/111172> | 包含多个不匹配的 ISBN |
 | <https://bgm.tv/subject/111203> | 包含多个不匹配的 ISBN |
 | <https://bgm.tv/subject/112141> | 预期之外的 ISBN 格式 `4905052680725` |
-| <https://bgm.tv/subject/121898> | 重复出现的 ISBN '9784840153430' |
-| <https://bgm.tv/subject/121901> | 重复出现的 ISBN '9784840153409' |
 | <https://bgm.tv/subject/149650> | 预期之外的 ISBN 格式 `2013071002581` |
 | <https://bgm.tv/subject/164351> | 预期之外的 ISBN 格式 `276+3` |
 | <https://bgm.tv/subject/170525> | 预期之外的 ISBN 格式 `2003310016479` |
@@ -75,7 +71,6 @@ total 269
 | <https://bgm.tv/subject/376035> | 预期之外的 ISBN 格式 `9771671722133` |
 | <https://bgm.tv/subject/376036> | 预期之外的 ISBN 格式 `9771671722119` |
 | <https://bgm.tv/subject/377940> | 不是合法的 isbn13 <code>9789997198111</code> |
-| <https://bgm.tv/subject/422456> | 预期之外的 ISBN 格式 `无` |
 | <https://bgm.tv/subject/422670> | 预期之外的 ISBN 格式 `2109000188218` |
 | <https://bgm.tv/subject/422672> | 预期之外的 ISBN 格式 `2109000271606` |
 | <https://bgm.tv/subject/423295> | 不是合法的 isbn13 <code>9787799323463</code> |
@@ -139,9 +134,7 @@ total 269
 | <https://bgm.tv/subject/525990> | 预期之外的 ISBN 格式 `4910554116518（未实际使用，转换自雑誌コード55411-65）` |
 | <https://bgm.tv/subject/526710> | 预期之外的 ISBN 格式 `1051811380804` |
 | <https://bgm.tv/subject/527380> | 预期之外的 ISBN 格式 `978754004573` |
-| <https://bgm.tv/subject/530549> | 不是合法的 isbn13 <code>9781964153228</code> |
 | <https://bgm.tv/subject/534827> | 预期之外的 ISBN 格式 `9704088743516` |
-| <https://bgm.tv/subject/536648> | 不是合法的 isbn13 <code>9781964153328</code> |
 | <https://bgm.tv/subject/538027> | 重复出现的 ISBN '9784048526746' |
 | <https://bgm.tv/subject/538028> | 重复出现的 ISBN '9784048527835' |
 | <https://bgm.tv/subject/538029> | 重复出现的 ISBN '9784048528252' |
@@ -154,7 +147,6 @@ total 269
 | <https://bgm.tv/subject/542257> | 不是合法的 isbn13 <code>9784484912228</code> |
 | <https://bgm.tv/subject/542449> | 预期之外的 ISBN 格式 `4934569977830` |
 | <https://bgm.tv/subject/546875> | 预期之外的 ISBN 格式 `18` |
-| <https://bgm.tv/subject/547854> | 不是合法的 isbn13 <code>9781964163368</code> |
 | <https://bgm.tv/subject/551431> | 不是合法的 isbn13 <code>9784757716842</code> |
 | <https://bgm.tv/subject/552095> | 包含多个 ISBN, 请手动拆分 '9787505619517 (1-5)、9787505620391 (6-9)' |
 | <https://bgm.tv/subject/552914> | 不是合法的 isbn13 <code>9784757598408</code> |
@@ -195,14 +187,7 @@ total 269
 | <https://bgm.tv/subject/587962> | 不是合法的 isbn13 <code>9784253161472</code> |
 | <https://bgm.tv/subject/588758> | 预期之外的 ISBN 格式 `465` |
 | <https://bgm.tv/subject/593952> | 预期之外的 ISBN 格式 `9789781302918804` |
-| <https://bgm.tv/subject/595576> | 预期之外的 ISBN 格式 `4712831760607` |
-| <https://bgm.tv/subject/598003> | 不是合法的 isbn10 <code>9868136908</code> |
-| <https://bgm.tv/subject/598005> | 不是合法的 isbn10 <code>9868122369</code> |
-| <https://bgm.tv/subject/598007> | 不是合法的 isbn10 <code>9868122338</code> |
-| <https://bgm.tv/subject/598008> | 不是合法的 isbn10 <code>9868122345</code> |
 | <https://bgm.tv/subject/600667> | 不是合法的 isbn13 <code>9791163980482</code> |
-| <https://bgm.tv/subject/601483> | 预期之外的 ISBN 格式 `978986690943` |
-| <https://bgm.tv/subject/601499> | 不是合法的 isbn13 <code>9789862062832</code> |
 | <https://bgm.tv/subject/603280> | 重复出现的 ISBN '9784091375483' |
 | <https://bgm.tv/subject/603281> | 预期之外的 ISBN 格式 `B01G3539F8` |
 | <https://bgm.tv/subject/603699> | 重复出现的 ISBN '9784757716001' |
