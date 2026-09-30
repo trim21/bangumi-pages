@@ -1,26 +1,38 @@
 # 待处理的条目修改
 
-total 52
+total 81
 
 | id | 条目 | 修改类型 |
 | --- | --- | --- |
 | 703160 | [`Shower With Your Dad Simulator 2015: Do You Still Shower With Your Dad`](https://bgm.tv/subject/703160) | 删除不可见 Unicode 字符 |
+| 707458 | [`Buffy the Vampire Slayer Season 12: The Reckoning`](https://bgm.tv/subject/707458) | 删除不可见 Unicode 字符 |
 | 704167 | [`兇手一族の末息子は五大魔王の力を宿して回帰する​`](https://bgm.tv/subject/704167) | 删除不可见 Unicode 字符 |
+| 87946 | [`魔法使いの夜 Original Soundtrack Repetition`](https://bgm.tv/subject/87946) | 删除不可见 Unicode 字符 |
 | 702524 | [`Nancy Drew Dossier: Lights, Camera, Curses!`](https://bgm.tv/subject/702524) | 删除不可见 Unicode 字符 |
+| 707889 | [`Captain Midnight Volume 4: Crash and Burn`](https://bgm.tv/subject/707889) | 删除不可见 Unicode 字符 |
 | 702523 | [`Nancy Drew: Legend of the Crystal Skull`](https://bgm.tv/subject/702523) | 删除不可见 Unicode 字符 |
 | 702527 | [`Nancy Drew: The Creature of Kapu Cave`](https://bgm.tv/subject/702527) | 删除不可见 Unicode 字符 |
 | 706434 | [`Mosaic Hearts Preview (Chap 00 - 01)`](https://bgm.tv/subject/706434) | 删除不可见 Unicode 字符 |
 | 702489 | [`Samantha Swift and the Golden Touch`](https://bgm.tv/subject/702489) | 删除不可见 Unicode 字符 |
+| 707463 | [`Buffy Season 11: Giles--Girl Blue`](https://bgm.tv/subject/707463) | 删除不可见 Unicode 字符 |
+| 708583 | [`Dept. H Volume 3: Decompressed`](https://bgm.tv/subject/708583) | 删除不可见 Unicode 字符 |
+| 707225 | [`Fm45's Sprite Man Adventures`](https://bgm.tv/subject/707225) | 删除不可见 Unicode 字符 |
+| 707354 | [`The Black Beetle: Kara Bocek`](https://bgm.tv/subject/707354) | 删除不可见 Unicode 字符 |
+| 706673 | [`重生团宠：影帝夫人又穷又凶​`](https://bgm.tv/subject/706673) | 删除不可见 Unicode 字符 |
 | 704052 | [`The Electric Shocktopus`](https://bgm.tv/subject/704052) | 删除不可见 Unicode 字符 |
 | 706314 | [`Realm of the Ghost King`](https://bgm.tv/subject/706314) | 删除不可见 Unicode 字符 |
+| 707347 | [`Bill and Ted Are Doomed`](https://bgm.tv/subject/707347) | 删除不可见 Unicode 字符 |
 | 701813 | [`Starfinder: Afterlight`](https://bgm.tv/subject/701813) | 删除不可见 Unicode 字符 |
 | 704151 | [`TURGUL: RAPID FIGHTING`](https://bgm.tv/subject/704151) | 删除不可见 Unicode 字符 |
 | 705085 | [`Peninsular War Battles`](https://bgm.tv/subject/705085) | 删除不可见 Unicode 字符 |
 | 703308 | [`Guardians of Victoria`](https://bgm.tv/subject/703308) | 删除不可见 Unicode 字符 |
+| 3013 | [`ご愁傷さま二ノ宮くん`](https://bgm.tv/subject/3013) | 删除不可见 Unicode 字符 |
 | 704453 | [`くちづけのそのあとで​`](https://bgm.tv/subject/704453) | 删除不可见 Unicode 字符 |
 | 706335 | [`Struggle For Talyria`](https://bgm.tv/subject/706335) | 删除不可见 Unicode 字符 |
+| 707013 | [`Coffee Bar Renovator`](https://bgm.tv/subject/707013) | 删除不可见 Unicode 字符 |
 | 704231 | [`Sorcery Is for Saps`](https://bgm.tv/subject/704231) | 删除不可见 Unicode 字符 |
 | 706333 | [`Gachimuchi Reloaded`](https://bgm.tv/subject/706333) | 删除不可见 Unicode 字符 |
+| 707107 | [`Dragon's Vengeance`](https://bgm.tv/subject/707107) | 删除不可见 Unicode 字符 |
 | 704783 | [`Booper, Get Home!`](https://bgm.tv/subject/704783) | 删除不可见 Unicode 字符 |
 | 705171 | [`Football Mogul 18`](https://bgm.tv/subject/705171) | 删除不可见 Unicode 字符 |
 | 706502 | [`Desktop Dinosaurs`](https://bgm.tv/subject/706502) | 删除不可见 Unicode 字符 |
@@ -32,8 +44,8 @@ total 52
 | 703480 | [`Tick Tock Isle`](https://bgm.tv/subject/703480) | 删除不可见 Unicode 字符 |
 | 703855 | [`Return Zero VR`](https://bgm.tv/subject/703855) | 删除不可见 Unicode 字符 |
 | 704391 | [`Juniper Theory`](https://bgm.tv/subject/704391) | 删除不可见 Unicode 字符 |
-| 706108 | [`老婆粉了解一下​`](https://bgm.tv/subject/706108) | 删除不可见 Unicode 字符 |
 | 705183 | [`Silicon Zeroes`](https://bgm.tv/subject/705183) | 删除不可见 Unicode 字符 |
+| 706108 | [`老婆粉了解一下​`](https://bgm.tv/subject/706108) | 删除不可见 Unicode 字符 |
 | 706136 | [`老婆粉了解一下​​`](https://bgm.tv/subject/706136) | 删除不可见 Unicode 字符 |
 | 702460 | [`RIP - Trilogy`](https://bgm.tv/subject/702460) | 删除不可见 Unicode 字符 |
 | 702465 | [`Venice Deluxe`](https://bgm.tv/subject/702465) | 删除不可见 Unicode 字符 |
@@ -45,14 +57,31 @@ total 52
 | 703870 | [`Blortasia`](https://bgm.tv/subject/703870) | 删除不可见 Unicode 字符 |
 | 703775 | [`OESE`](https://bgm.tv/subject/703775) | 删除不可见 Unicode 字符 |
 | 704184 | [`CUDA`](https://bgm.tv/subject/704184) | 删除不可见 Unicode 字符 |
-| 570583 | [`グロウアップショウ ～ひまわりのサーカス団～`](https://bgm.tv/subject/570583) | 删除重复字段 |
+| 73900 | [`問題児たちが異世界から来るそうですよ？ Vol.1 特典CD`](https://bgm.tv/subject/73900) | 删除重复字段 |
+| 708155 | [`Cairo Jim in Search of Martenarten`](https://bgm.tv/subject/708155) | 删除重复字段 |
+| 7348 | [`STAR DRIVER 輝きのタクト`](https://bgm.tv/subject/7348) | 删除重复字段 |
+| 121901 | [`ガールズ&パンツァー もっとらぶらぶ作戦です! (1)`](https://bgm.tv/subject/121901) | 统一 ISBN 写法 |
+| 699008 | [`The Transformers: Spotlight Omnibus Volume 2`](https://bgm.tv/subject/699008) | 统一 ISBN 写法 |
 | 703935 | [`鎌倉署・小笠原亜澄の事件簿 稲村ヶ崎の落日`](https://bgm.tv/subject/703935) | 统一 ISBN 写法 |
-| 699008 | [`Transformers: Spotlight Omnibus Volume 2`](https://bgm.tv/subject/699008) | 统一 ISBN 写法 |
-| 699010 | [`Transformers: Dark Prelude`](https://bgm.tv/subject/699010) | 统一 ISBN 写法 |
+| 121898 | [`ガールズ&パンツァー コミックアンソロジー`](https://bgm.tv/subject/121898) | 统一 ISBN 写法 |
+| 706715 | [`Blood Communion: A Tale of Prince Lestat`](https://bgm.tv/subject/706715) | 统一 ISBN 写法 |
+| 707556 | [`Avalon: The Warlock Diaries Vol. 1`](https://bgm.tv/subject/707556) | 统一 ISBN 写法 |
+| 708155 | [`Cairo Jim in Search of Martenarten`](https://bgm.tv/subject/708155) | 统一 ISBN 写法 |
+| 699010 | [`The Transformers: Dark Prelude`](https://bgm.tv/subject/699010) | 统一 ISBN 写法 |
+| 17754 | [`グラン・ローヴァ物語 2`](https://bgm.tv/subject/17754) | 统一 ISBN 写法 |
 | 704430 | [`くちづけのそのあとで`](https://bgm.tv/subject/704430) | 统一 ISBN 写法 |
+| 707627 | [`The Art of Sam Yang`](https://bgm.tv/subject/707627) | 统一 ISBN 写法 |
+| 395630 | [`極めてかもしだ 1`](https://bgm.tv/subject/395630) | 统一 ISBN 写法 |
+| 395631 | [`極めてかもしだ 2`](https://bgm.tv/subject/395631) | 统一 ISBN 写法 |
+| 395632 | [`極めてかもしだ 3`](https://bgm.tv/subject/395632) | 统一 ISBN 写法 |
+| 708264 | [`極めてかもしだ 4`](https://bgm.tv/subject/708264) | 统一 ISBN 写法 |
+| 708265 | [`極めてかもしだ 5`](https://bgm.tv/subject/708265) | 统一 ISBN 写法 |
+| 708266 | [`極めてかもしだ 6`](https://bgm.tv/subject/708266) | 统一 ISBN 写法 |
 | 706001 | [`夢師アリス 上巻`](https://bgm.tv/subject/706001) | 统一 ISBN 写法 |
 | 706003 | [`夢師アリス 下巻`](https://bgm.tv/subject/706003) | 统一 ISBN 写法 |
 | 706253 | [`The King's City`](https://bgm.tv/subject/706253) | 统一 ISBN 写法 |
+| 706791 | [`The Trespassers`](https://bgm.tv/subject/706791) | 统一 ISBN 写法 |
 | 598004 | [`情繫三生：天寶`](https://bgm.tv/subject/598004) | 统一 ISBN 写法 |
+| 88596 | [`くまみこ (1)`](https://bgm.tv/subject/88596) | 统一 ISBN 写法 |
 | 706131 | [`Cold Boots`](https://bgm.tv/subject/706131) | 统一 ISBN 写法 |
 | 706286 | [`True Path`](https://bgm.tv/subject/706286) | 统一 ISBN 写法 |
