@@ -1,10 +1,17 @@
 # ISBN 错误
 ## <https://bgm.tv/group/topic/404801>
 
-total 244
+total 252
 
 | url | error |
 | --- |  ---  |
+| <https://bgm.tv/subject/1297> | 包含多个不匹配的 ISBN |
+| <https://bgm.tv/subject/1612> | 包含多个不匹配的 ISBN |
+| <https://bgm.tv/subject/15350> | 预期之外的 ISBN 格式 `761941249186` |
+| <https://bgm.tv/subject/47300> | 预期之外的 ISBN 格式 `97840471359` |
+| <https://bgm.tv/subject/111172> | 包含多个不匹配的 ISBN |
+| <https://bgm.tv/subject/111203> | 包含多个不匹配的 ISBN |
+| <https://bgm.tv/subject/112141> | 预期之外的 ISBN 格式 `4905052680725` |
 | <https://bgm.tv/subject/149650> | 预期之外的 ISBN 格式 `2013071002581` |
 | <https://bgm.tv/subject/164351> | 预期之外的 ISBN 格式 `276+3` |
 | <https://bgm.tv/subject/170525> | 预期之外的 ISBN 格式 `2003310016479` |
@@ -249,3 +256,4 @@ total 244
 | <https://bgm.tv/subject/697999> | 子版本 版本:ネクストF 中 ISBN-10 '4867150207' 对应的 ISBN-13 '9784867150207' 与已有的 ISBN-13 {'978-4867150207'} 不匹配 |
 | <https://bgm.tv/subject/698806> | 预期之外的 ISBN 格式 `978` |
 | <https://bgm.tv/subject/701212> | 不是合法的 isbn13 <code>9788217384853</code> |
+| <https://bgm.tv/subject/708059> | 预期之外的 ISBN 格式 `4560198229233` |
