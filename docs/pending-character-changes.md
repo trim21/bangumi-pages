@@ -1,9 +1,32 @@
 # 待处理的角色修改
 
-total 24
+total 47
 
 | id | 角色 | 修改类型 |
 | --- | --- | --- |
+| 227624 | [`크리스테`](https://bgm.tv/character/227624) | 删除不可见 Unicode 字符 |
+| 227620 | [`클라리사`](https://bgm.tv/character/227620) | 删除不可见 Unicode 字符 |
+| 227619 | [`페이`](https://bgm.tv/character/227619) | 删除不可见 Unicode 字符 |
+| 227616 | [`로자리아 르 프리데`](https://bgm.tv/character/227616) | 删除不可见 Unicode 字符 |
+| 227615 | [`로베르타`](https://bgm.tv/character/227615) | 删除不可见 Unicode 字符 |
+| 227614 | [`에밀리`](https://bgm.tv/character/227614) | 删除不可见 Unicode 字符 |
+| 227613 | [`레이시`](https://bgm.tv/character/227613) | 删除不可见 Unicode 字符 |
+| 227608 | [`하이디`](https://bgm.tv/character/227608) | 删除不可见 Unicode 字符 |
+| 227607 | [`에핀델`](https://bgm.tv/character/227607) | 删除不可见 Unicode 字符 |
+| 227606 | [`엘리사`](https://bgm.tv/character/227606) | 删除不可见 Unicode 字符 |
+| 227605 | [`키라`](https://bgm.tv/character/227605) | 删除不可见 Unicode 字符 |
+| 227604 | [`세이라`](https://bgm.tv/character/227604) | 删除不可见 Unicode 字符 |
+| 227586 | [`세라핀`](https://bgm.tv/character/227586) | 删除不可见 Unicode 字符 |
+| 227584 | [`타냐`](https://bgm.tv/character/227584) | 删除不可见 Unicode 字符 |
+| 227582 | [`다나`](https://bgm.tv/character/227582) | 删除不可见 Unicode 字符 |
+| 227579 | [`트리쉬`](https://bgm.tv/character/227579) | 删除不可见 Unicode 字符 |
+| 227575 | [`하리`](https://bgm.tv/character/227575) | 删除不可见 Unicode 字符 |
+| 227573 | [`페트라`](https://bgm.tv/character/227573) | 删除不可见 Unicode 字符 |
+| 227571 | [`릴리`](https://bgm.tv/character/227571) | 删除不可见 Unicode 字符 |
+| 227564 | [`루거`](https://bgm.tv/character/227564) | 删除不可见 Unicode 字符 |
+| 227560 | [`안나`](https://bgm.tv/character/227560) | 删除不可见 Unicode 字符 |
+| 227555 | [`클레어`](https://bgm.tv/character/227555) | 删除不可见 Unicode 字符 |
+| 227492 | [`스카렛`](https://bgm.tv/character/227492) | 删除不可见 Unicode 字符 |
 | 227402 | [`나루`](https://bgm.tv/character/227402) | 删除不可见 Unicode 字符 |
 | 227401 | [`베스타`](https://bgm.tv/character/227401) | 删除不可见 Unicode 字符 |
 | 227400 | [`베라`](https://bgm.tv/character/227400) | 删除不可见 Unicode 字符 |
