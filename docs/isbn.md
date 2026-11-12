@@ -1,7 +1,7 @@
 # ISBN 错误
 ## <https://bgm.tv/group/topic/404801>
 
-total 207
+total 208
 
 | url | error |
 | --- |  ---  |
@@ -212,3 +212,4 @@ total 207
 | <https://bgm.tv/subject/708059> | 预期之外的 ISBN 格式 `4560198229233` |
 | <https://bgm.tv/subject/714503> | 预期之外的 ISBN 格式 `078512324` |
 | <https://bgm.tv/subject/718369> | 预期之外的 ISBN 格式 `784098550357` |
+| <https://bgm.tv/subject/719621> | 包含多个 ISBN, 请手动拆分 '9784065453421(普通版)/9784065453438(特装版)' |
