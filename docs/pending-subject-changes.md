@@ -1,6 +1,6 @@
 # 待处理的条目修改
 
-total 188
+total 214
 
 | id | 条目 | 修改类型 |
 | --- | --- | --- |
@@ -29,6 +29,7 @@ total 188
 | 711147 | [`The Massive Volume 3: Longship`](https://bgm.tv/subject/711147) | 删除不可见 Unicode 字符 |
 | 708583 | [`Dept. H Volume 3: Decompressed`](https://bgm.tv/subject/708583) | 删除不可见 Unicode 字符 |
 | 713266 | [`ロスタイムに餞を Home and Away`](https://bgm.tv/subject/713266) | 删除不可见 Unicode 字符 |
+| 721078 | [`Master of The Earth: Chapter 1`](https://bgm.tv/subject/721078) | 删除不可见 Unicode 字符 |
 | 719016 | [`守護神の住む地 -Ein Weltende-`](https://bgm.tv/subject/719016) | 删除不可见 Unicode 字符 |
 | 716998 | [`にゃんにゃんきゅるるん猫濃度`](https://bgm.tv/subject/716998) | 删除不可见 Unicode 字符 |
 | 707225 | [`Fm45's Sprite Man Adventures`](https://bgm.tv/subject/707225) | 删除不可见 Unicode 字符 |
@@ -36,9 +37,11 @@ total 188
 | 712755 | [`Space Usagi: Death and Honor`](https://bgm.tv/subject/712755) | 删除不可见 Unicode 字符 |
 | 706673 | [`重生团宠：影帝夫人又穷又凶​`](https://bgm.tv/subject/706673) | 删除不可见 Unicode 字符 |
 | 711772 | [`The Return of the Gremlins`](https://bgm.tv/subject/711772) | 删除不可见 Unicode 字符 |
+| 447233 | [`극악한 그대를 살리기 위해`](https://bgm.tv/subject/447233) | 删除不可见 Unicode 字符 |
 | 714308 | [`最強の暗殺者、猫になる。`](https://bgm.tv/subject/714308) | 删除不可见 Unicode 字符 |
-| 704052 | [`The Electric Shocktopus`](https://bgm.tv/subject/704052) | 删除不可见 Unicode 字符 |
+| 720774 | [`あの日にかえりたくはない`](https://bgm.tv/subject/720774) | 删除不可见 Unicode 字符 |
 | 690134 | [`おさななじみと夏の7日間`](https://bgm.tv/subject/690134) | 删除不可见 Unicode 字符 |
+| 704052 | [`The Electric Shocktopus`](https://bgm.tv/subject/704052) | 删除不可见 Unicode 字符 |
 | 706314 | [`Realm of the Ghost King`](https://bgm.tv/subject/706314) | 删除不可见 Unicode 字符 |
 | 707347 | [`Bill and Ted Are Doomed`](https://bgm.tv/subject/707347) | 删除不可见 Unicode 字符 |
 | 708654 | [`Emily and the Strangers`](https://bgm.tv/subject/708654) | 删除不可见 Unicode 字符 |
@@ -46,9 +49,10 @@ total 188
 | 704151 | [`TURGUL: RAPID FIGHTING`](https://bgm.tv/subject/704151) | 删除不可见 Unicode 字符 |
 | 705085 | [`Peninsular War Battles`](https://bgm.tv/subject/705085) | 删除不可见 Unicode 字符 |
 | 711379 | [`The story begins -RE:-`](https://bgm.tv/subject/711379) | 删除不可见 Unicode 字符 |
+| 720766 | [`ミッドナイト・スナック`](https://bgm.tv/subject/720766) | 删除不可见 Unicode 字符 |
+| 718124 | [`我的房分你一半 第一季`](https://bgm.tv/subject/718124) | 删除不可见 Unicode 字符 |
 | 625794 | [`カルドセプト ビギンズ`](https://bgm.tv/subject/625794) | 删除不可见 Unicode 字符 |
 | 703308 | [`Guardians of Victoria`](https://bgm.tv/subject/703308) | 删除不可见 Unicode 字符 |
-| 718124 | [`我的房分你一半 第一季`](https://bgm.tv/subject/718124) | 删除不可见 Unicode 字符 |
 | 3013 | [`ご愁傷さま二ノ宮くん`](https://bgm.tv/subject/3013) | 删除不可见 Unicode 字符 |
 | 704453 | [`くちづけのそのあとで​`](https://bgm.tv/subject/704453) | 删除不可见 Unicode 字符 |
 | 706335 | [`Struggle For Talyria`](https://bgm.tv/subject/706335) | 删除不可见 Unicode 字符 |
@@ -60,6 +64,7 @@ total 188
 | 706333 | [`Gachimuchi Reloaded`](https://bgm.tv/subject/706333) | 删除不可见 Unicode 字符 |
 | 707107 | [`Dragon's Vengeance`](https://bgm.tv/subject/707107) | 删除不可见 Unicode 字符 |
 | 710027 | [`The Guild Volume 2`](https://bgm.tv/subject/710027) | 删除不可见 Unicode 字符 |
+| 720776 | [`イン・ザ・ボックス`](https://bgm.tv/subject/720776) | 删除不可见 Unicode 字符 |
 | 704783 | [`Booper, Get Home!`](https://bgm.tv/subject/704783) | 删除不可见 Unicode 字符 |
 | 705171 | [`Football Mogul 18`](https://bgm.tv/subject/705171) | 删除不可见 Unicode 字符 |
 | 706502 | [`Desktop Dinosaurs`](https://bgm.tv/subject/706502) | 删除不可见 Unicode 字符 |
@@ -67,47 +72,66 @@ total 188
 | 704831 | [`Boobs vs Zombies`](https://bgm.tv/subject/704831) | 删除不可见 Unicode 字符 |
 | 702493 | [`Virtual Families`](https://bgm.tv/subject/702493) | 删除不可见 Unicode 字符 |
 | 709920 | [`インクルージョン`](https://bgm.tv/subject/709920) | 删除不可见 Unicode 字符 |
+| 720770 | [`はじめてのあくじ`](https://bgm.tv/subject/720770) | 删除不可见 Unicode 字符 |
+| 720771 | [`性にまつわる短編`](https://bgm.tv/subject/720771) | 删除不可见 Unicode 字符 |
+| 720781 | [`スブダニの夏休み`](https://bgm.tv/subject/720781) | 删除不可见 Unicode 字符 |
 | 704383 | [`Introvert Quest`](https://bgm.tv/subject/704383) | 删除不可见 Unicode 字符 |
 | 705306 | [`Ghostly Horizon`](https://bgm.tv/subject/705306) | 删除不可见 Unicode 字符 |
 | 706375 | [`They have HORNS`](https://bgm.tv/subject/706375) | 删除不可见 Unicode 字符 |
 | 711338 | [`Rain Rëflection`](https://bgm.tv/subject/711338) | 删除不可见 Unicode 字符 |
 | 719243 | [`상수리나무 아래​`](https://bgm.tv/subject/719243) | 删除不可见 Unicode 字符 |
-| 703480 | [`Tick Tock Isle`](https://bgm.tv/subject/703480) | 删除不可见 Unicode 字符 |
-| 580055 | [`あなたを殺す旅`](https://bgm.tv/subject/580055) | 删除不可见 Unicode 字符 |
 | 718577 | [`三国演义有声剧`](https://bgm.tv/subject/718577) | 删除不可见 Unicode 字符 |
+| 580055 | [`あなたを殺す旅`](https://bgm.tv/subject/580055) | 删除不可见 Unicode 字符 |
+| 703480 | [`Tick Tock Isle`](https://bgm.tv/subject/703480) | 删除不可见 Unicode 字符 |
 | 703855 | [`Return Zero VR`](https://bgm.tv/subject/703855) | 删除不可见 Unicode 字符 |
 | 704391 | [`Juniper Theory`](https://bgm.tv/subject/704391) | 删除不可见 Unicode 字符 |
 | 705183 | [`Silicon Zeroes`](https://bgm.tv/subject/705183) | 删除不可见 Unicode 字符 |
 | 706108 | [`老婆粉了解一下​`](https://bgm.tv/subject/706108) | 删除不可见 Unicode 字符 |
 | 706136 | [`老婆粉了解一下​​`](https://bgm.tv/subject/706136) | 删除不可见 Unicode 字符 |
 | 710576 | [`House of Night`](https://bgm.tv/subject/710576) | 删除不可见 Unicode 字符 |
+| 720769 | [`チキュウズィン`](https://bgm.tv/subject/720769) | 删除不可见 Unicode 字符 |
+| 720772 | [`天使の生存戦略`](https://bgm.tv/subject/720772) | 删除不可见 Unicode 字符 |
+| 720775 | [`途方に暮れ放題`](https://bgm.tv/subject/720775) | 删除不可见 Unicode 字符 |
+| 721367 | [`The Undead War`](https://bgm.tv/subject/721367) | 删除不可见 Unicode 字符 |
 | 702688 | [`Max Gentlemen`](https://bgm.tv/subject/702688) | 删除不可见 Unicode 字符 |
 | 702460 | [`RIP - Trilogy`](https://bgm.tv/subject/702460) | 删除不可见 Unicode 字符 |
 | 702465 | [`Venice Deluxe`](https://bgm.tv/subject/702465) | 删除不可见 Unicode 字符 |
 | 716168 | [`爵迹·临界天下`](https://bgm.tv/subject/716168) | 删除不可见 Unicode 字符 |
 | 718908 | [`쓰레기의 사정​`](https://bgm.tv/subject/718908) | 删除不可见 Unicode 字符 |
+| 720779 | [`あまね on WAX`](https://bgm.tv/subject/720779) | 删除不可见 Unicode 字符 |
+| 720978 | [`Flappy Octane`](https://bgm.tv/subject/720978) | 删除不可见 Unicode 字符 |
 | 661717 | [`Hull Rupture`](https://bgm.tv/subject/661717) | 删除不可见 Unicode 字符 |
 | 705011 | [`StickDodgeVR`](https://bgm.tv/subject/705011) | 删除不可见 Unicode 字符 |
 | 710271 | [`Raygun Chess`](https://bgm.tv/subject/710271) | 删除不可见 Unicode 字符 |
 | 713172 | [`Quince Blume`](https://bgm.tv/subject/713172) | 删除不可见 Unicode 字符 |
+| 720421 | [`还珠格格手游`](https://bgm.tv/subject/720421) | 删除不可见 Unicode 字符 |
+| 720764 | [`ミーカとイツ`](https://bgm.tv/subject/720764) | 删除不可见 Unicode 字符 |
+| 720765 | [`からくり彼女`](https://bgm.tv/subject/720765) | 删除不可见 Unicode 字符 |
+| 720777 | [`スロウアップ`](https://bgm.tv/subject/720777) | 删除不可见 Unicode 字符 |
+| 720778 | [`さんぞうさん`](https://bgm.tv/subject/720778) | 删除不可见 Unicode 字符 |
+| 720783 | [`薩哈嗹幻視國`](https://bgm.tv/subject/720783) | 删除不可见 Unicode 字符 |
 | 703643 | [`A Tofu Tail`](https://bgm.tv/subject/703643) | 删除不可见 Unicode 字符 |
 | 711141 | [`The Massive`](https://bgm.tv/subject/711141) | 删除不可见 Unicode 字符 |
 | 719219 | [`잊혀진 들판​`](https://bgm.tv/subject/719219) | 删除不可见 Unicode 字符 |
 | 704471 | [`Cubians VR`](https://bgm.tv/subject/704471) | 删除不可见 Unicode 字符 |
 | 715868 | [`我看你有戏`](https://bgm.tv/subject/715868) | 删除不可见 Unicode 字符 |
 | 715870 | [`梦想的声音`](https://bgm.tv/subject/715870) | 删除不可见 Unicode 字符 |
-| 719365 | [`Star Tales`](https://bgm.tv/subject/719365) | 删除不可见 Unicode 字符 |
 | 718588 | [`セ ラ ヴィ`](https://bgm.tv/subject/718588) | 删除不可见 Unicode 字符 |
+| 719365 | [`Star Tales`](https://bgm.tv/subject/719365) | 删除不可见 Unicode 字符 |
+| 720953 | [`Kid Hallow`](https://bgm.tv/subject/720953) | 删除不可见 Unicode 字符 |
 | 703397 | [`Ookibloks`](https://bgm.tv/subject/703397) | 删除不可见 Unicode 字符 |
 | 703870 | [`Blortasia`](https://bgm.tv/subject/703870) | 删除不可见 Unicode 字符 |
 | 719013 | [`러브 오더`](https://bgm.tv/subject/719013) | 删除不可见 Unicode 字符 |
+| 720922 | [`Fleshport`](https://bgm.tv/subject/720922) | 删除不可见 Unicode 字符 |
 | 712555 | [`壮士出征`](https://bgm.tv/subject/712555) | 删除不可见 Unicode 字符 |
+| 721185 | [`51:22:51`](https://bgm.tv/subject/721185) | 删除不可见 Unicode 字符 |
 | 717886 | [`四大名助`](https://bgm.tv/subject/717886) | 删除不可见 Unicode 字符 |
 | 716092 | [`大人物`](https://bgm.tv/subject/716092) | 删除不可见 Unicode 字符 |
 | 718236 | [`兰陵王`](https://bgm.tv/subject/718236) | 删除不可见 Unicode 字符 |
 | 719276 | [`맞바람​`](https://bgm.tv/subject/719276) | 删除不可见 Unicode 字符 |
 | 719347 | [`DELETE​`](https://bgm.tv/subject/719347) | 删除不可见 Unicode 字符 |
 | 719380 | [`美人鱼`](https://bgm.tv/subject/719380) | 删除不可见 Unicode 字符 |
+| 720768 | [`赤い月`](https://bgm.tv/subject/720768) | 删除不可见 Unicode 字符 |
 | 703775 | [`OESE`](https://bgm.tv/subject/703775) | 删除不可见 Unicode 字符 |
 | 704184 | [`CUDA`](https://bgm.tv/subject/704184) | 删除不可见 Unicode 字符 |
 | 73900 | [`問題児たちが異世界から来るそうですよ？ Vol.1 特典CD`](https://bgm.tv/subject/73900) | 删除重复字段 |
@@ -115,9 +139,9 @@ total 188
 | 708155 | [`Cairo Jim in Search of Martenarten`](https://bgm.tv/subject/708155) | 删除重复字段 |
 | 285455 | [`火垂るの墓 ―ほたるのはか―`](https://bgm.tv/subject/285455) | 删除重复字段 |
 | 7348 | [`STAR DRIVER 輝きのタクト`](https://bgm.tv/subject/7348) | 删除重复字段 |
+| 89706 | [`劇場版 NINKU -忍空-`](https://bgm.tv/subject/89706) | 删除重复字段 |
 | 132959 | [`12人の優しい日本人`](https://bgm.tv/subject/132959) | 删除重复字段 |
 | 712665 | [`Get Smart, Again!`](https://bgm.tv/subject/712665) | 删除重复字段 |
-| 168867 | [`トキワ荘の青春`](https://bgm.tv/subject/168867) | 删除重复字段 |
 | 719645 | [`Night of Bloom`](https://bgm.tv/subject/719645) | 删除重复字段 |
 | 262709 | [`神ノ牙-JINGA-`](https://bgm.tv/subject/262709) | 删除重复字段 |
 | 199401 | [`愛を乞うひと`](https://bgm.tv/subject/199401) | 删除重复字段 |
@@ -147,10 +171,10 @@ total 188
 | 121898 | [`ガールズ&パンツァー コミックアンソロジー`](https://bgm.tv/subject/121898) | 统一 ISBN 写法 |
 | 706715 | [`Blood Communion: A Tale of Prince Lestat`](https://bgm.tv/subject/706715) | 统一 ISBN 写法 |
 | 709506 | [`The Art of Magic: The Gathering - Ixalan`](https://bgm.tv/subject/709506) | 统一 ISBN 写法 |
+| 717780 | [`ラジオの仏 : 山本の夢辞書1975-2004`](https://bgm.tv/subject/717780) | 统一 ISBN 写法 |
 | 304148 | [`陰獣トリステサ― 池上遼一幻想作品集`](https://bgm.tv/subject/304148) | 统一 ISBN 写法 |
 | 708155 | [`Cairo Jim in Search of Martenarten`](https://bgm.tv/subject/708155) | 统一 ISBN 写法 |
 | 707556 | [`Avalon: The Warlock Diaries Vol. 1`](https://bgm.tv/subject/707556) | 统一 ISBN 写法 |
-| 717780 | [`ラジオの仏 : 山本の夢辞書1975-2004`](https://bgm.tv/subject/717780) | 统一 ISBN 写法 |
 | 712054 | [`百合写真集 オンナノコたちのヒミツ`](https://bgm.tv/subject/712054) | 统一 ISBN 写法 |
 | 719264 | [`裏町セレナーデ : 滝田ゆう作品集`](https://bgm.tv/subject/719264) | 统一 ISBN 写法 |
 | 603281 | [`アンジェリーク ルトゥール（2）`](https://bgm.tv/subject/603281) | 统一 ISBN 写法 |
@@ -172,6 +196,7 @@ total 188
 | 708862 | [`一撃悩殺♡サツキ先生`](https://bgm.tv/subject/708862) | 统一 ISBN 写法 |
 | 710396 | [`終着駅で待ち合わせ`](https://bgm.tv/subject/710396) | 统一 ISBN 写法 |
 | 719156 | [`The Garden of Rama`](https://bgm.tv/subject/719156) | 统一 ISBN 写法 |
+| 720782 | [`怪談のテープ起こし`](https://bgm.tv/subject/720782) | 统一 ISBN 写法 |
 | 713221 | [`無関係な死•時の崖`](https://bgm.tv/subject/713221) | 统一 ISBN 写法 |
 | 708266 | [`極めてかもしだ 6`](https://bgm.tv/subject/708266) | 统一 ISBN 写法 |
 | 708265 | [`極めてかもしだ 5`](https://bgm.tv/subject/708265) | 统一 ISBN 写法 |
@@ -191,4 +216,5 @@ total 188
 | 608387 | [`十鬼の絆 弐`](https://bgm.tv/subject/608387) | 统一 ISBN 写法 |
 | 706131 | [`Cold Boots`](https://bgm.tv/subject/706131) | 统一 ISBN 写法 |
 | 706286 | [`True Path`](https://bgm.tv/subject/706286) | 统一 ISBN 写法 |
+| 720795 | [`花あらし`](https://bgm.tv/subject/720795) | 统一 ISBN 写法 |
 | 711468 | [`Snuff`](https://bgm.tv/subject/711468) | 统一 ISBN 写法 |
