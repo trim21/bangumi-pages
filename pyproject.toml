@@ -3,7 +3,7 @@ name = "bangumi-pages"
 version = "0.1.0"
 description = "Zensical site for bangumi-pages"
 readme = "readme.md"
-requires-python = ">=3.10"
+requires-python = ">=3.14"
 dependencies = [
     "zensical==0.1.3",
 ]
