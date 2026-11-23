@@ -24,7 +24,7 @@ jobs:
         with:
           activate-environment: "true"
 
-      - run: uv sync --frozen
+      - run: uv sync --locked
 
       - run: zensical build
 
