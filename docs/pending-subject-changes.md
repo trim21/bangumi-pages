@@ -1,6 +1,6 @@
 # 待处理的条目修改
 
-total 328
+total 331
 
 | id | 条目 | 修改类型 |
 | --- | --- | --- |
@@ -38,6 +38,7 @@ total 328
 | 716368 | [`내 ID는 강남미인! - 둘만의 시간`](https://bgm.tv/subject/716368) | 删除不可见 Unicode 字符 |
 | 721851 | [`Anime Girls: Highschool of Dead`](https://bgm.tv/subject/721851) | 删除不可见 Unicode 字符 |
 | 729989 | [`Ghoulboy - Dark Sword of Goblin`](https://bgm.tv/subject/729989) | 删除不可见 Unicode 字符 |
+| 725548 | [`Hammer & Harvest: Dwarven Roots`](https://bgm.tv/subject/725548) | 删除不可见 Unicode 字符 |
 | 708583 | [`Dept. H Volume 3: Decompressed`](https://bgm.tv/subject/708583) | 删除不可见 Unicode 字符 |
 | 711147 | [`The Massive Volume 3: Longship`](https://bgm.tv/subject/711147) | 删除不可见 Unicode 字符 |
 | 713266 | [`ロスタイムに餞を Home and Away`](https://bgm.tv/subject/713266) | 删除不可见 Unicode 字符 |
@@ -54,6 +55,7 @@ total 328
 | 711772 | [`The Return of the Gremlins`](https://bgm.tv/subject/711772) | 删除不可见 Unicode 字符 |
 | 730578 | [`After School Murder Club!!`](https://bgm.tv/subject/730578) | 删除不可见 Unicode 字符 |
 | 706673 | [`重生团宠：影帝夫人又穷又凶​`](https://bgm.tv/subject/706673) | 删除不可见 Unicode 字符 |
+| 734696 | [`Bryan Talbot's Brainstorm!`](https://bgm.tv/subject/734696) | 删除不可见 Unicode 字符 |
 | 447233 | [`극악한 그대를 살리기 위해`](https://bgm.tv/subject/447233) | 删除不可见 Unicode 字符 |
 | 730206 | [`Mission: It's Complicated`](https://bgm.tv/subject/730206) | 删除不可见 Unicode 字符 |
 | 714308 | [`最強の暗殺者、猫になる。`](https://bgm.tv/subject/714308) | 删除不可见 Unicode 字符 |
@@ -155,12 +157,12 @@ total 328
 | 718908 | [`쓰레기의 사정​`](https://bgm.tv/subject/718908) | 删除不可见 Unicode 字符 |
 | 720779 | [`あまね on WAX`](https://bgm.tv/subject/720779) | 删除不可见 Unicode 字符 |
 | 720978 | [`Flappy Octane`](https://bgm.tv/subject/720978) | 删除不可见 Unicode 字符 |
-| 724407 | [`Bikini Island`](https://bgm.tv/subject/724407) | 删除不可见 Unicode 字符 |
 | 725042 | [`Pigeon Hunter`](https://bgm.tv/subject/725042) | 删除不可见 Unicode 字符 |
 | 725147 | [`Scanner Force`](https://bgm.tv/subject/725147) | 删除不可见 Unicode 字符 |
 | 728166 | [`Pictassembler`](https://bgm.tv/subject/728166) | 删除不可见 Unicode 字符 |
 | 733659 | [`Blink Planets`](https://bgm.tv/subject/733659) | 删除不可见 Unicode 字符 |
 | 722300 | [`Furry College`](https://bgm.tv/subject/722300) | 删除不可见 Unicode 字符 |
+| 724407 | [`Bikini Island`](https://bgm.tv/subject/724407) | 删除不可见 Unicode 字符 |
 | 661717 | [`Hull Rupture`](https://bgm.tv/subject/661717) | 删除不可见 Unicode 字符 |
 | 705011 | [`StickDodgeVR`](https://bgm.tv/subject/705011) | 删除不可见 Unicode 字符 |
 | 710271 | [`Raygun Chess`](https://bgm.tv/subject/710271) | 删除不可见 Unicode 字符 |
@@ -202,7 +204,6 @@ total 328
 | 731880 | [`BMX Gravel`](https://bgm.tv/subject/731880) | 删除不可见 Unicode 字符 |
 | 733431 | [`Astrobound`](https://bgm.tv/subject/733431) | 删除不可见 Unicode 字符 |
 | 733806 | [`cold death`](https://bgm.tv/subject/733806) | 删除不可见 Unicode 字符 |
-| 703870 | [`Blortasia`](https://bgm.tv/subject/703870) | 删除不可见 Unicode 字符 |
 | 703397 | [`Ookibloks`](https://bgm.tv/subject/703397) | 删除不可见 Unicode 字符 |
 | 720922 | [`Fleshport`](https://bgm.tv/subject/720922) | 删除不可见 Unicode 字符 |
 | 719013 | [`러브 오더`](https://bgm.tv/subject/719013) | 删除不可见 Unicode 字符 |
@@ -211,10 +212,10 @@ total 328
 | 724454 | [`h8machine`](https://bgm.tv/subject/724454) | 删除不可见 Unicode 字符 |
 | 724829 | [`Pipo Park`](https://bgm.tv/subject/724829) | 删除不可见 Unicode 字符 |
 | 731649 | [`Above Par`](https://bgm.tv/subject/731649) | 删除不可见 Unicode 字符 |
+| 703870 | [`Blortasia`](https://bgm.tv/subject/703870) | 删除不可见 Unicode 字符 |
 | 712555 | [`壮士出征`](https://bgm.tv/subject/712555) | 删除不可见 Unicode 字符 |
 | 717886 | [`四大名助`](https://bgm.tv/subject/717886) | 删除不可见 Unicode 字符 |
 | 727205 | [`Flare Up`](https://bgm.tv/subject/727205) | 删除不可见 Unicode 字符 |
-| 721185 | [`51:22:51`](https://bgm.tv/subject/721185) | 删除不可见 Unicode 字符 |
 | 723004 | [`Here Nya`](https://bgm.tv/subject/723004) | 删除不可见 Unicode 字符 |
 | 723968 | [`Fishards`](https://bgm.tv/subject/723968) | 删除不可见 Unicode 字符 |
 | 724081 | [`Emoji TD`](https://bgm.tv/subject/724081) | 删除不可见 Unicode 字符 |
@@ -222,6 +223,7 @@ total 328
 | 728239 | [`Farwoods`](https://bgm.tv/subject/728239) | 删除不可见 Unicode 字符 |
 | 732749 | [`OrbRider`](https://bgm.tv/subject/732749) | 删除不可见 Unicode 字符 |
 | 732939 | [`Ardarium`](https://bgm.tv/subject/732939) | 删除不可见 Unicode 字符 |
+| 721185 | [`51:22:51`](https://bgm.tv/subject/721185) | 删除不可见 Unicode 字符 |
 | 727878 | [`Tank 99`](https://bgm.tv/subject/727878) | 删除不可见 Unicode 字符 |
 | 731304 | [`Pusheep`](https://bgm.tv/subject/731304) | 删除不可见 Unicode 字符 |
 | 716092 | [`大人物`](https://bgm.tv/subject/716092) | 删除不可见 Unicode 字符 |
@@ -332,3 +334,4 @@ total 328
 | 722161 | [`青い罠`](https://bgm.tv/subject/722161) | 统一 ISBN 写法 |
 | 711468 | [`Snuff`](https://bgm.tv/subject/711468) | 统一 ISBN 写法 |
 | 725113 | [`荘子`](https://bgm.tv/subject/725113) | 统一 ISBN 写法 |
+| 734590 | [`芭蕉`](https://bgm.tv/subject/734590) | 统一 ISBN 写法 |
