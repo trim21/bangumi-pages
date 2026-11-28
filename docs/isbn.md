@@ -1,7 +1,7 @@
 # ISBN 错误
 ## <https://bgm.tv/group/topic/404801>
 
-total 213
+total 214
 
 | url | error |
 | --- |  ---  |
@@ -218,3 +218,4 @@ total 213
 | <https://bgm.tv/subject/719621> | 包含多个 ISBN, 请手动拆分 '9784065453421(普通版)/9784065453438(特装版)' |
 | <https://bgm.tv/subject/719954> | 不是合法的 isbn13 <code>9784065372748</code> |
 | <https://bgm.tv/subject/732611> | 重复出现的 ISBN '9781975311278' |
+| <https://bgm.tv/subject/734963> | 预期之外的 ISBN 格式 `12` |
