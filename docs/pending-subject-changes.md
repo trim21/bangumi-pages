@@ -1,6 +1,6 @@
 # 待处理的条目修改
 
-total 331
+total 332
 
 | id | 条目 | 修改类型 |
 | --- | --- | --- |
@@ -183,6 +183,7 @@ total 331
 | 732057 | [`Ace In Space`](https://bgm.tv/subject/732057) | 删除不可见 Unicode 字符 |
 | 733800 | [`미남이시네요​`](https://bgm.tv/subject/733800) | 删除不可见 Unicode 字符 |
 | 734266 | [`25時、赤坂で`](https://bgm.tv/subject/734266) | 删除不可见 Unicode 字符 |
+| 726818 | [`Blightsilver`](https://bgm.tv/subject/726818) | 删除不可见 Unicode 字符 |
 | 703643 | [`A Tofu Tail`](https://bgm.tv/subject/703643) | 删除不可见 Unicode 字符 |
 | 711141 | [`The Massive`](https://bgm.tv/subject/711141) | 删除不可见 Unicode 字符 |
 | 719219 | [`잊혀진 들판​`](https://bgm.tv/subject/719219) | 删除不可见 Unicode 字符 |
